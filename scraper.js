@@ -68,7 +68,16 @@ async function scrapeCurrentPage(page) {
       element
     );
 
-    results.push({ title, textContent });
+    const ulElement = await element.$(
+      "ul[itemprop='disambiguatingDescription']"
+    );
+    let m2 = await ulElement.$eval("li", (li) => li.textContent.trim());
+    m2 = m2.replace(" m2", "").replace(",", ".");
+    const leto_gradnje = await ulElement.$eval("li:nth-child(2)", (li) =>
+      li.textContent.trim()
+    );
+
+    results.push({ title, textContent, m2, leto_gradnje });
   }
   return results;
 }
@@ -88,27 +97,29 @@ function parseResults(results) {
     // console.log(result);
     const columns = result.textContent.split(" ");
     const title = result.title;
+    const m2 = result.m2;
+    const leto_gradnje = result.leto_gradnje;
     // console.log(columns);
 
     const tipIndex = columns.indexOf("Stanovanje,");
     const stSobIndex = columns.findIndex((word) => word.includes("-sobno"));
-    const m2Index = columns.indexOf("m2");
     const adaptiranoIndex = columns.indexOf("adaptirano");
     const tipPonudbe = columns.includes("Zasebna") ? "Zasebna" : "Agencija";
     const cenaIndex = columns.indexOf("€");
 
-    const cena =
+    let cena =
       cenaIndex !== -1
         ? columns[cenaIndex - 1].replace(",00", "").replace('"', "")
         : null;
-    const m2 =
-      m2Index !== -1
-        ? parseFloat(columns[m2Index - 1].replace(",", "."))
-        : null;
+    if (cena !== null) {
+      cena = cena.split(",")[0];
+    }
     columns[tipIndex] = columns[tipIndex].replace(",", "").replace('"', "");
-    const st_sob =
-      stSobIndex !== -1 ? columns[stSobIndex].replace("-sobno", "") : null;
-    const leto_gradnje = columns[m2Index + 1].replace(",", "");
+    let st_sob =
+      stSobIndex !== -1
+        ? columns[stSobIndex].replace("-sobno", "").replace(",", ".")
+        : null;
+    st_sob = typeof st_sob === "string" ? parseFloat(st_sob) : st_sob;
     let adaptirano =
       columns[adaptiranoIndex] !== -1
         ? columns[adaptiranoIndex + 2].replace(",", "").replace('"', "")
@@ -152,7 +163,19 @@ async function saveToCsv(data, filename) {
     append: true,
   });
   if (globalIdCounter === 26) {
-    await csvWriterInstance.writeRecords([{}]);
+    await csvWriterInstance.writeRecords([
+      {
+        id: "id",
+        tip: "tip",
+        st_sob: "st_sob",
+        lokacija: "lokacija",
+        m2: "m2",
+        leto_gradnje: "leto_gradnje",
+        leto_adaptacije: "leto_adaptacije",
+        tip_ponudbe: "tip_ponudbe",
+        cena: "cena",
+      },
+    ]);
   }
   await csvWriterInstance.writeRecords(data);
 }
