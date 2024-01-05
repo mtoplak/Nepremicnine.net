@@ -1,6 +1,7 @@
 module.exports.zanimanja = [
   "https://www.nepremicnine.net/oglasi-prodaja/podravska/stanovanje/",
   "https://www.nepremicnine.net/oglasi-prodaja/ljubljana-mesto/stanovanje/",
+  "https://www.nepremicnine.net/oglasi-prodaja/podravska/hisa/",
 ];
 
 module.exports.options = {

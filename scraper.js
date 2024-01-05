@@ -56,8 +56,15 @@ async function scrapeWebsite() {
 }
 
 async function scrapeCurrentPage(page) {
-  await page.waitForSelector(".property-details");
+  // Extracting location from the URL
+  const url = page.url();
+  const regionMatch = url.match(/oglasi-prodaja\/([^\/]+)/);
+  const lokacija = regionMatch ? regionMatch[1] : "";
+  // Extracting category from the URL
+  const urlParts = url.split("/");
+  const tip = urlParts[5] || "";
 
+  await page.waitForSelector(".property-details");
   const elements = await page.$$(".property-details");
   const results = [];
   for (const element of elements) {
@@ -77,7 +84,7 @@ async function scrapeCurrentPage(page) {
       li.textContent.trim()
     );
 
-    results.push({ title, textContent, m2, leto_gradnje });
+    results.push({ title, textContent, m2, leto_gradnje, lokacija, tip });
   }
   return results;
 }
@@ -99,14 +106,19 @@ function parseResults(results) {
     const title = result.title;
     const m2 = result.m2;
     const leto_gradnje = result.leto_gradnje;
+    const lokacija = result.lokacija;
+    const tip = result.tip;
     // console.log(columns);
 
-    const tipIndex = columns.indexOf("Stanovanje,");
     const stSobIndex = columns.findIndex((word) => word.includes("-sobno"));
     const adaptiranoIndex = columns.indexOf("adaptirano");
     const tipPonudbe = columns.includes("Zasebna") ? "Zasebna" : "Agencija";
     const cenaIndex = columns.indexOf("€");
 
+    let hisa_tip;
+    if (tip == "hisa") {
+      hisa_tip = columns[columns.indexOf("Hiša,") + 1];
+    }
     let cena =
       cenaIndex !== -1
         ? columns[cenaIndex - 1].replace(",00", "").replace('"', "")
@@ -114,7 +126,6 @@ function parseResults(results) {
     if (cena !== null) {
       cena = cena.split(",")[0];
     }
-    columns[tipIndex] = columns[tipIndex].replace(",", "").replace('"', "");
     let st_sob =
       stSobIndex !== -1
         ? columns[stSobIndex].replace("-sobno", "").replace(",", ".")
@@ -127,6 +138,7 @@ function parseResults(results) {
     if (
       adaptirano == "Stanovanje" ||
       adaptirano == "spreglejte" ||
+      adaptirano == "Hiša" ||
       leto_gradnje > 2016
     ) {
       adaptirano = null;
@@ -134,9 +146,11 @@ function parseResults(results) {
 
     return {
       id: globalIdCounter++,
-      tip: columns[tipIndex],
+      tip: tip,
       st_sob: st_sob,
-      lokacija: title,
+      hisa_tip: hisa_tip,
+      lokacija: lokacija,
+      lokacija_podrobno: title,
       m2: m2,
       leto_gradnje: leto_gradnje,
       leto_adaptacije: adaptirano,
@@ -153,7 +167,9 @@ async function saveToCsv(data, filename) {
       { id: "id", title: "ID" },
       { id: "tip", title: "tip" },
       { id: "st_sob", title: "st_sob" },
+      { id: "hisa_tip", title: "hisa_tip" },
       { id: "lokacija", title: "lokacija" },
+      { id: "lokacija_podrobno", title: "lokacija_podrobno" },
       { id: "m2", title: "m2" },
       { id: "leto_gradnje", title: "leto_gradnje" },
       { id: "leto_adaptacije", title: "leto_adaptacije" },
@@ -168,7 +184,9 @@ async function saveToCsv(data, filename) {
         id: "id",
         tip: "tip",
         st_sob: "st_sob",
+        hisa_tip: "hisa_tip",
         lokacija: "lokacija",
+        lokacija_podrobno: "lokacija_podrobno",
         m2: "m2",
         leto_gradnje: "leto_gradnje",
         leto_adaptacije: "leto_adaptacije",
