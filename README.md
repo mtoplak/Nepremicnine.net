@@ -2,7 +2,7 @@
 
 Put your URLs of interest from [nepremicnine.net](https://www.nepremicnine.net/) into `zanimanja` array in `options.js` file.
 
-## Install dependencies
+## Install dependencies for scraper
 
 ```bash
 npm install
@@ -12,4 +12,10 @@ npm install
 
 ```bash
 node scraper.js
+```
+
+## Install python libraries
+
+```bash
+pip install -r requirements.txt
 ```
