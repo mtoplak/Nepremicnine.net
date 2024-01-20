@@ -1,1 +1,1960 @@
 id,tip,st_sob,hisa_tip,lokacija,lokacija_podrobno,m2,leto_gradnje,leto_adaptacije,tip_ponudbe,cena
+1,stanovanje,1,,podravska,"TABOR, MARIBOR",32.00,1970,,Zasebna,89.000
+2,stanovanje,3,,podravska,PLINTOVEC,74.00,2009,,Agencija,235.000
+3,stanovanje,3,,podravska,VRANJI VRH,83.10,2010,2010,Zasebna,141.000
+4,stanovanje,4,,podravska,MARIBOR,141.10,2023,,Agencija,317.591
+5,stanovanje,4,,podravska,ZGORNJA KUNGOTA,140.20,2023,,Agencija,316.255
+6,stanovanje,4,,podravska,ZGORNJA KUNGOTA,133.50,2023,,Agencija,294.459
+7,stanovanje,3,,podravska,TEZNO,72.40,1974,2017,Agencija,134.500
+8,stanovanje,4,,podravska,ZGORNJA KUNGOTA,127.47,2023,,Agencija,287.814
+9,stanovanje,3,,podravska,ZGORNJA KUNGOTA,119.80,2023,,Agencija,276.379
+10,stanovanje,3,,podravska,MARIBOR,118.02,2023,,Agencija,272.999
+11,stanovanje,2,,podravska,NOVA VAS,40.20,1981,2023,Zasebna,104.999
+12,stanovanje,3,,podravska,TABOR,69.44,2019,,Agencija,208.000
+13,stanovanje,2,,podravska,MB - CENTER,60.40,1940,2019,Zasebna,109.000
+14,stanovanje,4,,podravska,MARIBOR,126.80,2009,2023,Agencija,315.000
+15,stanovanje,2,,podravska,POBREŽJE,45.60,1990,,Agencija,99.900
+16,stanovanje,2.5,,podravska,"ORMOŽ, CENTER",65.00,1972,,Zasebna,105.000
+17,stanovanje,1.5,,podravska,SPODNJE RADVANJE,55.50,1979,,Zasebna,125.000
+18,stanovanje,1,,podravska,POBREŽJE,40.50,1957,,Agencija,80.000
+19,stanovanje,4,,podravska,MB - CENTER,116.60,1985,,Agencija,360.000
+20,stanovanje,3,,podravska,"SLOVENSKA BISTRICA, NA SAMEM ROBU BLOKOVSKEG NASELJA",84.62,1959,,Zasebna,145.000
+21,stanovanje,3,,podravska,"MB - CENTER, BLIŽINA FAKULTET IN SREDNJIH ŠOL",119.60,1910,2023,Agencija,197.000
+22,stanovanje,1.5,,podravska,"TABOR, GORIŠKA 5",45.30,1969,2023,Zasebna,104.990
+23,stanovanje,2,,podravska,POBREŽJE,52.60,1960,2016,Agencija,125.000
+24,stanovanje,2,,podravska,ZGORNJE RADVANJE,60.00,1983,2010,Agencija,139.000
+25,stanovanje,3,,podravska,"KIDRIČEVO, PTUJ OKOLICA",84.30,2023,,Agencija,169.332
+26,stanovanje,1,,podravska,"MB - CENTER, KOROŠKA CESTA",45.10,1977,2016,Agencija,135.000
+27,stanovanje,2.5,,podravska,"PEKRE, POD POHORJEM",84.40,1968,2013,Agencija,139.498
+28,stanovanje,2,,podravska,POBREŽJE,54.00,2009,,Zasebna,150.000
+29,stanovanje,2,,podravska,"PESNICA PRI MARIBORU, PESNIŠKI VRTOVI",105.90,2023,,Agencija,176.500
+30,stanovanje,4,,podravska,"MB - CENTER, PRAPROTNIKOVA ULICA",94.10,1886,,Agencija,159.900
+31,stanovanje,3,,podravska,PTUJ,77.30,1985,2015,Agencija,149.000
+32,stanovanje,2,,podravska,TABOR,58.90,1981,2022,Agencija,129.900
+33,stanovanje,1,,podravska,MB - CENTER,34.60,1988,2018,Zasebna,98.000
+34,stanovanje,3,,podravska,ZGORNJA HAJDINA,114.90,1992,2015,Agencija,69.000
+35,stanovanje,3.5,,podravska,NOVA VAS,84.30,1980,,Agencija,167.900
+36,stanovanje,3,,podravska,PESNICA PRI MARIBORU,73.70,2022,,Agencija,239.900
+37,stanovanje,3,,podravska,"KOROŠKA VRATA, KOSARJEVA",69.90,1960,2018,Agencija,189.000
+38,stanovanje,3,,podravska,PTUJ,183.60,2021,,Agencija,365.949
+39,stanovanje,3.5,,podravska,TABOR,133.86,2008,,Agencija,259.000
+40,stanovanje,3,,podravska,NOVA VAS,74.00,1985,2017,Zasebna,185.000
+41,stanovanje,2,,podravska,TABOR,53.10,1971,2023,Agencija,152.000
+42,stanovanje,2,,podravska,BOROVA VAS,60.70,1983,,Agencija,139.990
+43,stanovanje,2,,podravska,NOVA VAS,58.90,1979,,Agencija,136.000
+44,stanovanje,3,,podravska,"TABOR, NOVI VRTOVI",75.70,2023,,Agencija,179.205
+45,stanovanje,3,,podravska,SLOVENSKA BISTRICA,81.50,2009,,Agencija,175.000
+46,stanovanje,1.5,,podravska,"STUDENCI, TABOR",44.20,2023,,Agencija,119.973
+47,stanovanje,3,,podravska,"TABOR, ATRIJSKO",196.50,2023,,Agencija,229.245
+48,stanovanje,1.5,,podravska,"TABOR, BLIZU CENTRA",79.90,2023,,Agencija,139.860
+49,stanovanje,2,,podravska,TABOR,97.30,2023,,Agencija,169.130
+50,stanovanje,2.5,,podravska,"MARIBOR, CENTER",75.00,2011,2011,Zasebna,247.000
+51,stanovanje,2,,podravska,POBREŽJE,52.60,1960,2015,Agencija,98.990
+52,stanovanje,2.5,,podravska,RAČE,79.40,1965,2000,Agencija,120.000
+53,stanovanje,4,,podravska,PREPOLJE,111.50,1990,2020,Agencija,230.000
+54,stanovanje,2,,podravska,MARIBOR,72.00,1898,2012,Agencija,125.000
+55,stanovanje,,,podravska,TEZNO,24.10,1986,,Zasebna,61.500
+56,stanovanje,1.5,,podravska,"TABOR, REGENTOVA, MARIBOR",52.20,1975,,Agencija,123.900
+57,stanovanje,4,,podravska,PREPOLJE,111.50,1990,2020,Agencija,230.000
+58,stanovanje,1,,podravska,MB - CENTER,42.60,1965,2022,Agencija,160.000
+59,stanovanje,3,,podravska,"TABOR, MB - 3 SOBNO, 69 M2 PRODAMO",69.00,1959,2013,Agencija,139.900
+60,stanovanje,2.5,,podravska,MB - CENTER,52.70,1907,2023,Agencija,102.765
+61,stanovanje,3,,podravska,"PEKRE, TIK OB SMUČIŠČU",90.70,2010,,Agencija,269.999
+62,stanovanje,3,,podravska,GRADIŠKA,108.00,2004,2021,Agencija,209.000
+63,stanovanje,4,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,112.76,2023,,Agencija,246.237
+64,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,88.43,2023,,Agencija,190.513
+65,stanovanje,2.5,,podravska,NOVA VAS,67.80,1979,2006,Agencija,144.900
+66,stanovanje,3,,podravska,TABOR,66.10,1970,,Agencija,135.000
+67,stanovanje,2.5,,podravska,SPODNJE HOČE,55.17,1965,2005,Agencija,129.000
+68,stanovanje,3,,podravska,"TABOR, HLEBOVA ULICA 8",76.00,1967,2023,Zasebna,140.000
+69,stanovanje,2,,podravska,TEZNO,53.00,1963,2018,Zasebna,118.000
+70,stanovanje,1,,podravska,BOROVA VAS,41.10,1982,2017,Zasebna,95.500
+71,stanovanje,2,,podravska,TABOR,51.50,1959,2020,Zasebna,132.990
+72,stanovanje,2,,podravska,"TABOR, TOP LOKACIJA MB",52.52,1954,2023,Agencija,129.000
+73,stanovanje,3,,podravska,TABOR,73.40,1979,,Zasebna,169.000
+74,stanovanje,2.5,,podravska,GORIŠNICA,57.00,1957,2017,Zasebna,90.000
+75,stanovanje,3,,podravska,TEZNO,72.40,1974,2014,Agencija,134.900
+76,stanovanje,3,,podravska,"MARIBOR, NASELJE BOLFENK",87.90,2010,,Agencija,309.000
+77,stanovanje,3,,podravska,"POBREŽJE, OBNOVLJENO 3 - SOBNO",71.30,1977,,Agencija,149.900
+78,stanovanje,2.5,,podravska,"POBREŽJE, OBNOVLJENO 2, 5 - SOBNO STANOVANJE",71.00,1975,2023,Agencija,134.900
+79,stanovanje,2,,podravska,TABOR,72.00,1904,2018,Zasebna,148.000
+80,stanovanje,2.5,,podravska,"TABOR, BLIŽINA CENTRA",55.20,1975,2023,Agencija,135.000
+81,stanovanje,2,,podravska,STUDENCI,72.70,2020,,Agencija,235.000
+82,stanovanje,2,,podravska,TABOR,52.60,1962,,Agencija,114.900
+83,stanovanje,3,,podravska,MIKLAVŽ NA DRAVSKEM POLJU,99.10,2009,,Agencija,199.000
+84,stanovanje,4,,podravska,MB - CENTER,136.44,1902,,Agencija,259.000
+85,stanovanje,2,,podravska,TEZNO,53.00,1963,,Agencija,118.000
+86,stanovanje,2,,podravska,NOVA VAS,63.70,1978,,Agencija,138.000
+87,stanovanje,4,,podravska,MELJE,78.00,1948,,Zasebna,150.000
+88,stanovanje,1,,podravska,KOROŠKA VRATA,48.60,1980,2020,Zasebna,109.900
+89,stanovanje,4,,podravska,"MB - CENTER, STROGI, PEŠ CONA",157.50,2012,2022,Agencija,287.100
+90,stanovanje,4,,podravska,KRIVI VRH,120.58,2023,,Agencija,258.900
+91,stanovanje,4,,podravska,"MB - CENTER, STROGI, PEŠ CONA",114.70,2012,2022,Agencija,237.500
+92,stanovanje,1,,podravska,MB - CENTER,39.60,1911,2023,Agencija,94.000
+93,stanovanje,1,,podravska,KRIVI VRH,33.48,2023,,Agencija,92.510
+94,stanovanje,3,,podravska,KRIVI VRH,77.82,2023,,Agencija,172.813
+95,stanovanje,3,,podravska,KRIVI VRH,87.27,2023,,Agencija,193.180
+96,stanovanje,2,,podravska,KRIVI VRH,68.58,2023,,Agencija,152.479
+97,stanovanje,4,,podravska,KRIVI VRH,126.81,2023,,Agencija,259.433
+98,stanovanje,2,,podravska,TABOR,55.00,1920,2020,Zasebna,93.000
+99,stanovanje,3,,podravska,TABOR,53.00,1950,2023,Zasebna,104.499
+100,stanovanje,2,,podravska,TABOR,52.00,1962,,Zasebna,105.000
+101,stanovanje,2,,podravska,"STUDENCI, MARIBOR",50.60,1975,,Zasebna,135.000
+102,stanovanje,1,,podravska,SPODNJE RADVANJE,46.50,1990,,Agencija,92.000
+103,stanovanje,3,,podravska,MARIBOR,89.70,1923,2017,Agencija,96.000
+104,stanovanje,2,,podravska,TEZNO,59.60,1976,2020,Agencija,129.900
+105,stanovanje,3,,podravska,TABOR,71.00,1981,,Agencija,154.900
+106,stanovanje,3,,podravska,NOVA VAS,77.90,1981,,Agencija,145.000
+107,stanovanje,2,,podravska,MB - CENTER,49.19,1967,,Zasebna,130.000
+108,stanovanje,3,,podravska,KIDRIČEVO,84.30,2023,,Agencija,169.332
+109,stanovanje,3,,podravska,STUDENCI,85.70,1967,2015,Agencija,155.990
+110,stanovanje,1.5,,podravska,"KOROŠKA VRATA, MB CENTER",42.30,1979,2023,Agencija,126.900
+111,stanovanje,3,,podravska,SPODNJE RADVANJE,72.90,1981,,Agencija,149.000
+112,stanovanje,1.5,,podravska,SV. TROJICA V SLOVENSKIH GORICAH,46.80,1979,,Zasebna,69.900
+113,stanovanje,2,,podravska,STUDENCI,54.70,1939,2017,Agencija,109.500
+114,stanovanje,2,,podravska,PEKRE,48.10,2010,2023,Agencija,173.000
+115,stanovanje,3,,podravska,BEZENA,180.50,2003,,Agencija,99.990
+116,stanovanje,2,,podravska,POBREŽJE,57.20,1960,,Agencija,108.000
+117,stanovanje,3.5,,podravska,"MB - CENTER, NEPOSREDNA BLIŽINA UKC",88.60,2008,,Agencija,239.900
+118,stanovanje,2,,podravska,"TABOR, MIRNA LOKACIJA",46.90,1951,2006,Agencija,124.900
+119,stanovanje,3,,podravska,SPODNJE RADVANJE,70.10,1980,,Agencija,86.000
+120,stanovanje,3.5,,podravska,SPODNJE RADVANJE,70.50,1980,,Agencija,87.000
+121,stanovanje,1.5,,podravska,"HOČKO POHORJE, MARIBOR",39.50,2022,,Zasebna,79.500
+122,stanovanje,3.5,,podravska,TABOR,82.90,2024,,Agencija,270.000
+123,stanovanje,4,,podravska,"SLOVENSKA BISTRICA, PARTIZANSKA ULICA, BIS",119.90,2016,,Agencija,285.000
+124,stanovanje,2,,podravska,PTUJ,46.60,1961,,Agencija,110.000
+125,stanovanje,2,,podravska,"MARIBOR, TABOR, BEOGRAJSKA ULICA",99.05,1938,2018,Agencija,148.000
+126,stanovanje,1,,podravska,"MARIBOR, TABOR, BEOGRAJSKA ULICA",47.18,1938,2018,Agencija,128.000
+127,stanovanje,3,,podravska,SLIVNICA PRI MARIBORU,75.70,2024,,Agencija,212.877
+128,stanovanje,3,,podravska,"MARIBOR, SLIVNICA PRI MARIBORU",75.70,2024,,Agencija,212.877
+129,stanovanje,2.5,,podravska,MB - CENTER,72.60,1914,,Agencija,144.000
+130,stanovanje,2,,podravska,TABOR,53.30,2024,,Agencija,170.000
+131,stanovanje,2,,podravska,PESNICA PRI MARIBORU,105.90,2023,,Agencija,176.500
+132,stanovanje,3.5,,podravska,TABOR,82.90,2024,,Agencija,270.000
+133,stanovanje,2,,podravska,"MB - CENTER, MESTA, PARKIRNO MESTO",62.40,1893,2018,Agencija,150.800
+134,stanovanje,2.5,,podravska,BETNAVA,72.81,2009,2023,Zasebna,179.000
+135,stanovanje,2,,podravska,STUDENCI,100.85,2020,,Agencija,225.000
+136,stanovanje,3,,podravska,KIDRIČEVO,84.32,2024,,Agencija,169.332
+137,stanovanje,2,,podravska,POBREŽJE,51.80,1964,2013,Agencija,105.000
+138,stanovanje,2.5,,podravska,SELNICA OB DRAVI,57.20,1964,2014,Zasebna,118.000
+139,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,86.97,2023,,Agencija,188.237
+140,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,153.95,2023,,Agencija,253.140
+141,stanovanje,3,,podravska,POBREŽJE,90.00,2009,,Agencija,236.000
+142,stanovanje,2,,podravska,TABOR,58.80,1970,,Agencija,144.000
+143,stanovanje,2,,podravska,"SLOVENSKA BISTRICA, V CENTRU MESTA",70.20,1969,2018,Agencija,139.960
+144,stanovanje,2,,podravska,PTUJ,46.60,1961,2015,Agencija,110.000
+145,stanovanje,3,,podravska,"TABOR, 3 SOBNO MARIBOR, BLIŽINA UKC",79.10,1887,2023,Agencija,157.080
+146,stanovanje,4,,podravska,MARIBOR,147.00,2009,,Agencija,369.000
+147,stanovanje,2,,podravska,TABOR,51.50,1959,,Agencija,126.000
+148,stanovanje,3,,podravska,PTUJ,67.15,1984,2023,Zasebna,138.000
+149,stanovanje,4,,podravska,PESNICA PRI MARIBORU,97.90,2024,,Agencija,198.000
+150,stanovanje,3,,podravska,MB - CENTER,83.00,1939,2014,Agencija,246.000
+151,stanovanje,3,,podravska,"TEZNO, MARIBOR, PRVOMAJSKA",109.00,2008,,Agencija,295.000
+152,stanovanje,,,podravska,PTUJ,205.50,1688,2019,Agencija,259.000
+153,stanovanje,3,,podravska,KIDRIČEVO,85.30,2023,,Agencija,179.334
+154,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,112.15,2022,,Agencija,244.756
+155,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,98.95,2022,,Agencija,213.745
+156,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,153.95,2022,,Agencija,256.942
+157,stanovanje,4,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,146.71,2022,,Agencija,307.059
+158,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,86.97,2022,,Agencija,188.237
+159,stanovanje,3,,podravska,TABOR,78.60,1963,,Agencija,142.900
+160,stanovanje,4,,podravska,PTUJ,205.50,1688,,Agencija,259.000
+161,stanovanje,,,podravska,STUDENCI,66.40,2022,,Agencija,148.900
+162,stanovanje,2.5,,podravska,"PTUJ, II. NADSTROPJE",67.30,1965,2017,Agencija,149.000
+163,stanovanje,3,,podravska,"MB - CENTER, JEMČEV VRT",87.00,1974,,Zasebna,270.000
+164,stanovanje,3,,podravska,"MB - CENTER, MELJSKA CESTA",86.80,1939,,Zasebna,175.000
+165,stanovanje,3.5,,podravska,TABOR,82.90,2024,,Agencija,270.000
+166,stanovanje,3,,podravska,MAJŠPERK,85.10,1961,,Agencija,129.000
+167,stanovanje,2,,podravska,TEZNO,59.50,1948,,Agencija,118.000
+168,stanovanje,3,,podravska,OREHOVA VAS,78.60,2023,,Agencija,209.781
+169,stanovanje,,,podravska,OREHOVA VAS,39.10,2023,,Agencija,114.285
+170,stanovanje,3,,podravska,OREHOVA VAS,75.70,2023,,Agencija,202.233
+171,stanovanje,4,,podravska,SV. ANA V SLOVENSKIH GORICAH,80.50,2008,2023,Agencija,144.500
+172,stanovanje,2.5,,podravska,"LENART V SLOVENSKIH GORICAH, CENTER LENARTA",62.20,1962,2003,Agencija,119.200
+173,stanovanje,2,,podravska,MB - CENTER,66.80,1800,,Zasebna,165.000
+174,stanovanje,3,,podravska,"MARIBOR, POBREŽJE, ZELENA SOSESKA",56.30,2023,,Agencija,239.990
+175,stanovanje,2,,podravska,KIDRIČEVO,66.00,2004,,Zasebna,135.000
+176,stanovanje,1,,podravska,"TEZNO, PRVOMAJSKA",40.80,1962,2015,Agencija,86.000
+177,stanovanje,1,,podravska,VRANJI VRH,31.80,2010,2010,Zasebna,79.900
+178,stanovanje,4,,podravska,MB - CENTER,104.50,1927,2020,Agencija,250.000
+179,stanovanje,1,,podravska,STUDENCI,48.50,1939,2008,Agencija,79.900
+180,stanovanje,2.5,,podravska,POBREŽJE,69.20,1975,,Agencija,139.900
+181,stanovanje,3,,podravska,TABOR,67.90,1971,,Agencija,210.000
+182,stanovanje,2,,podravska,"TABOR, MARIBOR",59.30,1965,2023,Agencija,139.000
+183,stanovanje,2,,podravska,"KOŠAKI, MELJSKI DOL",64.70,2023,,Agencija,173.423
+184,stanovanje,3.5,,podravska,"KOŠAKI, MELJSKI DOL",83.60,2023,,Agencija,225.634
+185,stanovanje,2,,podravska,"KOŠAKI, MELJSKI DOL",64.50,2023,,Agencija,172.991
+186,stanovanje,3,,podravska,"KOŠAKI, MELJSKI DOL",74.40,2023,,Agencija,199.779
+187,stanovanje,2,,podravska,SPODNJE RADVANJE,59.40,1981,2012,Agencija,128.000
+188,stanovanje,,,podravska,"OPLOTNICA, PRI PARKU",259.50,1966,2007,Agencija,150.000
+189,stanovanje,3,,podravska,CERKVENJAK,72.99,2023,,Agencija,145.250
+190,stanovanje,3,,podravska,CERKVENJAK,72.99,2023,,Agencija,145.250
+191,stanovanje,3,,podravska,KAMNICA,109.00,2007,,Agencija,186.500
+192,stanovanje,2,,podravska,MELJE,64.20,2022,,Agencija,172.992
+193,stanovanje,3.5,,podravska,MELJE,83.60,2022,,Agencija,225.635
+194,stanovanje,2,,podravska,"POBREŽJE, BELOKRANJSKA ULICA",58.60,1910,2021,Agencija,104.900
+195,stanovanje,4,,podravska,"PTUJ, ULICA AVGUSTA HLUPIČA 12/A",110.60,2004,,Zasebna,
+196,stanovanje,,,podravska,"ZGORNJE RADVANJE, POD POHORJEM",280.40,2004,2015,Agencija,299.900
+197,stanovanje,3,,podravska,CERKVENJAK,71.23,2023,,Agencija,134.625
+198,stanovanje,4,,podravska,CERKVENJAK,86.94,2023,,Agencija,173.010
+199,stanovanje,3,,podravska,CERKVENJAK,72.99,2023,,Agencija,145.250
+200,stanovanje,3,,podravska,CERKVENJAK,70.23,2023,,Agencija,134.606
+201,stanovanje,3,,podravska,CERKVENJAK,71.94,2023,,Agencija,153.161
+202,stanovanje,3,,podravska,CERKVENJAK,71.89,2023,,Agencija,152.862
+203,stanovanje,3,,podravska,CERKVENJAK,71.79,2023,,Agencija,142.862
+204,stanovanje,3,,podravska,CERKVENJAK,70.23,2023,,Agencija,141.728
+205,stanovanje,4,,podravska,CERKVENJAK,86.94,2023,,Agencija,164.317
+206,stanovanje,2.5,,podravska,"TABOR, ULICA FRANA KOVAČIČA 1, MARIBOR",64.90,1975,2021,Zasebna,132.000
+207,stanovanje,2,,podravska,"NOVA VAS, KARDELJEVA CESTA",58.90,1980,,Zasebna,130.000
+208,stanovanje,,,podravska,MARIBOR,319.40,1923,,Agencija,299.900
+209,stanovanje,3.5,,podravska,SLOVENSKA BISTRICA,110.24,2023,,Agencija,275.600
+210,stanovanje,3,,podravska,SLOVENSKA BISTRICA,77.79,2023,,Agencija,194.475
+211,stanovanje,2,,podravska,POBREŽJE,45.60,1990,2016,Agencija,99.900
+212,stanovanje,2,,podravska,POBREŽJE,98.30,2024,,Agencija,239.900
+213,stanovanje,4,,podravska,PESNICA PRI MARIBORU,89.70,2024,,Agencija,202.000
+214,stanovanje,4,,podravska,PESNICA PRI MARIBORU,101.80,1973,,Agencija,110.000
+215,stanovanje,1,,podravska,"RUŠE, ARESKA CESTA 13",39.00,1976,,Zasebna,35.000
+216,stanovanje,,,podravska,POBREŽJE,52.92,2023,,Agencija,128.700
+217,stanovanje,,,podravska,POBREŽJE,52.92,2023,,Agencija,126.500
+218,stanovanje,2,,podravska,POBREŽJE,75.46,2023,,Agencija,184.800
+219,stanovanje,2,,podravska,POBREŽJE,75.46,2023,,Agencija,185.900
+220,stanovanje,2.5,,podravska,POBREŽJE,84.29,2023,,Agencija,214.500
+221,stanovanje,2.5,,podravska,POBREŽJE,84.43,2023,,Agencija,216.150
+222,stanovanje,3,,podravska,POBREŽJE,84.38,2023,,Agencija,213.400
+223,stanovanje,3,,podravska,POBREŽJE,84.44,2023,,Agencija,218.350
+224,stanovanje,4,,podravska,TABOR,167.10,2018,,Zasebna,444.000
+225,stanovanje,3,,podravska,STUDENCI,95.50,1928,2001,Agencija,89.990
+226,stanovanje,1,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,34.70,1978,2013,Zasebna,82.900
+227,stanovanje,3,,podravska,BREZJE,92.21,2023,,Agencija,206.990
+228,stanovanje,2.5,,podravska,TABOR,71.00,1964,2020,Zasebna,164.900
+229,stanovanje,4,,podravska,ZGORNJE RADVANJE,120.80,2001,2023,Agencija,319.000
+230,stanovanje,2,,podravska,MB - CENTER,76.40,1973,,Agencija,189.000
+231,stanovanje,1,,podravska,POBREŽJE,59.40,2024,,Agencija,144.900
+232,stanovanje,2.5,,podravska,POBREŽJE,119.60,2024,,Agencija,207.000
+233,stanovanje,3.5,,podravska,TABOR,74.80,2010,,Agencija,249.900
+234,stanovanje,4,,podravska,MB - CENTER,150.60,1925,2012,Agencija,295.000
+235,stanovanje,1,,podravska,LOVRENC NA POHORJU,36.50,1860,2012,Agencija,29.900
+236,stanovanje,3,,podravska,"MB - CENTER, TYRŠEVA ULICA",111.70,1900,2023,Agencija,341.000
+237,stanovanje,3,,podravska,NOVA VAS,77.90,1981,2023,Agencija,160.000
+238,stanovanje,4,,podravska,MB - CENTER,137.10,1780,2005,Agencija,229.000
+239,stanovanje,2.5,,podravska,LENART V SLOVENSKIH GORICAH,56.60,1975,2022,Agencija,98.000
+240,stanovanje,2,,podravska,POBREŽJE,71.60,2024,,Agencija,179.900
+241,stanovanje,3,,podravska,TABOR,66.10,1972,,Agencija,129.000
+242,stanovanje,1,,podravska,"TEZNO, BLIŽINA STRAŽUNA",34.50,1987,2010,Agencija,85.000
+243,stanovanje,1,,podravska,"MARIBOR, POBREŽJE",38.40,1964,2013,Agencija,95.000
+244,stanovanje,4,,podravska,SPODNJE RADVANJE,91.20,1985,,Agencija,188.900
+245,stanovanje,4,,podravska,MB - CENTER,121.00,2021,,Agencija,325.000
+246,stanovanje,,,podravska,STUDENCI,196.70,1880,,Agencija,300.000
+247,stanovanje,1,,podravska,STUDENCI,26.50,1900,2021,Zasebna,45.000
+248,stanovanje,2,,podravska,"POBREŽJE, MEJNA ULICA",61.00,1977,1914,Zasebna,123.000
+249,stanovanje,2,,podravska,SPODNJE RADVANJE,109.20,1978,2015,Agencija,128.000
+250,stanovanje,2,,podravska,MB - CENTER,65.70,1909,2009,Agencija,148.900
+251,stanovanje,3,,podravska,STUDENCI,70.50,2024,,Agencija,192.717
+252,stanovanje,,,podravska,POBREŽJE,67.80,2005,2020,Agencija,122.900
+253,stanovanje,3,,podravska,MARIBOR,165.30,2011,2022,Agencija,270.000
+254,stanovanje,2,,podravska,"TABOR, MB CENTER, LJUBLJANSKA",53.30,1960,,Agencija,99.900
+255,stanovanje,2,,podravska,MARIBOR,48.30,1930,,Agencija,99.900
+256,stanovanje,3,,podravska,NOVA VAS,73.90,1985,,Agencija,179.000
+257,stanovanje,2,,podravska,TEZNO,53.40,1988,2019,Agencija,134.500
+258,stanovanje,3,,podravska,MARIBOR,50.70,1930,2005,Agencija,99.900
+259,stanovanje,3,,podravska,"POBREŽJE, ISTRSKA ULICA",79.90,2023,,Agencija,211.814
+260,stanovanje,3,,podravska,RAZVANJE,111.00,2000,2020,Zasebna,189.000
+261,stanovanje,,,podravska,"TABOR, PAJKOVA ULICA 24, 2000 MARIBOR",25.10,1968,,Zasebna,62.000
+262,stanovanje,4,,podravska,PESNICA PRI MARIBORU,97.90,2024,,Agencija,198.000
+263,stanovanje,3,,podravska,"STUDENCI, ŠARHOVA ULICA",121.80,1939,2004,Agencija,105.000
+264,stanovanje,,,podravska,TABOR,113.00,1975,2022,Agencija,253.000
+265,stanovanje,4,,podravska,TABOR,83.10,1970,,Agencija,198.000
+266,stanovanje,4,,podravska,"LENART V SLOVENSKIH GORICAH, CENTRU MESTA",127.20,1973,1995,Agencija,159.900
+267,stanovanje,3,,podravska,"TABOR, GORIŠKA ULICA 1A",72.00,1969,,Zasebna,140.000
+268,stanovanje,4,,podravska,MB - CENTER,100.00,1895,,Agencija,229.000
+269,stanovanje,2.5,,podravska,TABOR,70.36,2010,,Agencija,179.500
+270,stanovanje,4,,podravska,BETNAVA,74.80,2014,2017,Agencija,249.900
+271,stanovanje,1,,podravska,LENART V SLOVENSKIH GORICAH,47.90,1975,,Agencija,90.000
+272,stanovanje,3,,podravska,"PTUJ, 3 SOBNO, V IV. NAD., Z BALKONOM",74.60,1974,,Agencija,139.000
+273,stanovanje,1,,podravska,RUŠE,38.00,1964,2023,Zasebna,68.000
+274,stanovanje,2,,podravska,STUDENCI,67.00,1895,2017,Agencija,107.000
+275,stanovanje,4,,podravska,"MB - CENTER, MARIBOR GLAVNI TRG",170.00,1905,2004,Agencija,340.000
+276,stanovanje,3,,podravska,STUDENCI,70.50,2024,,Agencija,192.717
+277,stanovanje,,,podravska,POBREŽJE,67.80,2005,2020,Agencija,122.900
+278,stanovanje,3,,podravska,MARIBOR,165.30,2011,2022,Agencija,270.000
+279,stanovanje,2,,podravska,"TABOR, MB CENTER, LJUBLJANSKA",53.30,1960,,Agencija,99.900
+280,stanovanje,2,,podravska,MARIBOR,48.30,1930,,Agencija,99.900
+281,stanovanje,3,,podravska,NOVA VAS,73.90,1985,,Agencija,179.000
+282,stanovanje,2,,podravska,TEZNO,53.40,1988,2019,Agencija,134.500
+283,stanovanje,3,,podravska,MARIBOR,50.70,1930,2005,Agencija,99.900
+284,stanovanje,3,,podravska,"POBREŽJE, ISTRSKA ULICA",79.90,2023,,Agencija,211.814
+285,stanovanje,3,,podravska,RAZVANJE,111.00,2000,2020,Zasebna,189.000
+286,stanovanje,,,podravska,"TABOR, PAJKOVA ULICA 24, 2000 MARIBOR",25.10,1968,,Zasebna,62.000
+287,stanovanje,4,,podravska,PESNICA PRI MARIBORU,97.90,2024,,Agencija,198.000
+288,stanovanje,3,,podravska,"STUDENCI, ŠARHOVA ULICA",121.80,1939,2004,Agencija,105.000
+289,stanovanje,,,podravska,TABOR,113.00,1975,2022,Agencija,253.000
+290,stanovanje,4,,podravska,TABOR,83.10,1970,,Agencija,198.000
+291,stanovanje,4,,podravska,"LENART V SLOVENSKIH GORICAH, CENTRU MESTA",127.20,1973,1995,Agencija,159.900
+292,stanovanje,3,,podravska,"TABOR, GORIŠKA ULICA 1A",72.00,1969,,Zasebna,140.000
+293,stanovanje,4,,podravska,MB - CENTER,100.00,1895,,Agencija,229.000
+294,stanovanje,2.5,,podravska,TABOR,70.36,2010,,Agencija,179.500
+295,stanovanje,4,,podravska,BETNAVA,74.80,2014,2017,Agencija,249.900
+296,stanovanje,1,,podravska,LENART V SLOVENSKIH GORICAH,47.90,1975,,Agencija,90.000
+297,stanovanje,3,,podravska,"PTUJ, 3 SOBNO, V IV. NAD., Z BALKONOM",74.60,1974,,Agencija,139.000
+298,stanovanje,1,,podravska,RUŠE,38.00,1964,2023,Zasebna,68.000
+299,stanovanje,2,,podravska,STUDENCI,67.00,1895,2017,Agencija,107.000
+300,stanovanje,4,,podravska,"MB - CENTER, MARIBOR GLAVNI TRG",170.00,1905,2004,Agencija,340.000
+301,stanovanje,3,,podravska,NOVA VAS,74.90,1983,2011,Agencija,145.900
+302,stanovanje,,,podravska,MB - CENTER,374.80,1869,,Agencija,160.000
+303,stanovanje,3,,podravska,"TABOR, ZELENA LOKACIJA",93.30,1936,2007,Agencija,225.000
+304,stanovanje,2,,podravska,MB - CENTER,99.00,1873,2015,Agencija,270.000
+305,stanovanje,2,,podravska,RAČE,54.80,1860,2005,Agencija,68.000
+306,stanovanje,,,podravska,MB - CENTER,350.00,1897,,Agencija,598.900
+307,stanovanje,,,podravska,MB - CENTER,166.90,1960,2003,Agencija,430.000
+308,stanovanje,4,,podravska,MB - CENTER,116.00,1986,,Agencija,360.000
+309,stanovanje,,,podravska,KOROŠKA VRATA,21.00,1849,,Agencija,75.000
+310,stanovanje,2.5,,podravska,"SPODNJE RADVANJE, ULICA ARNOLDA TOVORNIKA",60.30,1980,2017,Agencija,134.000
+311,stanovanje,2.5,,podravska,"TABOR, PLEČNIKOVA ULICA 9",72.00,1970,2005,Zasebna,140.000
+312,stanovanje,,,podravska,MB - CENTER,30.00,2001,,Zasebna,94.800
+313,stanovanje,3.5,,podravska,MELJE,78.70,1898,2023,Agencija,158.000
+314,stanovanje,,,podravska,BETNAVA,40.41,2008,,Zasebna,135.000
+315,stanovanje,3,,podravska,MB - CENTER,71.20,1985,2023,Agencija,169.990
+316,stanovanje,2.5,,podravska,TABOR,66.05,1971,2019,Zasebna,181.000
+317,stanovanje,4,,podravska,STUDENCI,78.10,2023,,Agencija,214.935
+318,stanovanje,4,,podravska,"MARIBOR, DRAVSKI KRISTALI",78.00,2024,,Agencija,199.875
+319,stanovanje,,,podravska,POBREŽJE,156.50,1900,,Agencija,95.000
+320,stanovanje,2,,podravska,"MB - CENTER, MLADINSKA ULICA 4",99.00,1930,2015,Zasebna,260.000
+321,stanovanje,3.5,,podravska,"SPODNJE RADVANJE, BORŠTNIKOVA ULICA 11, 2000 MARIB",75.00,1990,2023,Agencija,187.000
+322,stanovanje,2,,podravska,STUDENCI,54.90,2024,,Agencija,157.700
+323,stanovanje,3,,podravska,STUDENCI,76.70,2024,,Agencija,214.291
+324,stanovanje,3,,podravska,MB - CENTER,86.00,1900,,Agencija,145.000
+325,stanovanje,4,,podravska,"KIDRIČEVO, PTUJ OKOLICA",116.30,2023,,Agencija,244.509
+326,stanovanje,1.5,,podravska,LENART V SLOVENSKIH GORICAH,43.10,1989,2018,Agencija,75.000
+327,stanovanje,2.5,,podravska,ZGORNJI LESKOVEC,90.00,2008,2018,Agencija,139.000
+328,stanovanje,3,,podravska,MESTNI VRH,83.30,1880,2017,Agencija,120.000
+329,stanovanje,3,,podravska,"STUDENCI, DRAVSKI KRISTALI",196.50,2024,,Agencija,255.985
+330,stanovanje,3.5,,podravska,POČEHOVA,119.60,1888,2001,Agencija,142.000
+331,stanovanje,2.5,,podravska,"POBREŽJE, V NEPOSREDNI BLIŽINI CENTRA",49.10,1920,2023,Agencija,100.000
+332,stanovanje,,,podravska,MELJE,182.00,1895,2020,Agencija,275.000
+333,stanovanje,3.5,,podravska,"MARIBOR, LEVI BREG",119.60,1888,2001,Agencija,142.000
+334,stanovanje,2,,podravska,PTUJ,81.00,1971,,Agencija,99.000
+335,stanovanje,3,,podravska,PREPOLJE,88.00,1990,2023,Agencija,176.000
+336,stanovanje,4,,podravska,PREPOLJE,123.00,1990,2023,Agencija,221.400
+337,stanovanje,,,podravska,SLOVENSKA BISTRICA,131.70,2023,,Agencija,240.000
+338,stanovanje,3,,podravska,LOVRENC NA POHORJU,103.00,2010,,Agencija,190.000
+339,stanovanje,2.5,,podravska,"MB - CENTER, KOPITARJEVA ULICA 11, MARIBOR",72.60,1956,2013,Zasebna,169.000
+340,stanovanje,4.5,,podravska,MB - CENTER,116.00,1985,2012,Agencija,360.000
+341,stanovanje,3,,podravska,PTUJ,75.10,1974,2014,Agencija,139.900
+342,stanovanje,3,,podravska,"MARIBOR, MELJE",79.20,1898,,Agencija,115.000
+343,stanovanje,3,,podravska,"MB - CENTER, PEŠCONA KOROŠKA",77.50,1780,,Agencija,166.000
+344,stanovanje,3,,podravska,PRAGERSKO,65.90,2008,2015,Agencija,169.000
+345,stanovanje,4,,podravska,BOROVA VAS,78.50,1987,2015,Agencija,179.000
+346,stanovanje,3,,podravska,PTUJ,75.80,1961,2016,Agencija,177.000
+347,stanovanje,4,,podravska,"TABOR, NOVOGRADNJA V BLIŽINI UKC",171.30,2023,,Agencija,359.280
+348,stanovanje,3,,podravska,"MARIBOR, CENTER, DRAVSKI KRISTALI",70.50,2023,,Agencija,195.159
+349,stanovanje,3,,podravska,MB - CENTER,115.00,1941,2013,Agencija,350.000
+350,stanovanje,4,,podravska,TABOR,137.80,1998,,Agencija,249.000
+351,stanovanje,3,,podravska,STUDENCI,106.20,1939,,Agencija,129.900
+352,stanovanje,4,,podravska,"MARIBOR, DRAVSKI KRISTALI, VSELJIVO LETOS",83.10,2023,,Agencija,209.300
+353,stanovanje,1,,podravska,"RUŠE, ULICA RUŠKE ČETE",31.20,1984,2017,Agencija,61.000
+354,stanovanje,3,,podravska,OREHOVA VAS,97.80,2023,,Agencija,207.402
+355,stanovanje,,,podravska,OREHOVA VAS,39.10,2023,,Agencija,114.285
+356,stanovanje,4,,podravska,"POBREŽJE, ISTRSKA ULICA",146.40,2023,,Agencija,380.922
+357,stanovanje,2,,podravska,"POBREŽJE, ISTRSKA ULICA",79.00,2023,,Agencija,199.289
+358,stanovanje,3,,podravska,STUDENCI,106.18,1939,,Zasebna,129.900
+359,stanovanje,3.5,,podravska,LENART V SLOVENSKIH GORICAH,81.60,1980,2020,Agencija,105.500
+360,stanovanje,4,,podravska,KOROŠKA VRATA,78.20,1965,2004,Agencija,149.000
+361,stanovanje,2,,podravska,"SPODNJE RADVANJE, BORŠTNIKOVA ULICA",64.00,1994,,Agencija,143.000
+362,stanovanje,1,,podravska,"MELJE, MARIBOR",54.60,1949,,Agencija,72.900
+363,stanovanje,3,,podravska,"POBREŽJE, VSE NA DOSEGU ROKE",91.10,2023,,Agencija,235.082
+364,stanovanje,2.5,,podravska,TABOR,85.00,1904,2008,Agencija,153.900
+365,stanovanje,,,podravska,TABOR,163.90,1975,,Agencija,189.900
+366,stanovanje,3,,podravska,"POBREŽJE, ISTRSKA ULICA",100.40,2023,,Agencija,240.831
+367,stanovanje,3,,podravska,"TABOR, MARIBOR",75.20,1971,2016,Agencija,158.000
+368,stanovanje,3,,podravska,PTUJ,107.00,1956,2000,Agencija,149.000
+369,stanovanje,1,,podravska,"ZGORNJE RADVANJE, POGLED NA SMUCISCE",47.23,2008,,Zasebna,129.990
+370,stanovanje,2,,podravska,"TABOR, MARIBOR, KOLONIJA",50.60,1884,2015,Agencija,99.900
+371,stanovanje,4,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,113.45,2023,,Agencija,248.247
+372,stanovanje,4,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,112.15,2023,,Agencija,246.238
+373,stanovanje,4,,podravska,"LENART V SLOVENSKIH GORICAH, SIMPATIČNO, KRAIGHERJEVA ULICA",116.10,1968,2017,Agencija,118.500
+374,stanovanje,1,,podravska,MARIBOR,39.10,2023,,Agencija,120.300
+375,stanovanje,4,,podravska,"MARIBOR, DRAVSKI KRISTALI",201.00,2023,,Agencija,259.259
+376,stanovanje,3,,podravska,"MARIBOR, STUDENCI",75.00,2024,,Agencija,212.162
+377,stanovanje,4,,podravska,"MARIBOR, CENTER",128.20,2013,2013,Zasebna,310.000
+378,stanovanje,2,,podravska,RUŠE,142.30,2008,,Agencija,250.000
+379,stanovanje,2,,podravska,RUŠE,136.70,2008,,Agencija,239.000
+380,stanovanje,,,podravska,ZRKOVCI,22.50,1995,,Zasebna,45.000
+381,stanovanje,1,,podravska,"MARIBOR, TABOR, BETNAVSKA CESTA",47.00,1955,2006,Agencija,85.000
+382,stanovanje,1,,podravska,RUŠE,46.40,1950,,Agencija,30.000
+383,stanovanje,2,,podravska,MARIBOR,50.00,1884,2015,Agencija,99.000
+384,stanovanje,3,,podravska,PTUJ,114.30,1958,2011,Agencija,165.000
+385,stanovanje,2,,podravska,RUŠE,61.30,1967,,Agencija,60.000
+386,stanovanje,,,podravska,RAČE,437.00,1990,,Agencija,220.000
+387,stanovanje,2,,podravska,HOTINJA VAS,54.84,1970,,Agencija,37.000
+388,stanovanje,1,,podravska,"PEKRE, MARIBORSKO POHORJE, BELLEVUE",47.20,2009,,Zasebna,167.900
+389,stanovanje,3,,podravska,"MARIBOR, DVORAKOVA ULICA",93.00,1938,2017,Agencija,175.000
+390,stanovanje,2.5,,podravska,SPODNJA HAJDINA,97.30,2012,,Agencija,90.000
+391,stanovanje,2,,podravska,SLIVNICA PRI MARIBORU,52.90,2023,,Agencija,147.671
+392,stanovanje,3,,podravska,MARIBOR,75.70,2023,,Agencija,212.877
+393,stanovanje,3,,podravska,MARIBOR,78.60,2023,,Agencija,220.822
+394,stanovanje,,,podravska,TABOR,30.70,1961,,Agencija,€69.900
+395,stanovanje,4,,podravska,PESNICA PRI MARIBORU,97.90,2022,,Agencija,198.000
+396,stanovanje,,,podravska,KICAR,201.30,1979,2000,Agencija,170.000
+397,stanovanje,,,podravska,"KOROŠKA VRATA, MARIBOR CENTER, MLADINSKA",262.50,1906,,Agencija,398.000
+398,stanovanje,3,,podravska,BREZJE,85.99,2023,,Agencija,194.990
+399,stanovanje,3,,podravska,BREZJE,92.32,2023,,Agencija,206.990
+400,stanovanje,3,,podravska,BREZJE,85.99,2023,,Agencija,194.990
+401,stanovanje,3,,podravska,BREZJE,86.13,2023,,Agencija,194.990
+402,stanovanje,3,,podravska,BREZJE,85.82,2023,,Agencija,194.990
+403,stanovanje,4,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,113.45,2022,,Agencija,246.136
+404,stanovanje,,,podravska,MARIBOR,222.90,1895,1998,Agencija,349.900
+405,stanovanje,2,,podravska,SLOVENSKA BISTRICA,60.80,1986,,Agencija,119.000
+406,stanovanje,,,podravska,"MARIBOR, CENTER, PREŠERNOVA ULICA",224.20,1906,,Agencija,480.000
+407,stanovanje,2,,podravska,TABOR,60.00,1979,2022,Zasebna,160.000
+408,stanovanje,,,podravska,"MARIBOR, GRAJSKI TRG 6",300.00,1949,,Agencija,500.000
+409,stanovanje,2,,podravska,MB - CENTER,103.30,1800,2013,Agencija,172.000
+410,stanovanje,2,,podravska,"LENART V SLOVENSKIH GORICAH, JUROVSKI DOL",66.00,2023,,Agencija,149.900
+411,stanovanje,2,,podravska,HAJDOŠE,40.60,1935,1975,Agencija,60.000
+412,stanovanje,3,,podravska,PTUJ,98.20,1879,2004,Agencija,149.900
+413,stanovanje,3,,podravska,"ZGORNJE RADVANJE, ROŽNODOLSKI GAJ - LACKOVA CESTA",108.63,2023,,Agencija,293.587
+414,stanovanje,4,,podravska,"LENART V SLOVENSKIH GORICAH, SLOV.",116.00,1986,2017,Zasebna,115.000
+415,stanovanje,4.5,,podravska,PTUJ,116.30,1996,,Agencija,170.000
+416,stanovanje,3,,podravska,SLOVENSKA BISTRICA,64.20,2006,,Agencija,149.000
+417,stanovanje,4,,podravska,KIDRIČEVO,116.30,2023,,Agencija,244.509
+418,stanovanje,4.5,,podravska,MB - CENTER,116.00,1985,2012,Agencija,360.000
+419,stanovanje,,,podravska,"MIKLAVŽ NA DRAVSKEM POLJU, OB GLAVNI CESTI MB",1.150.00,2014,,Zasebna,1.390.000
+420,stanovanje,2,,podravska,PTUJ,70.00,2004,,Agencija,167.000
+421,stanovanje,,,podravska,MB - CENTER,301.00,1800,,Agencija,
+422,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,98.95,2023,,Agencija,213.745
+423,stanovanje,5,,podravska,"ZGORNJE RADVANJE, POHORJE",148.00,2011,,Zasebna,580.000
+424,stanovanje,3,,podravska,"ZGORNJE RADVANJE, POHORJE",105.10,2011,,Zasebna,450.000
+425,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,153.95,2022,,Agencija,253.140
+426,stanovanje,3,,podravska,ŠENTILJ V SLOVENSKIH GORICAH,86.97,2022,,Agencija,188.237
+427,stanovanje,2,,podravska,ZGORNJE RADVANJE,109.20,1960,1975,Agencija,148.000
+428,stanovanje,2,,podravska,HOČKO POHORJE,37.50,2000,,Agencija,89.990
+429,stanovanje,4,,podravska,ZGORNJA KUNGOTA,141.33,2022,,Agencija,310.998
+430,stanovanje,4,,podravska,STUDENCI,193.40,2005,,Agencija,400.000
+431,stanovanje,1,,podravska,ZGORNJE RADVANJE,58.60,2011,,Zasebna,188.000
+432,stanovanje,3,,podravska,ROŠPOH - DEL,138.10,1904,,Agencija,37.000
+433,stanovanje,3,,podravska,MB - CENTER,84.00,1900,,Agencija,159.000
+434,stanovanje,2,,podravska,TABOR,91.10,2008,2015,Agencija,264.000
+435,stanovanje,3,,podravska,"TEZNO, MARIBOR",100.80,1975,,Agencija,135.000
+436,stanovanje,3,,podravska,SLOVENSKA BISTRICA,67.00,2006,,Zasebna,149.000
+437,stanovanje,4,,podravska,ZGORNJE RADVANJE,116.00,2011,2022,Zasebna,399.000
+438,stanovanje,,,podravska,POBREŽJE,26.20,1966,,Zasebna,75.000
+439,stanovanje,2,,podravska,BREZJE,58.30,2008,,Agencija,126.900
+440,stanovanje,2.5,,podravska,"ZGORNJE RADVANJE, ROŽNODOLSKI GAJ - LACKOVA CESTA",73.10,2023,,Agencija,233.076
+441,stanovanje,4,,podravska,"MARIBOR, ERJAVČEVA - REZIDENCA SUNSET",122.30,2022,,Agencija,359.508
+442,stanovanje,2.5,,podravska,"ORMOŽ, CENTER MESTA",72.30,1890,,Agencija,98.000
+443,stanovanje,4,,podravska,"MB - CENTER, VOŠNJAKOVA ULICA 27, MARIBOR",82.30,1945,2011,Zasebna,169.000
+444,stanovanje,2.5,,podravska,KOROŠKA VRATA,73.45,1976,2016,Zasebna,189.000
+445,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",76.40,1964,2016,Zasebna,349.900
+446,stanovanje,1,,ljubljana-mesto,"LJ. VIČ, BLIZU LJUBLJANSKE OBVOZNICE",46.00,2006,,Zasebna,240.000
+447,stanovanje,4,,ljubljana-mesto,NOVE FUŽINE,92.00,1986,2018,Zasebna,340.000
+448,stanovanje,3,,ljubljana-mesto,DRAVLJE,79.60,1976,2017,Agencija,240.000
+449,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, ŠLAJMERJEVA ULICA 1A",89.50,1850,DRAŽBA,Zasebna,214.000
+450,stanovanje,,,ljubljana-mesto,"ŠENTVID, LJ, PRUŠNIKOVA",22.10,1969,,Zasebna,149.000
+451,stanovanje,2,,ljubljana-mesto,ZG. ŠIŠKA,40.80,1979,,Zasebna,189.900
+452,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,29.70,1983,z,Zasebna,171.000
+453,stanovanje,1.5,,ljubljana-mesto,SP. ŠIŠKA,56.20,1940,,Agencija,229.000
+454,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,86.10,1976,,Agencija,329.000
+455,stanovanje,2,,ljubljana-mesto,VEVČE,80.10,2023,,Agencija,303.400
+456,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,62.00,1972,sobno,Zasebna,289.000
+457,stanovanje,3,,ljubljana-mesto,LJ. CENTER,120.00,1988,2009,Agencija,560.000
+458,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",221.78,2023,,Agencija,2.126.000
+459,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, TOP LOKACIJA",72.80,2007,2023,Agencija,370.000
+460,stanovanje,,,ljubljana-mesto,KODELJEVO,30.00,1962,,Agencija,180.000
+461,stanovanje,3,,ljubljana-mesto,LJ. CENTER,61.00,1841,2023,Agencija,299.000
+462,stanovanje,5,,ljubljana-mesto,TRNOVO,271.10,2023,,Agencija,999.000
+463,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",309.00,2023,,Agencija,2.971.000
+464,stanovanje,2,,ljubljana-mesto,"LJ. ŠIŠKA, - ZGORNJA",56.00,1963,2010,Agencija,219.000
+465,stanovanje,3,,ljubljana-mesto,SP. ŠIŠKA,62.80,1967,2009,Agencija,240.000
+466,stanovanje,4.5,,ljubljana-mesto,LJ. ŠIŠKA,154.90,2023,,Agencija,428.000
+467,stanovanje,1.5,,ljubljana-mesto,"LJ. MOSTE, VEVČE",37.60,1901,2015,Agencija,155.700
+468,stanovanje,4,,ljubljana-mesto,"KOSEZE, MOSTEC",96.00,2002,2018,Zasebna,590.000
+469,stanovanje,,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",177.37,2023,,Agencija,912.000
+470,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,84.10,1937,2013,Agencija,275.000
+471,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",169.84,2023,,Agencija,839.000
+472,stanovanje,,,ljubljana-mesto,"LJ. MOSTE, KODELJEVO",32.00,1962,,Agencija,180.000
+473,stanovanje,3.5,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",101.81,2023,,Agencija,581.000
+474,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,84.00,1937,2013,Agencija,275.000
+475,stanovanje,3,,ljubljana-mesto,SP. ŠIŠKA,83.60,1966,2019,Agencija,297.000
+476,stanovanje,4,,ljubljana-mesto,POLJE,147.20,2023,,Agencija,650.000
+477,stanovanje,4,,ljubljana-mesto,POLJE,147.20,2023,,Agencija,650.000
+478,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, ZGORNJA, ŠIŠENSKA, TOP LOKACIJA",70.30,1958,2017,Agencija,249.300
+479,stanovanje,1,,ljubljana-mesto,ZUPANČIČEVA JAMA,31.80,1968,2017,Agencija,149.000
+480,stanovanje,1,,ljubljana-mesto,LJ. ŠIŠKA,37.00,2020,,Agencija,230.000
+481,stanovanje,,,ljubljana-mesto,LJ. VIČ,72.70,1938,,Agencija,310.000
+482,stanovanje,3,,ljubljana-mesto,LJ. CENTER,64.10,1962,,Agencija,295.000
+483,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,48.30,1903,2005,Agencija,164.700
+484,stanovanje,2,,ljubljana-mesto,"LJ. ŠIŠKA, CELOVŠKA CESTA 176",42.96,2023,,Zasebna,259.000
+485,stanovanje,1,,ljubljana-mesto,NOVE JARŠE,32.40,1975,2017,Agencija,155.000
+486,stanovanje,2,,ljubljana-mesto,ZALOG,52.20,2006,2023,Agencija,245.000
+487,stanovanje,3.5,,ljubljana-mesto,LJ. CENTER,126.00,1861,2010,Agencija,585.000
+488,stanovanje,,,ljubljana-mesto,RUDNIK,129.00,2023,,Agencija,349.990
+489,stanovanje,3.5,,ljubljana-mesto,LJ. VIČ,83.90,1939,2023,Agencija,280.000
+490,stanovanje,2,,ljubljana-mesto,"ŠTEPANJSKO NASELJE, BILEČANSKA",65.70,1978,,Agencija,227.000
+491,stanovanje,3,,ljubljana-mesto,"BROD, TACENSKA CESTA",82.50,2003,,Agencija,397.000
+492,stanovanje,3.5,,ljubljana-mesto,"LJ. MOSTE, POLOVICA DVOSTNOVANJSKE HIŠE",166.40,1928,2019,Agencija,325.000
+493,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,72.00,1986,,Agencija,265.000
+494,stanovanje,,,ljubljana-mesto,"LJ. CENTER, POD LJUBLJANSKIM GRADOM",30.40,1959,,Agencija,179.000
+495,stanovanje,1.5,,ljubljana-mesto,"LJ. MOSTE, OBMOČJE POLJE",42.00,1966,2015,Agencija,184.000
+496,stanovanje,4,,ljubljana-mesto,LJ. CENTER,64.10,1962,,Agencija,295.000
+497,stanovanje,,,ljubljana-mesto,LJ. CENTER,226.00,2006,,Agencija,690.000
+498,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, TRIGLAVSKA ULICA",55.70,1963,,Zasebna,200.000
+499,stanovanje,1,,ljubljana-mesto,"ČRNUČE, POLANŠKOVA",44.70,1988,1998,Agencija,180.000
+500,stanovanje,,,ljubljana-mesto,"KODELJEVO, MOSTE",30.00,1962,,Zasebna,180.000
+501,stanovanje,4,,ljubljana-mesto,"LJ. BEŽIGRAD, ČERINOVA",162.91,2023,,Agencija,780.671
+502,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,124.40,2023,,Agencija,576.331
+503,stanovanje,3,,ljubljana-mesto,TRNOVO,80.40,1985,1999,Zasebna,389.000
+504,stanovanje,2,,ljubljana-mesto,RAKOVNIK,50.00,2021,,Zasebna,120.000
+505,stanovanje,3,,ljubljana-mesto,"BROD, TACENSKA CESTA",82.50,2003,,Agencija,397.000
+506,stanovanje,3,,ljubljana-mesto,KODELJEVO,80.00,2021,,Zasebna,379.000
+507,stanovanje,,,ljubljana-mesto,JARŠE,26.80,1952,,Agencija,97.000
+508,stanovanje,,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",196.70,2023,,Agencija,841.000
+509,stanovanje,4,,ljubljana-mesto,BIZOVIK,220.00,2023,,Agencija,482.020
+510,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",93.90,2023,,Agencija,516.000
+511,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",158.28,2023,,Agencija,516.000
+512,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,164.40,2001,,Agencija,590.000
+513,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,142.30,1900,,Agencija,250.000
+514,stanovanje,2.5,,ljubljana-mesto,"LJ. ŠIŠKA, TUGOMERJEVA ULICA, PRENOVLJENO",59.40,1965,2021,Agencija,249.000
+515,stanovanje,2,,ljubljana-mesto,DRAVLJE,44.00,1974,2000,Agencija,196.000
+516,stanovanje,1,,ljubljana-mesto,"LJ. BEŽIGRAD, BRATOVŠEVA PLOŠČAD",33.80,1978,2020,Agencija,169.000
+517,stanovanje,2,,ljubljana-mesto,SAVSKO NASELJE,62.00,1969,,Zasebna,261.000
+518,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,57.60,1965,,Agencija,249.000
+519,stanovanje,4.5,,ljubljana-mesto,POLJE,225.60,1999,,Agencija,726.000
+520,stanovanje,4,,ljubljana-mesto,LJ. ŠIŠKA,85.50,1870,1975,Agencija,430.000
+521,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, RIMSKA CESTA, FERANTOV VRT",89.20,1969,2020,Agencija,440.000
+522,stanovanje,4,,ljubljana-mesto,SP. ŠIŠKA,76.80,1964,2017,Agencija,385.000
+523,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, GALETOV BLOK",108.00,1935,2003,Agencija,449.000
+524,stanovanje,,,ljubljana-mesto,KODELJEVO,30.00,1962,,Agencija,180.000
+525,stanovanje,3,,ljubljana-mesto,LJ. VIČ,72.80,2006,,Agencija,370.000
+526,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,446.779
+527,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,451.466
+528,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",68.48,2024,,Agencija,307.868
+529,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,456.152
+530,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",78.60,2024,,Agencija,389.360
+531,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,446.779
+532,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",78.60,2024,,Agencija,379.987
+533,stanovanje,3,,ljubljana-mesto,"KOSEZE, TERASASTI BLOKI",92.90,1978,2021,Agencija,330.000
+534,stanovanje,4.5,,ljubljana-mesto,LJ. ŠIŠKA,113.40,2019,,Agencija,700.000
+535,stanovanje,3,,ljubljana-mesto,ŠENTVID,73.00,1963,,Agencija,235.000
+536,stanovanje,2,,ljubljana-mesto,"LJ. MOSTE, PARTIZANSKA ULICA",50.40,1950,,Agencija,125.000
+537,stanovanje,,,ljubljana-mesto,"TRNOVO, SPEKTAKULARNI POGLEDI",250.00,1983,2008,Agencija,985.000
+538,stanovanje,3.5,,ljubljana-mesto,"DOBRUNJE, 1A - 2",146.88,2024,,Agencija,499.800
+539,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,58.50,1974,2021,Agencija,239.900
+540,stanovanje,3,,ljubljana-mesto,"ČRNUČE, MED ČEŠNJAMI",105.15,2019,,Agencija,445.000
+541,stanovanje,2,,ljubljana-mesto,ZG. KAŠELJ,51.97,2006,2023,Agencija,245.000
+542,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, TABOR",72.40,2023,,Agencija,350.334
+543,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, TABOR",73.40,2023,,Agencija,361.705
+544,stanovanje,1,,ljubljana-mesto,FUŽINE,42.00,1986,2010,Zasebna,203.000
+545,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, TABOR",171.00,2023,,Agencija,399.804
+546,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,456.152
+547,stanovanje,4,,ljubljana-mesto,FUŽINE,98.43,1986,2012,Agencija,329.000
+548,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, ZGORNJA",79.50,1968,2018,Agencija,318.000
+549,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,451.466
+550,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, MURGLE",165.00,2023,,Agencija,999.000
+551,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,446.779
+552,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, MURGLE",185.00,2023,,Agencija,1.200.000
+553,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.60,2024,,Agencija,379.987
+554,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,174.00,1997,,Agencija,760.000
+555,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,456.152
+556,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, 1A LOKACIJA ADAPTIRANO",73.90,1976,2022,Agencija,293.600
+557,stanovanje,3,,ljubljana-mesto,LJ. VIČ,84.20,1966,2023,Agencija,378.000
+558,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,89.90,1943,2005,Agencija,429.000
+559,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,45.20,1980,2019,Agencija,182.000
+560,stanovanje,,,ljubljana-mesto,KOSEZE,42.50,2023,,Zasebna,229.380
+561,stanovanje,2,,ljubljana-mesto,"DRAVLJE, BRILEJEVA",56.00,1982,,Zasebna,275.000
+562,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, DALMATINOVA ULICA 5",102.60,1910,2010,Zasebna,499.000
+563,stanovanje,2.5,,ljubljana-mesto,"LJ. VIČ, RAMOVŠEVA ULICA",50.30,2003,,Agencija,236.000
+564,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, TABOR",119.70,2023,,Agencija,352.157
+565,stanovanje,2,,ljubljana-mesto,LJ. CENTER,70.20,1927,2001,Agencija,264.000
+566,stanovanje,3,,ljubljana-mesto,LJ. CENTER,94.90,1865,2010,Agencija,590.000
+567,stanovanje,2,,ljubljana-mesto,"SP. ŠIŠKA, CELOVŠKA CESTA",49.70,1966,2006,Agencija,215.000
+568,stanovanje,4,,ljubljana-mesto,LJ. CENTER,206.50,1520,2010,Agencija,1.450.000
+569,stanovanje,1,,ljubljana-mesto,LJ. CENTER,41.00,1930,2022,Agencija,198.000
+570,stanovanje,3,,ljubljana-mesto,DRAVLJE,79.73,1981,,Agencija,289.000
+571,stanovanje,2,,ljubljana-mesto,LJ. CENTER,53.30,1902,2016,Agencija,245.000
+572,stanovanje,4,,ljubljana-mesto,ŠTEPANJSKO NASELJE,97.70,1977,2017,Agencija,350.000
+573,stanovanje,3.5,,ljubljana-mesto,LJ. ŠIŠKA,104.90,2022,,Agencija,730.000
+574,stanovanje,,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",257.50,2023,,Agencija,973.000
+575,stanovanje,3,,ljubljana-mesto,PRULE,146.30,2008,2008,Agencija,420.000
+576,stanovanje,,,ljubljana-mesto,LJ. CENTER,190.00,1912,1976,Agencija,650.000
+577,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",146.86,2023,,Agencija,751.000
+578,stanovanje,2.5,,ljubljana-mesto,LJ. BEŽIGRAD,56.90,1939,2022,Agencija,238.000
+579,stanovanje,4,,ljubljana-mesto,ZG. ŠIŠKA,95.20,2022,,Agencija,544.215
+580,stanovanje,3,,ljubljana-mesto,LJ. VIČ,69.00,2023,,Agencija,309.205
+581,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,126.90,1998,,Agencija,595.000
+582,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,106.53,2023,,Agencija,368.436
+583,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,64.55,2008,,Zasebna,255.000
+584,stanovanje,2,,ljubljana-mesto,LJ. CENTER,101.14,2023,,Agencija,795.256
+585,stanovanje,2,,ljubljana-mesto,LJ. CENTER,98.57,2023,,Agencija,534.945
+586,stanovanje,2,,ljubljana-mesto,LJ. CENTER,98.64,2023,,Agencija,674.300
+587,stanovanje,,,ljubljana-mesto,"LJ. CENTER, POD LJUBLJANSKIM GRADOM",30.00,1959,,Zasebna,179.000
+588,stanovanje,,,ljubljana-mesto,"LJ. MOSTE, KODELJEVO",30.00,1962,,Agencija,180.000
+589,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,29.30,1938,,Zasebna,137.000
+590,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, NOVOGRADNJA ŠUMI",104.30,2023,,Agencija,880.000
+591,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,61.89,1974,2016,Agencija,238.000
+592,stanovanje,2,,ljubljana-mesto,LJ. CENTER,50.90,2009,,Agencija,360.000
+593,stanovanje,2,,ljubljana-mesto,BROD,79.40,2006,,Agencija,262.000
+594,stanovanje,,,ljubljana-mesto,LJ. CENTER,221.60,2009,,Agencija,1.320.000
+595,stanovanje,1,,ljubljana-mesto,BEŽIGRAJSKI DVOR,42.00,1996,2012,Zasebna,255.000
+596,stanovanje,2,,ljubljana-mesto,"ŠTEPANJA VAS, UL. VIDE JANEŽIČEVE",61.50,1975,2018,Agencija,225.000
+597,stanovanje,1,,ljubljana-mesto,"LJ. ŠIŠKA, ADAMIČEVA ULICA",28.30,1976,2019,Agencija,147.990
+598,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, BLIŽINA ŠOLE, ZDRAVSTVENEGA DOMA",76.30,1964,2018,Agencija,364.000
+599,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, RUDNIK, DOLENJSKA CESTA",68.70,1856,2019,Agencija,225.000
+600,stanovanje,,,ljubljana-mesto,"LJ. CENTER, ULICA JANEZA PAVLA II.",19.80,1900,,Agencija,129.000
+601,stanovanje,3,,ljubljana-mesto,LJ. VIČ,84.00,1965,2019,Agencija,369.000
+602,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,72.40,2023,,Agencija,449.201
+603,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, IZJEMNO SVETLO",59.40,1965,2021,Agencija,249.000
+604,stanovanje,4,,ljubljana-mesto,"LJ. BEŽIGRAD, ČERINOVA ULICA",134.30,2023,,Agencija,748.011
+605,stanovanje,2.5,,ljubljana-mesto,LJ. ŠIŠKA,58.00,1890,2018,Agencija,275.000
+606,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, MOŽEN DOKUP GARAŽE",76.30,1964,2018,Agencija,364.000
+607,stanovanje,2.5,,ljubljana-mesto,SP. ŠIŠKA,58.00,1890,2018,Agencija,275.000
+608,stanovanje,4,,ljubljana-mesto,LJ. CENTER,197.20,2021,,Agencija,850.000
+609,stanovanje,3.5,,ljubljana-mesto,"DOBRUNJE, 1B - 2",146.88,2024,,Agencija,499.800
+610,stanovanje,3,,ljubljana-mesto,"DOBRUNJE, ZADNJA ATRIJSKA ENOTA",71.00,2024,,Agencija,348.000
+611,stanovanje,2,,ljubljana-mesto,TRNOVO,57.50,1966,,Agencija,235.000
+612,stanovanje,2,,ljubljana-mesto,ŠTEPANJSKO NASELJE,63.60,1975,2021,Agencija,240.000
+613,stanovanje,,,ljubljana-mesto,"ROŽNA DOLINA, S SOUPORABO VRTA",72.00,1938,2020,Agencija,310.000
+614,stanovanje,3,,ljubljana-mesto,"ŠENTVID, PRUŠNIKOVA ULICA",86.90,1986,2012,Agencija,325.000
+615,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,51.70,1934,2023,Agencija,230.000
+616,stanovanje,1,,ljubljana-mesto,LJ. BEŽIGRAD,38.60,1934,2023,Agencija,180.000
+617,stanovanje,1,,ljubljana-mesto,LJ. BEŽIGRAD,42.00,1934,2023,Agencija,190.000
+618,stanovanje,1,,ljubljana-mesto,LJ. BEŽIGRAD,51.40,1934,2023,Agencija,210.000
+619,stanovanje,1,,ljubljana-mesto,LJ. BEŽIGRAD,51.90,1934,2023,Agencija,220.000
+620,stanovanje,,,ljubljana-mesto,LJ. VIČ,42.80,1987,,Agencija,192.600
+621,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,128.60,1980,2013,Agencija,479.000
+622,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,24.90,1966,,Agencija,139.000
+623,stanovanje,3,,ljubljana-mesto,VODMAT,93.10,1980,2017,Agencija,552.000
+624,stanovanje,3,,ljubljana-mesto,LJ. CENTER,93.10,1980,2017,Agencija,552.000
+625,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,78.90,1978,2015,Agencija,319.000
+626,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,122.00,2025,,Agencija,610.000
+627,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,102.20,2025,,Agencija,373.000
+628,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,89.70,2025,,Agencija,480.000
+629,stanovanje,4,,ljubljana-mesto,ZALOG,113.00,1978,2017,Agencija,320.000
+630,stanovanje,2.5,,ljubljana-mesto,LJ. BEŽIGRAD,66.50,1978,2018,Agencija,250.000
+631,stanovanje,,,ljubljana-mesto,LJ. CENTER,282.60,1860,2018,Agencija,1.250.000
+632,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, PODUTIK, KRIVEC",99.50,1991,2005,Agencija,488.000
+633,stanovanje,4,,ljubljana-mesto,DOLGI MOST,225.80,2024,,Agencija,381.000
+634,stanovanje,4,,ljubljana-mesto,DOLGI MOST,225.80,2024,,Agencija,396.000
+635,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,53.80,1963,2023,Agencija,244.900
+636,stanovanje,1,,ljubljana-mesto,"ŠTEPANJA VAS, LJ.",40.60,1978,,Zasebna,195.000
+637,stanovanje,4,,ljubljana-mesto,LJ. CENTER,210.04,2021,,Agencija,850.000
+638,stanovanje,3,,ljubljana-mesto,"ČRNUČE, PRENOVLJENO",54.30,1975,2007,Agencija,229.000
+639,stanovanje,1,,ljubljana-mesto,LJ. MOSTE,42.90,1976,,Agencija,180.000
+640,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",68.48,2024,,Agencija,310.211
+641,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",68.48,2024,,Agencija,310.211
+642,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",78.51,2024,,Agencija,379.618
+643,stanovanje,,,ljubljana-mesto,"DOLGI MOST, RAMOVŠEVA ULICA",28.90,2004,,Zasebna,169.000
+644,stanovanje,3,,ljubljana-mesto,LJ. VIČ,84.20,1966,2023,Agencija,378.000
+645,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,118.60,1929,,Agencija,379.000
+646,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,446.779
+647,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,113.50,1972,2006,Agencija,419.000
+648,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,307.868
+649,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, KOSEZE",94.60,1978,,Agencija,380.000
+650,stanovanje,,,ljubljana-mesto,"VIŽMARJE, LASTNIŠKO PARKIRNO MESTO",32.10,2004,,Agencija,155.000
+651,stanovanje,3,,ljubljana-mesto,RUDNIK,96.30,1960,2011,Agencija,297.000
+652,stanovanje,3.5,,ljubljana-mesto,ZELENA JAMA,76.20,2009,,Agencija,492.000
+653,stanovanje,4.5,,ljubljana-mesto,"LJ. MOSTE, ZALOG",112.90,2023,,Agencija,450.000
+654,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.10,2025,,Agencija,350.000
+655,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,55.80,2025,,Agencija,288.000
+656,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,147.50,2025,,Agencija,720.000
+657,stanovanje,4,,ljubljana-mesto,SP. ŠIŠKA,94.50,1928,2020,Agencija,274.000
+658,stanovanje,2,,ljubljana-mesto,NOVE JARŠE,48.90,1961,,Agencija,236.000
+659,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, SAVSKI KAMEN 2",84.00,2006,,Agencija,549.000
+660,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,56.94,1977,2020,Zasebna,220.000
+661,stanovanje,3,,ljubljana-mesto,ŠTEPANJSKO NASELJE,80.68,1976,,Zasebna,290.000
+662,stanovanje,3,,ljubljana-mesto,LJ. CENTER,65.00,1873,2013,Zasebna,225.000
+663,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,51.00,2025,,Agencija,270.000
+664,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,67.90,2025,,Agencija,365.000
+665,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,106.00,2025,,Agencija,546.000
+666,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,64.49,2023,,Agencija,330.000
+667,stanovanje,1,,ljubljana-mesto,"LJ. MOSTE, NASPROTI PETROLA, DVIGALO",31.37,1970,,Agencija,170.000
+668,stanovanje,4,,ljubljana-mesto,LJ. CENTER,159.90,2023,,Agencija,610.000
+669,stanovanje,,,ljubljana-mesto,"LJ. VIČ, V BLIŽINI KOPALIŠČA KOLEZIJA",154.00,2001,,Agencija,649.000
+670,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,135.10,2025,,Agencija,715.000
+671,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,56.90,2025,,Agencija,255.000
+672,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,51.40,2025,,Agencija,235.000
+673,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, IZJEMNA LOKACIJA, ČUDOVIT RAZGLED",100.50,1956,2011,Agencija,521.000
+674,stanovanje,2,,ljubljana-mesto,ROŽNA DOLINA,65.88,2023,,Agencija,455.000
+675,stanovanje,4,,ljubljana-mesto,LJ. VIČ,119.90,2023,,Agencija,407.922
+676,stanovanje,4,,ljubljana-mesto,"LJ. MOSTE, ZALOG, ODPRT POGLED",154.30,2023,,Agencija,460.000
+677,stanovanje,3,,ljubljana-mesto,LJ. VIČ,120.80,2023,,Agencija,309.205
+678,stanovanje,4,,ljubljana-mesto,LJ. CENTER,204.90,1600,1950,Agencija,580.000
+679,stanovanje,4.5,,ljubljana-mesto,"ZALOG, ODPRT POGLED",137.90,2023,,Agencija,450.000
+680,stanovanje,,,ljubljana-mesto,LJ. CENTER,242.70,1861,2010,Agencija,2.000.000
+681,stanovanje,3,,ljubljana-mesto,TRNOVO,66.40,1966,2018,Agencija,345.000
+682,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,63.60,1975,,Agencija,240.000
+683,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,90.30,2025,,Agencija,450.000
+684,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,82.80,2025,,Agencija,304.000
+685,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,46.30,2025,,Agencija,239.000
+686,stanovanje,4,,ljubljana-mesto,RUDNIK,210.04,2021,,Agencija,850.000
+687,stanovanje,2.5,,ljubljana-mesto,LJ. ŠIŠKA,73.70,1948,2008,Agencija,235.500
+688,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, EKSKLUZIVNO STANOVANJE",100.50,1956,,Agencija,535.000
+689,stanovanje,2,,ljubljana-mesto,LJ. VIČ,61.18,1973,2023,Agencija,255.000
+690,stanovanje,3,,ljubljana-mesto,LJ. CENTER,105.00,1880,2016,Agencija,590.000
+691,stanovanje,1,,ljubljana-mesto,LJ. BEŽIGRAD,39.70,2014,2014,Agencija,195.400
+692,stanovanje,3,,ljubljana-mesto,ŠTEPANJSKO NASELJE,86.10,1974,2012,Agencija,289.000
+693,stanovanje,4,,ljubljana-mesto,BIZOVIK,177.75,2023,,Agencija,583.875
+694,stanovanje,3,,ljubljana-mesto,LJ. CENTER,132.50,1775,2015,Agencija,760.000
+695,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,71.90,1960,2019,Agencija,253.000
+696,stanovanje,3,,ljubljana-mesto,LJ. MOSTE,83.90,1974,2015,Agencija,315.000
+697,stanovanje,3,,ljubljana-mesto,LJ. CENTER,86.60,1735,2023,Agencija,420.000
+698,stanovanje,3,,ljubljana-mesto,LJ. CENTER,94.30,1735,2023,Agencija,550.000
+699,stanovanje,4,,ljubljana-mesto,"LJ. VIČ, ROŽNA DOLINA, GIMNAZIJA",264.10,1939,2012,Agencija,649.000
+700,stanovanje,3,,ljubljana-mesto,"VEVČE, VEČJE, PROSTORNO",103.80,1955,,Agencija,264.000
+701,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, SCHELLENBURG JUŽNA FASADA",142.00,2023,,Agencija,980.000
+702,stanovanje,1,,ljubljana-mesto,"KODELJEVO, MOŠKRIČEVA",31.90,1965,,Agencija,169.000
+703,stanovanje,2.5,,ljubljana-mesto,"RUDNIK, DOLENJSKA C.",53.50,1950,2005,Agencija,209.000
+704,stanovanje,2.5,,ljubljana-mesto,POLJE,65.50,1977,2014,Agencija,221.000
+705,stanovanje,2,,ljubljana-mesto,POLJE,65.50,1977,2014,Agencija,221.000
+706,stanovanje,4,,ljubljana-mesto,STANEŽIČE,245.00,2023,,Agencija,1.150.000
+707,stanovanje,3,,ljubljana-mesto,STANEŽIČE,207.00,2023,,Agencija,750.000
+708,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,446.779
+709,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,310.211
+710,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, GORAZDOVA",75.20,1961,2021,Agencija,279.000
+711,stanovanje,4,,ljubljana-mesto,TRNOVO,85.10,1924,redno,Agencija,319.700
+712,stanovanje,4,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",183.40,2024,,Agencija,587.838
+713,stanovanje,2.5,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",139.30,2024,,Agencija,369.661
+714,stanovanje,4,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",183.40,2024,,Agencija,597.912
+715,stanovanje,2.5,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",109.40,2024,,Agencija,367.449
+716,stanovanje,4,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",162.60,2024,,Agencija,581.576
+717,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,55.20,2023,,Agencija,319.973
+718,stanovanje,3,,ljubljana-mesto,BIZOVIK,103.50,1981,2020,Agencija,225.000
+719,stanovanje,3,,ljubljana-mesto,BIZOVIK,84.30,1981,2020,Agencija,199.000
+720,stanovanje,4,,ljubljana-mesto,ZELENA JAMA,219.52,2023,,Agencija,599.418
+721,stanovanje,2.5,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",114.30,2024,,Agencija,366.064
+722,stanovanje,4,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",162.50,2024,,Agencija,580.175
+723,stanovanje,4,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",166.00,2024,,Agencija,588.146
+724,stanovanje,4,,ljubljana-mesto,"JEŽICA, NOVOGRADNJA",166.00,2024,,Agencija,588.497
+725,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, BAVARSKI DVOR",100.50,1956,2011,Agencija,495.000
+726,stanovanje,1.5,,ljubljana-mesto,ČRNUČE,46.80,2018,,Agencija,272.000
+727,stanovanje,2,,ljubljana-mesto,PRULE,62.80,1936,2010,Agencija,240.000
+728,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,446.779
+729,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",68.48,2024,,Agencija,310.211
+730,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK 4",68.48,2024,,Agencija,307.868
+731,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",94.34,2024,,Agencija,478.749
+732,stanovanje,2,,ljubljana-mesto,"LJ. ŠIŠKA, LITOSTROJSKA CESTA",56.30,1964,2020,Agencija,231.600
+733,stanovanje,1,,ljubljana-mesto,LJ. BEŽIGRAD,32.70,1939,2009,Agencija,139.000
+734,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, ZUPANČIČEVA JAMA",78.60,1932,2008,Agencija,345.000
+735,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, ZG.",68.90,1969,2019,Agencija,290.000
+736,stanovanje,4,,ljubljana-mesto,"LJ. VIČ, NA OBROBJU ROŽNE DOLINE",183.00,2020,,Agencija,849.000
+737,stanovanje,1,,ljubljana-mesto,"PRULE, NEPOSREDNA BLIŽINA MESTA",33.30,1896,,Agencija,159.900
+738,stanovanje,4,,ljubljana-mesto,BIZOVIK,347.25,2023,,Agencija,542.676
+739,stanovanje,3,,ljubljana-mesto,LJ. VIČ,120.80,2023,,Agencija,309.205
+740,stanovanje,3,,ljubljana-mesto,LJ. VIČ,77.10,2023,,Agencija,299.705
+741,stanovanje,3,,ljubljana-mesto,LJ. VIČ,120.80,2023,,Agencija,309.205
+742,stanovanje,3,,ljubljana-mesto,"ŠENTVID, PARKIRNO MESTO",92.20,2004,,Agencija,333.000
+743,stanovanje,1.5,,ljubljana-mesto,LJ. MOSTE,31.70,1926,2006,Agencija,135.000
+744,stanovanje,2,,ljubljana-mesto,LJ. CENTER,82.97,2023,,Agencija,620.000
+745,stanovanje,3,,ljubljana-mesto,"BS 3, BS3 - MAROLTOVA",75.70,1977,,Agencija,299.000
+746,stanovanje,3,,ljubljana-mesto,"LJ. MOSTE, CENTER, POLJANE",87.00,2006,,Agencija,425.000
+747,stanovanje,2.5,,ljubljana-mesto,"LJ. BEŽIGRAD, S PARKIRNIM MESTOM",68.90,2011,,Agencija,380.000
+748,stanovanje,3,,ljubljana-mesto,LJ. CENTER,111.50,1920,2013,Agencija,546.000
+749,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,110.85,2023,,Agencija,395.349
+750,stanovanje,2.5,,ljubljana-mesto,BS 3,56.00,1977,2021,Zasebna,264.000
+751,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, ATRIJSKO STANOVANJE",70.30,2023,,Agencija,309.205
+752,stanovanje,4,,ljubljana-mesto,"LJ. VIČ, PENTHOUSE",124.52,2023,,Agencija,407.922
+753,stanovanje,4.5,,ljubljana-mesto,LJ. BEŽIGRAD,117.60,2002,2019,Agencija,509.000
+754,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,113.38,2023,,Agencija,423.689
+755,stanovanje,1,,ljubljana-mesto,LJ. MOSTE,31.72,1926,2006,Agencija,135.000
+756,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,359.70,2011,2023,Agencija,970.000
+757,stanovanje,2,,ljubljana-mesto,ZUPANČIČEVA JAMA,121.35,1997,2023,Agencija,614.748
+758,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,176.49,2023,,Agencija,419.638
+759,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.35,2024,,Agencija,446.779
+760,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,307.868
+761,stanovanje,2.5,,ljubljana-mesto,LJ. VIČ,54.70,1961,,Agencija,222.000
+762,stanovanje,3,,ljubljana-mesto,LJ. CENTER,88.00,1760,2015,Agencija,359.000
+763,stanovanje,,,ljubljana-mesto,"LJ. VIČ, 3 KM DO SUPERNOVE RUDNIK",126.60,2001,2016,Agencija,369.000
+764,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,60.33,2024,,Agencija,302.487
+765,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, STARA GRBINA",67.50,1986,,Agencija,280.000
+766,stanovanje,2,,ljubljana-mesto,FUŽINE,64.50,1981,2005,Agencija,250.000
+767,stanovanje,1,,ljubljana-mesto,LJ. ŠIŠKA,65.40,1946,2021,Agencija,224.000
+768,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, HERBERSTEINOVA ULICA",48.50,1958,2021,Agencija,189.000
+769,stanovanje,3,,ljubljana-mesto,ŠENTVID,77.10,1965,2016,Agencija,285.000
+770,stanovanje,2,,ljubljana-mesto,"LJ. MOSTE, LJ DOBRUNJE",42.00,1930,2005,Zasebna,165.000
+771,stanovanje,3,,ljubljana-mesto,RUDNIK,81.90,2011,,Agencija,420.000
+772,stanovanje,2,,ljubljana-mesto,"LJ. ŠIŠKA, LITOSTROJSKA CESTA",56.30,1964,2020,Agencija,231.600
+773,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK ŠT. 33",78.60,2024,,Agencija,379.987
+774,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK ŠT. 3",78.60,2024,,Agencija,389.360
+775,stanovanje,2.5,,ljubljana-mesto,ZELENA JAMA,69.00,1960,2019,Agencija,260.000
+776,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, KERSNIKOVA ULICA",103.20,1957,,Agencija,410.000
+777,stanovanje,2,,ljubljana-mesto,LJ. CENTER,91.62,2023,,Agencija,620.000
+778,stanovanje,2,,ljubljana-mesto,ŠTEPANJSKO NASELJE,60.10,1975,2007,Agencija,230.000
+779,stanovanje,4,,ljubljana-mesto,KOLEZIJA,157.35,2023,,Agencija,895.000
+780,stanovanje,4,,ljubljana-mesto,DOLGI MOST,82.01,2023,,Agencija,407.922
+781,stanovanje,3,,ljubljana-mesto,ŠTEPANJSKO NASELJE,83.90,1974,2018,Agencija,315.000
+782,stanovanje,4,,ljubljana-mesto,DOLGI MOST,78.28,2023,,Agencija,407.922
+783,stanovanje,3,,ljubljana-mesto,DOLGI MOST,70.30,2023,,Agencija,309.205
+784,stanovanje,4,,ljubljana-mesto,BIZOVIK,217.00,2023,,Agencija,463.842
+785,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,71.00,1960,2019,Agencija,260.000
+786,stanovanje,2.5,,ljubljana-mesto,LJ. BEŽIGRAD,64.20,2023,,Agencija,379.668
+787,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, VILHARJEVA CESTA, OBJEKT SITULA",57.00,2012,,Agencija,320.000
+788,stanovanje,4,,ljubljana-mesto,ZUPANČIČEVA JAMA,174.00,1997,,Agencija,780.000
+789,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,152.89,2023,,Agencija,580.000
+790,stanovanje,4,,ljubljana-mesto,"ŠENTVID, VEČJA TERASA, OPREMLJENO",120.00,1890,2011,Agencija,399.000
+791,stanovanje,2,,ljubljana-mesto,"ŠENTVID, PRUŠNIKOVA",51.70,1972,,Agencija,210.000
+792,stanovanje,3,,ljubljana-mesto,RUDNIK,74.50,2020,,Agencija,420.000
+793,stanovanje,3,,ljubljana-mesto,LJ. VIČ,88.70,2003,,Agencija,388.000
+794,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, KARLOVŠKA CESTA",84.30,1800,,Agencija,215.000
+795,stanovanje,3,,ljubljana-mesto,DOLGI MOST,77.20,1015,2010,Agencija,219.000
+796,stanovanje,4,,ljubljana-mesto,"KOSEZE, ZNIŽANA CENA",100.50,1978,2022,Agencija,380.000
+797,stanovanje,,,ljubljana-mesto,LJ. VIČ,147.50,1974,1990,Agencija,379.000
+798,stanovanje,,,ljubljana-mesto,LJ. VIČ,147.50,1974,1990,Agencija,379.000
+799,stanovanje,3,,ljubljana-mesto,"ČRNUČE, MED ČEŠNJAMI",86.72,2018,,Agencija,369.000
+800,stanovanje,4,,ljubljana-mesto,RUDNIK,102.00,1971,2022,Agencija,290.000
+801,stanovanje,3,,ljubljana-mesto,NOVE JARŠE,81.40,1981,2014,Agencija,395.000
+802,stanovanje,1,,ljubljana-mesto,LJ. ŠIŠKA,31.40,1903,,Agencija,125.000
+803,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2023,,Agencija,310.211
+804,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2023,,Agencija,310.211
+805,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,446.779
+806,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,446.779
+807,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,90.70,2023,,Agencija,580.000
+808,stanovanje,4,,ljubljana-mesto,LJ. VIČ,95.97,2023,,Agencija,610.000
+809,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, PARKIRNO MESTO, TERASA",163.00,1895,,Agencija,890.000
+810,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,359.70,2011,,Agencija,970.000
+811,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,42.16,1976,2002,Agencija,190.000
+812,stanovanje,4,,ljubljana-mesto,BIZOVIK,177.75,2023,,Agencija,583.875
+813,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, BLIZU RTV, ZA INVESTICIJO",68.50,1988,2015,Agencija,330.000
+814,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, EKO SREBRNA HIŠA",65.30,2014,,Agencija,369.000
+815,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2025,,Agencija,310.211
+816,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2025,,Agencija,446.779
+817,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BLIŽINA CENTRA",62.10,1971,2021,Agencija,259.000
+818,stanovanje,1.5,,ljubljana-mesto,"LJ. ŠIŠKA, KOSEZE, PREDELANO V 2, 5 SOBNO",35.90,1974,2015,Agencija,265.000
+819,stanovanje,,,ljubljana-mesto,"LJ. BEŽIGRAD, 1A DUPLEKS REZIDENCA",359.70,2011,,Agencija,970.000
+820,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,55.00,1966,2013,Agencija,€220.000
+821,stanovanje,3,,ljubljana-mesto,LJ. CENTER,121.60,1920,2014,Agencija,860.000
+822,stanovanje,3,,ljubljana-mesto,ČRNUČE,89.70,2024,,Agencija,388.634
+823,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,107.45,2023,,Agencija,589.880
+824,stanovanje,4,,ljubljana-mesto,"LJ. BEŽIGRAD, ČERINOVA ULICA",123.81,2023,,Agencija,739.066
+825,stanovanje,4,,ljubljana-mesto,DOLGI MOST,120.00,2023,,Agencija,407.922
+826,stanovanje,4,,ljubljana-mesto,"ČRNUČE, POT K SEJMIŠČU",107.74,2008,,Agencija,449.000
+827,stanovanje,4,,ljubljana-mesto,SP. ŠIŠKA,100.13,2008,,Zasebna,490.000
+828,stanovanje,4,,ljubljana-mesto,FUŽINE,91.00,1981,,Agencija,310.000
+829,stanovanje,2.5,,ljubljana-mesto,"LJ. ŠIŠKA, MARTINA KRPANA ULICA",59.40,1961,,Agencija,225.000
+830,stanovanje,,,ljubljana-mesto,LJ. CENTER,166.40,2023,,Agencija,1.500.000
+831,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, MEŠČANSKO STANOVANJE S TERASO",87.20,1935,,Agencija,340.000
+832,stanovanje,3,,ljubljana-mesto,LJ. MOSTE,59.30,1961,2012,Agencija,248.000
+833,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, STANOVANJE Z VRTOM",103.50,1925,2000,Agencija,550.000
+834,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, V OSRČJU CENTRU MESTA",45.00,1921,,Agencija,227.000
+835,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,110.16,2023,,Agencija,411.106
+836,stanovanje,4,,ljubljana-mesto,"STARA LJ., ZELENA LOKACIJA, CENTER MESTA",140.00,1902,2003,Agencija,649.000
+837,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,70.30,2023,,Agencija,348.799
+838,stanovanje,2,,ljubljana-mesto,POLJE,60.00,2007,2012,Zasebna,200.000
+839,stanovanje,2,,ljubljana-mesto,LJ. CENTER,76.90,2005,,Agencija,499.000
+840,stanovanje,,,ljubljana-mesto,LJ. CENTER,194.90,1979,,Agencija,450.000
+841,stanovanje,3.5,,ljubljana-mesto,LJ. CENTER,137.10,1874,2022,Agencija,449.000
+842,stanovanje,3,,ljubljana-mesto,RAKOVA JELŠA,108.40,1978,2016,Agencija,319.000
+843,stanovanje,2,,ljubljana-mesto,LJ. VIČ,54.30,1978,2022,Agencija,245.000
+844,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,29.30,1938,,Agencija,137.000
+845,stanovanje,3,,ljubljana-mesto,"TRNOVO, TRNOVSKO PREDMESTJE",108.40,1978,2016,Agencija,319.000
+846,stanovanje,3,,ljubljana-mesto,ČRNUČE,85.00,1983,2020,Zasebna,320.000
+847,stanovanje,1.5,,ljubljana-mesto,LJ. ŠIŠKA,59.00,1965,2017,Zasebna,272.000
+848,stanovanje,,,ljubljana-mesto,"LJ. CENTER, TABOR",21.10,1991,,Agencija,198.000
+849,stanovanje,4,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽIDANOV KVART",80.91,2025,,Agencija,389.525
+850,stanovanje,4.5,,ljubljana-mesto,TRNOVO,255.00,2022,,Agencija,999.000
+851,stanovanje,4.5,,ljubljana-mesto,TRNOVO,210.48,2022,,Agencija,989.000
+852,stanovanje,2,,ljubljana-mesto,"LJ. MOSTE, NOVE JARŠE",51.40,1963,2019,Agencija,219.000
+853,stanovanje,4,,ljubljana-mesto,LJ. CENTER,140.00,1902,2000,Agencija,590.000
+854,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,66.00,1963,,Agencija,220.000
+855,stanovanje,4,,ljubljana-mesto,FUŽINE,88.80,1988,,Agencija,320.000
+856,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,74.40,1965,,Agencija,295.000
+857,stanovanje,4,,ljubljana-mesto,LJ. CENTER,133.00,1895,2012,Agencija,599.000
+858,stanovanje,4,,ljubljana-mesto,LJ. MOSTE,97.90,1977,,Agencija,350.000
+859,stanovanje,1,,ljubljana-mesto,ČRNUČE,34.30,1959,2000,Agencija,145.000
+860,stanovanje,3,,ljubljana-mesto,TACEN,79.00,2023,,Agencija,516.811
+861,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,65.00,1935,2022,Agencija,300.000
+862,stanovanje,1.5,,ljubljana-mesto,NOVE JARŠE,50.00,1970,,Zasebna,239.000
+863,stanovanje,1.5,,ljubljana-mesto,"LJ. ŠIŠKA, ANDREAŠEVA ULICA",40.80,1978,,Agencija,196.000
+864,stanovanje,4,,ljubljana-mesto,LJ. ŠIŠKA,111.98,2023,,Agencija,519.080
+865,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,446.779
+866,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,451.466
+867,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,63.88,2023,,Agencija,314.296
+868,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, ČISTI",70.00,1939,2020,Zasebna,310.000
+869,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,307.868
+870,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,446.779
+871,stanovanje,2.5,,ljubljana-mesto,TRNOVO,80.00,2005,,Agencija,425.000
+872,stanovanje,3,,ljubljana-mesto,"ŠTEPANJA VAS, PARMSKA CESTA",77.40,1971,2021,Agencija,290.000
+873,stanovanje,1,,ljubljana-mesto,"DRAVLJE, LJ. PILONOVA 8",45.00,2008,,Zasebna,200.000
+874,stanovanje,2,,ljubljana-mesto,"LJ. MOSTE, ŠTEPANJSKO NASELJE",63.90,1975,,Agencija,219.000
+875,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",68.48,2024,,Agencija,310.211
+876,stanovanje,4,,ljubljana-mesto,VEVČE,160.00,2023,,Agencija,649.000
+877,stanovanje,1.5,,ljubljana-mesto,"DOLGI MOST, NASELJE BELI GAJ",43.00,2004,2023,Zasebna,247.000
+878,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, ILIRSKA ULICA, PRENOVLJENO",66.50,1965,2010,Agencija,319.000
+879,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, TRNOVO",67.00,1966,2018,Zasebna,345.000
+880,stanovanje,3.5,,ljubljana-mesto,"BS 3, BEŽIGRAD",80.00,1977,2017,Zasebna,350.000
+881,stanovanje,4,,ljubljana-mesto,LJ. VIČ,122.00,1898,,Agencija,398.000
+882,stanovanje,2,,ljubljana-mesto,"STARA LJ., MEŠČANSKO STANOVANJE",46.70,1600,2018,Agencija,348.000
+883,stanovanje,3.5,,ljubljana-mesto,"LJ. BEŽIGRAD, DVIGALO, VSA INFRASTRUKTURA",96.40,1937,,Agencija,289.000
+884,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,71.00,1958,2014,Zasebna,293.000
+885,stanovanje,,,ljubljana-mesto,LJ. CENTER,24.00,1998,,Agencija,200.000
+886,stanovanje,2,,ljubljana-mesto,LJ. VIČ,47.50,1884,2011,Agencija,159.000
+887,stanovanje,2.5,,ljubljana-mesto,LJ. CENTER,69.40,1435,2010,Zasebna,375.000
+888,stanovanje,3,,ljubljana-mesto,DRAVLJE,83.20,1983,,Zasebna,299.500
+889,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, GLAVARJEVA REZIDENCA",63.00,2007,,Agencija,380.000
+890,stanovanje,4,,ljubljana-mesto,"LJ. MOSTE, CENTER MOST",80.00,1972,2022,Agencija,321.000
+891,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,110.93,2023,,Agencija,400.510
+892,stanovanje,,,ljubljana-mesto,LJ. CENTER,36.30,1735,,Agencija,240.000
+893,stanovanje,3.5,,ljubljana-mesto,LJ. MOSTE,73.60,2023,,Agencija,315.000
+894,stanovanje,4.5,,ljubljana-mesto,LJ. VIČ,208.90,2024,,Agencija,650.000
+895,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,310.211
+896,stanovanje,3,,ljubljana-mesto,ČRNUČE,55.20,1937,2000,Agencija,165.000
+897,stanovanje,4,,ljubljana-mesto,LJ. ŠIŠKA,122.95,2022,,Agencija,540.000
+898,stanovanje,3.5,,ljubljana-mesto,LJ. VIČ,103.60,1963,,Agencija,399.000
+899,stanovanje,3,,ljubljana-mesto,"NOVE JARŠE, JARŠKA CESTA",59.60,1952,2019,Agencija,185.000
+900,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,77.01,1940,1997,Agencija,299.500
+901,stanovanje,3.5,,ljubljana-mesto,"SP. ŠIŠKA, BLIŽINA ZDRAVSTVENEGA DOMA",93.50,1950,2013,Agencija,320.000
+902,stanovanje,,,ljubljana-mesto,"BS 3, BS3",161.50,1978,,Agencija,550.000
+903,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,17.00,1983,,Zasebna,90.000
+904,stanovanje,3,,ljubljana-mesto,"LJ. MOSTE, ROJČEVA",75.00,1972,,Zasebna,324.000
+905,stanovanje,4.5,,ljubljana-mesto,"KOLEZIJA, MOŽEN LASTEN VRT/ 1KM OD CENTRA",83.90,1939,2023,Agencija,280.000
+906,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, ERJAVČEVA CESTA 22",125.30,1937,1998,Agencija,852.000
+907,stanovanje,3,,ljubljana-mesto,ZG. ŠIŠKA,68.90,1969,2019,Zasebna,290.000
+908,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, HUBADOVA ULICA",63.48,1963,2015,Agencija,239.000
+909,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.90,2024,,Agencija,446.779
+910,stanovanje,4.5,,ljubljana-mesto,"LJ. CENTER, NEUHAUS",143.70,2021,,Agencija,1.390.000
+911,stanovanje,,,ljubljana-mesto,VODMAT,33.00,1910,,Agencija,159.000
+912,stanovanje,3,,ljubljana-mesto,ČRNUČE,116.60,2024,,Agencija,401.196
+913,stanovanje,4.5,,ljubljana-mesto,TRNOVO,219.10,2022,,Agencija,989.000
+914,stanovanje,2.5,,ljubljana-mesto,LJ. VIČ,52.50,1903,,Agencija,210.000
+915,stanovanje,4,,ljubljana-mesto,FUŽINE,90.60,1981,,Agencija,310.000
+916,stanovanje,2.5,,ljubljana-mesto,LJ. VIČ,52.50,1903,2018,Agencija,210.000
+917,stanovanje,4,,ljubljana-mesto,LJ. CENTER,129.00,1933,2006,Agencija,615.000
+918,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.70,1929,2013,Agencija,289.000
+919,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,128.60,1980,2013,Agencija,479.000
+920,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,72.81,2025,,Agencija,377.078
+921,stanovanje,,,ljubljana-mesto,FUŽINE,97.60,1986,2022,Agencija,306.000
+922,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",81.88,1966,,Zasebna,297.000
+923,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,100.00,2002,,Agencija,590.000
+924,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,120.00,1957,2022,Zasebna,525.000
+925,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,95.10,2023,,Agencija,540.000
+926,stanovanje,4.5,,ljubljana-mesto,TRNOVO,219.10,2022,,Agencija,999.000
+927,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,316.578
+928,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,303.182
+929,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,71.90,1957,,Agencija,279.000
+930,stanovanje,4,,ljubljana-mesto,"ŠENTVID, UREJENO IN MIRNO NASELJE",144.80,2024,,Agencija,495.000
+931,stanovanje,3,,ljubljana-mesto,LJ. CENTER,115.00,1873,2001,Agencija,499.000
+932,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,74.20,1950,,Agencija,230.000
+933,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, ZAČETEK VIČA",115.00,1873,2018,Agencija,499.000
+934,stanovanje,3,,ljubljana-mesto,"ČRNUČE, ČRNUŠKI BAJER 1. FAZA",88.29,2021,,Agencija,380.000
+935,stanovanje,3,,ljubljana-mesto,LJ. CENTER,104.30,2023,,Agencija,880.000
+936,stanovanje,4,,ljubljana-mesto,"LJ. VIČ, DOLGI MOST",119.90,2023,,Agencija,407.922
+937,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, DOLGI MOST",120.80,2023,,Agencija,309.205
+938,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK 19",92.39,2024,,Agencija,456.152
+939,stanovanje,2.5,,ljubljana-mesto,"LJ. BEŽIGRAD, BLIZU CENTRA",79.00,1980,2017,Zasebna,370.000
+940,stanovanje,2,,ljubljana-mesto,LJ. VIČ,47.80,1972,2023,Agencija,274.000
+941,stanovanje,,,ljubljana-mesto,TRNOVO,255.00,2022,,Agencija,1.020.000
+942,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,310.211
+943,stanovanje,3,,ljubljana-mesto,POLJE,83.50,1995,2003,Agencija,269.000
+944,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,65.20,2014,,Agencija,369.000
+945,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, OBJEKT ŠUMI",166.40,2021,,Agencija,1.500.000
+946,stanovanje,3,,ljubljana-mesto,"ZELENA JAMA, KAVČIČEVA ULICA, PRENOVLJENO",71.90,1960,2019,Agencija,255.000
+947,stanovanje,,,ljubljana-mesto,"RUDNIK, TRNOVO",271.10,2023,,Agencija,999.000
+948,stanovanje,,,ljubljana-mesto,LJ. VIČ,147.40,1974,1990,Agencija,379.000
+949,stanovanje,1.5,,ljubljana-mesto,SP. ŠIŠKA,35.00,1965,2018,Zasebna,251.000
+950,stanovanje,4,,ljubljana-mesto,DRAVLJE,95.00,1982,,Zasebna,379.000
+951,stanovanje,2.5,,ljubljana-mesto,"SP. ŠIŠKA, TIVOLI, PARKING",58.00,1890,2018,Agencija,275.000
+952,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,€446.779
+953,stanovanje,3,,ljubljana-mesto,DOLGI MOST,77.20,1915,2010,Agencija,225.000
+954,stanovanje,,,ljubljana-mesto,TRNOVO,228.45,2022,,Agencija,979.000
+955,stanovanje,,,ljubljana-mesto,NOVE JARŠE,26.80,1952,,Agencija,97.000
+956,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, JEŽICA",70.10,2023,,Agencija,366.063
+957,stanovanje,3,,ljubljana-mesto,LJ. VIČ,79.50,2008,,Agencija,440.000
+958,stanovanje,4,,ljubljana-mesto,TRNOVO,228.45,2022,,Agencija,979.000
+959,stanovanje,4.5,,ljubljana-mesto,RUDNIK,112.70,2007,,Agencija,264.000
+960,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,446.779
+961,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽIDANOV KVART",74.97,2025,,Agencija,375.171
+962,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽIDANOV KVART",71.18,2025,,Agencija,361.431
+963,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽIDANOV KVART",69.24,2025,,Agencija,348.505
+964,stanovanje,4.5,,ljubljana-mesto,"LJ. ŠIŠKA, SPODNJA",129.00,1933,,Zasebna,472.000
+965,stanovanje,2,,ljubljana-mesto,"LJ. VIČ, BLIŽINA CENTRA",58.80,1963,2003,Agencija,229.000
+966,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,446.779
+967,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,67.78,2024,,Agencija,333.382
+968,stanovanje,3,,ljubljana-mesto,ČRNUČE,89.90,2024,,Agencija,379.326
+969,stanovanje,3,,ljubljana-mesto,KODELJEVO,53.90,1936,2010,Agencija,217.000
+970,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,83.50,2023,,Agencija,339.700
+971,stanovanje,1,,ljubljana-mesto,"LJ. CENTER, BLIŽINA UKC",34.60,1890,2019,Agencija,145.000
+972,stanovanje,,,ljubljana-mesto,"LJ. CENTER, BLIŽINA UKC",34.60,1890,,Agencija,145.000
+973,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,62.00,1974,2016,Agencija,245.000
+974,stanovanje,,,ljubljana-mesto,RUDNIK,128.20,2023,,Agencija,389.990
+975,stanovanje,,,ljubljana-mesto,RUDNIK,129.00,2023,,Agencija,349.990
+976,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,107.70,2014,,Agencija,525.000
+977,stanovanje,3,,ljubljana-mesto,LJ. CENTER,124.00,1955,2021,Agencija,490.000
+978,stanovanje,3,,ljubljana-mesto,STANEŽIČE,207.00,2023,,Agencija,750.000
+979,stanovanje,1,,ljubljana-mesto,LJ. VIČ,46.40,1957,2008,Agencija,€158.000
+980,stanovanje,,,ljubljana-mesto,RUDNIK,129.00,2023,,Agencija,389.990
+981,stanovanje,,,ljubljana-mesto,LJ. MOSTE,26.50,1972,,Agencija,139.000
+982,stanovanje,3,,ljubljana-mesto,LJ. VIČ,70.10,1964,2010,Agencija,285.000
+983,stanovanje,2,,ljubljana-mesto,ČRNUČE,62.83,2024,,Agencija,321.000
+984,stanovanje,3,,ljubljana-mesto,"LJ. MOSTE, POLEG TRŽNICE",74.00,1960,2023,Agencija,247.250
+985,stanovanje,1.5,,ljubljana-mesto,"LJ. MOSTE, V BLIŽINI GIMNAZIJE",51.20,1990,2020,Agencija,€180.000
+986,stanovanje,4,,ljubljana-mesto,ČRNUČE,114.90,2024,,Agencija,485.057
+987,stanovanje,3,,ljubljana-mesto,LJ. VIČ,90.00,1951,,Agencija,330.000
+988,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,64.80,1975,,Agencija,217.000
+989,stanovanje,,,ljubljana-mesto,BIZOVIK,222.96,1981,2020,Agencija,450.000
+990,stanovanje,2.5,,ljubljana-mesto,ZELENA JAMA,69.00,1960,,Zasebna,255.000
+991,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.51,2024,,Agencija,379.618
+992,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,307.868
+993,stanovanje,4,,ljubljana-mesto,POLJANE,160.70,2006,,Agencija,620.000
+994,stanovanje,4,,ljubljana-mesto,STANEŽIČE,245.00,2023,,Agencija,1.150.000
+995,stanovanje,3,,ljubljana-mesto,STANEŽIČE,115.35,2023,,Agencija,750.000
+996,stanovanje,,,ljubljana-mesto,"LJ. CENTER, GORNJI TRG",261.70,1550,,Agencija,590.000
+997,stanovanje,3,,ljubljana-mesto,LJ. VIČ,84.19,1966,2023,Agencija,378.000
+998,stanovanje,4,,ljubljana-mesto,STARA LJ.,109.60,1701,2017,Agencija,415.000
+999,stanovanje,3.5,,ljubljana-mesto,"BRDO, LJ.",110.16,2016,2018,Agencija,498.500
+1000,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, SLOVENSKA CESTA, TOP LOKACIJA",87.00,1730,2022,Agencija,386.000
+1001,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,112.06,2023,,Agencija,399.205
+1002,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, S POGLEDOM NA GRAD",114.00,1995,,Agencija,489.000
+1003,stanovanje,3,,ljubljana-mesto,LJ. VIČ,120.80,2023,,Agencija,309.205
+1004,stanovanje,2.5,,ljubljana-mesto,LJ. BEŽIGRAD,84.20,1942,2002,Agencija,299.000
+1005,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2023,,Agencija,310.211
+1006,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,446.779
+1007,stanovanje,4,,ljubljana-mesto,ROŽNA DOLINA,109.57,2023,,Agencija,610.000
+1008,stanovanje,1.5,,ljubljana-mesto,"LJ. MOSTE, BLIŽINA UKC",51.20,1990,2020,Agencija,€180.000
+1009,stanovanje,4.5,,ljubljana-mesto,DRAVLJE,118.60,2023,,Agencija,529.000
+1010,stanovanje,3,,ljubljana-mesto,LJ. CENTER,68.90,1960,,Agencija,298.000
+1011,stanovanje,4,,ljubljana-mesto,ROŽNA DOLINA,129.31,2023,,Agencija,570.000
+1012,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,119.84,2023,,Agencija,460.000
+1013,stanovanje,3,,ljubljana-mesto,"LJ. MOSTE, ROJČEVA ULICA",70.10,1972,2021,Agencija,268.000
+1014,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,456.152
+1015,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽIDANOV KVART",68.33,2025,,Agencija,333.047
+1016,stanovanje,4,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽIDANOV KVART",75.42,2025,,Agencija,377.265
+1017,stanovanje,3.5,,ljubljana-mesto,LJ. CENTER,126.00,1861,2010,Agencija,585.000
+1018,stanovanje,3.5,,ljubljana-mesto,LJ. CENTER,76.00,1958,,Zasebna,300.000
+1019,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, V STROGEM CENTRU",51.00,1902,,Agencija,540.000
+1020,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, DUNAJSKA CESTA",73.60,2011,,Agencija,330.000
+1021,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, BOHORIČEVA ULICA",74.40,2011,,Agencija,399.990
+1022,stanovanje,2,,ljubljana-mesto,LJ. CENTER,119.75,2023,,Agencija,899.000
+1023,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,57.00,1934,2004,Agencija,220.000
+1024,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, ŠMARTINSKA CESTA",53.30,1910,2009,Agencija,220.000
+1025,stanovanje,3,,ljubljana-mesto,"LJ. MOSTE, SKOPSKA ULICA",861.00,1974,2012,Agencija,288.990
+1026,stanovanje,,,ljubljana-mesto,"LJ. ŠIŠKA, OB ŽICI, BALKON",27.30,1971,,Agencija,152.990
+1027,stanovanje,3,,ljubljana-mesto,"ROŽNA DOLINA, TOP 9 MIN PRESTOLNICA NA DLANI",89.00,1985,1985,Zasebna,429.000
+1028,stanovanje,2,,ljubljana-mesto,"ZG. ŠIŠKA, TRG PREKOMORSKIH BRIGAD",48.50,1961,2012,Agencija,199.900
+1029,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,17.00,1983,,Agencija,130.000
+1030,stanovanje,3,,ljubljana-mesto,LJ. CENTER,176.03,2023,,Agencija,1.845.000
+1031,stanovanje,4.5,,ljubljana-mesto,"TRNOVO, TRNOVSKO PREDMESTJE",255.00,2023,,Agencija,999.000
+1032,stanovanje,4.5,,ljubljana-mesto,"TRNOVO, TRNOVSKO PREDMESTJE",255.00,2023,,Agencija,989.000
+1033,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, ULICA BRATOV ŽIDAN",70.49,2025,,Agencija,342.744
+1034,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,67.00,2002,,Zasebna,290.000
+1035,stanovanje,2,,ljubljana-mesto,ROŽNA DOLINA,138.60,1955,,Agencija,482.000
+1036,stanovanje,,,ljubljana-mesto,ROŽNA DOLINA,168.20,1955,,Agencija,670.000
+1037,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, PRI OŠ SPODNJA",61.81,1892,,Agencija,193.000
+1038,stanovanje,2,,ljubljana-mesto,LJ. CENTER,64.30,1965,2002,Agencija,335.000
+1039,stanovanje,3,,ljubljana-mesto,ČRNUČE,97.10,2024,,Agencija,353.501
+1040,stanovanje,3,,ljubljana-mesto,"TACEN, POD ŠMARNO GORO",61.90,2009,,Agencija,309.000
+1041,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,100.80,2018,,Agencija,550.000
+1042,stanovanje,2,,ljubljana-mesto,ZUPANČIČEVA JAMA,136.74,1997,2023,Agencija,619.095
+1043,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,197.00,2000,2018,Zasebna,780.000
+1044,stanovanje,3,,ljubljana-mesto,ZUPANČIČEVA JAMA,84.20,1989,2022,Agencija,490.000
+1045,stanovanje,3,,ljubljana-mesto,ZELENA JAMA,112.17,2023,,Agencija,423.887
+1046,stanovanje,,,ljubljana-mesto,LJ. CENTER,136.00,1895,2012,Agencija,530.000
+1047,stanovanje,4.5,,ljubljana-mesto,LJ. VIČ,306.83,1920,1990,Agencija,780.000
+1048,stanovanje,4,,ljubljana-mesto,ZELENA JAMA,207.96,2023,,Agencija,567.847
+1049,stanovanje,4,,ljubljana-mesto,BIZOVIK,279.51,2023,,Agencija,502.032
+1050,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,94.34,2025,,Agencija,478.749
+1051,stanovanje,4,,ljubljana-mesto,ZELENA JAMA,219.12,2023,,Agencija,598.090
+1052,stanovanje,,,ljubljana-mesto,PRULE,243.00,2000,,Zasebna,1.250.000
+1053,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, ŠMARTNO POD ŠMARNO GORO",159.00,1950,,Agencija,210.000
+1054,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",214.30,2024,,Agencija,718.520
+1055,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",116.76,2024,,Agencija,618.624
+1056,stanovanje,3.5,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",128.71,2024,,Agencija,648.258
+1057,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",112.11,2024,,Agencija,584.999
+1058,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",112.11,2024,,Agencija,566.981
+1059,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",100.22,2024,,Agencija,509.676
+1060,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",84.99,2024,,Agencija,494.607
+1061,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",84.99,2024,,Agencija,470.412
+1062,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",87.62,2024,,Agencija,429.470
+1063,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",77.05,2024,,Agencija,419.367
+1064,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",65.92,2024,,Agencija,317.037
+1065,stanovanje,,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",85.02,2024,,Agencija,300.371
+1066,stanovanje,,,ljubljana-mesto,LJ. CENTER,294.20,1630,,Agencija,650.000
+1067,stanovanje,,,ljubljana-mesto,"PODUTIK, KLEMENČIČEVA UL.",252.70,1975,,Agencija,375.000
+1068,stanovanje,4,,ljubljana-mesto,"TRNOVO, REPREZENTATIVNA STAVBA MOČERAD",222.00,2003,,Agencija,1.300.000
+1069,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,81.35,1951,,Agencija,309.000
+1070,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, GORKIČEVA ULICA",84.20,1966,2023,Zasebna,365.000
+1071,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,60.85,2024,,Agencija,286.389
+1072,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.40,2024,,Agencija,446.779
+1073,stanovanje,2,,ljubljana-mesto,LJ. CENTER,51.30,1910,2017,Agencija,299.000
+1074,stanovanje,3,,ljubljana-mesto,"BROD, IZVEDBA NA KLJUČ",115.17,2023,,Agencija,515.000
+1075,stanovanje,3,,ljubljana-mesto,ČRNUČE,69.40,2024,,Agencija,310.000
+1076,stanovanje,3,,ljubljana-mesto,ČRNUČE,69.40,2024,,Agencija,315.000
+1077,stanovanje,3,,ljubljana-mesto,ČRNUČE,69.00,2024,,Agencija,308.000
+1078,stanovanje,3,,ljubljana-mesto,ZG. KAŠELJ,79.20,1955,,Agencija,239.000
+1079,stanovanje,3,,ljubljana-mesto,LJ. CENTER,92.00,1958,2023,Agencija,480.000
+1080,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,56.00,1970,2016,Zasebna,250.000
+1081,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",220.20,2024,,Agencija,1.936.920
+1082,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",224.20,2024,,Agencija,1.050.480
+1083,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",186.40,2024,,Agencija,1.881.000
+1084,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",216.60,2024,,Agencija,1.050.856
+1085,stanovanje,2,,ljubljana-mesto,"SP. ŠIŠKA, BELLEVUE LIVING / FRANKOPANSKA",53.80,1889,2016,Zasebna,201.000
+1086,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, ILIRSKA ULICA",84.90,1907,2015,Agencija,350.000
+1087,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, IZJEMNA PRILOŽNOST",134.97,2023,,Agencija,1.066.971
+1088,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, EDINSTVENA ARHITEKTURA",98.21,2023,,Agencija,703.973
+1089,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, VRHUNSKA DOVRŠENOST",101.14,2023,,Agencija,958.406
+1090,stanovanje,2,,ljubljana-mesto,LJ. CENTER,64.00,1965,,Agencija,270.000
+1091,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,60.33,2024,,Agencija,302.487
+1092,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,101.50,1976,,Agencija,309.000
+1093,stanovanje,4,,ljubljana-mesto,TRNOVO,214.00,2023,,Agencija,989.000
+1094,stanovanje,3,,ljubljana-mesto,LJ. MOSTE,83.90,1974,,Agencija,315.000
+1095,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, GORKIČEVA ULICA",84.20,1966,2023,Zasebna,365.000
+1096,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,60.85,2024,,Agencija,286.389
+1097,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.40,2024,,Agencija,446.779
+1098,stanovanje,2,,ljubljana-mesto,LJ. CENTER,51.30,1910,2017,Agencija,299.000
+1099,stanovanje,3,,ljubljana-mesto,"BROD, IZVEDBA NA KLJUČ",115.17,2023,,Agencija,515.000
+1100,stanovanje,3,,ljubljana-mesto,ČRNUČE,69.40,2024,,Agencija,310.000
+1101,stanovanje,3,,ljubljana-mesto,ČRNUČE,69.40,2024,,Agencija,315.000
+1102,stanovanje,3,,ljubljana-mesto,ČRNUČE,69.00,2024,,Agencija,308.000
+1103,stanovanje,3,,ljubljana-mesto,ZG. KAŠELJ,79.20,1955,,Agencija,239.000
+1104,stanovanje,3,,ljubljana-mesto,LJ. CENTER,92.00,1958,2023,Agencija,480.000
+1105,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,56.00,1970,2016,Zasebna,250.000
+1106,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",220.20,2024,,Agencija,1.936.920
+1107,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",224.20,2024,,Agencija,1.050.480
+1108,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",186.40,2024,,Agencija,1.881.000
+1109,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",216.60,2024,,Agencija,1.050.856
+1110,stanovanje,2,,ljubljana-mesto,"SP. ŠIŠKA, BELLEVUE LIVING / FRANKOPANSKA",53.80,1889,2016,Zasebna,201.000
+1111,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, ILIRSKA ULICA",84.90,1907,2015,Agencija,350.000
+1112,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, IZJEMNA PRILOŽNOST",134.97,2023,,Agencija,1.066.971
+1113,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, EDINSTVENA ARHITEKTURA",98.21,2023,,Agencija,703.973
+1114,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, VRHUNSKA DOVRŠENOST",101.14,2023,,Agencija,958.406
+1115,stanovanje,2,,ljubljana-mesto,LJ. CENTER,64.00,1965,,Agencija,270.000
+1116,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,60.33,2024,,Agencija,302.487
+1117,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,101.50,1976,,Agencija,309.000
+1118,stanovanje,4,,ljubljana-mesto,TRNOVO,214.00,2023,,Agencija,989.000
+1119,stanovanje,3,,ljubljana-mesto,LJ. MOSTE,83.90,1974,,Agencija,315.000
+1120,stanovanje,4,,ljubljana-mesto,LJ. CENTER,227.00,1525,2022,Agencija,1.300.000
+1121,stanovanje,4,,ljubljana-mesto,LJ. CENTER,194.00,1971,2006,Agencija,419.900
+1122,stanovanje,4,,ljubljana-mesto,TRNOVO,194.00,1971,2006,Agencija,419.900
+1123,stanovanje,,,ljubljana-mesto,"LJ. CENTER, BOHORIČEVA",31.60,1800,,Agencija,99.000
+1124,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, BLIZU TRŽAŠKE IN CENTRA",76.20,1912,2010,Agencija,249.000
+1125,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,52.20,1964,1985,Agencija,205.000
+1126,stanovanje,3,,ljubljana-mesto,"SP. ŠIŠKA, ULICA MILANA MAJCNA",90.00,2005,2021,Agencija,360.000
+1127,stanovanje,3,,ljubljana-mesto,MURGLE,137.00,2022,,Agencija,1.140.000
+1128,stanovanje,4,,ljubljana-mesto,"LJ. VIČ, ROŽNA DOLINA",262.00,1920,2019,Agencija,699.000
+1129,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,19.20,1983,,Agencija,85.000
+1130,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, MESTNI TRG",75.50,1800,2008,Agencija,497.000
+1131,stanovanje,1,,ljubljana-mesto,"LJ. MOSTE, PARTIZANSKA",42.50,1900,2000,Agencija,136.000
+1132,stanovanje,4,,ljubljana-mesto,LJ. CENTER,170.40,2005,,Agencija,1.490.000
+1133,stanovanje,,,ljubljana-mesto,RUDNIK,147.50,1974,ogled,Agencija,379.000
+1134,stanovanje,3,,ljubljana-mesto,LJ. CENTER,70.76,1961,2014,Zasebna,350.000
+1135,stanovanje,2.5,,ljubljana-mesto,PODUTIK,57.90,1967,,Agencija,165.000
+1136,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2025,,Agencija,446.779
+1137,stanovanje,3,,ljubljana-mesto,DOLGI MOST,66.00,2023,,Agencija,351.229
+1138,stanovanje,4,,ljubljana-mesto,DOLGI MOST,81.00,2023,,Agencija,457.645
+1139,stanovanje,3,,ljubljana-mesto,"DRAVLJE, LJ.",70.20,2023,,Agencija,424.500
+1140,stanovanje,4,,ljubljana-mesto,LJ. VIČ,119.90,2023,,Agencija,407.922
+1141,stanovanje,3,,ljubljana-mesto,LJ. VIČ,77.10,2023,,Agencija,299.705
+1142,stanovanje,3,,ljubljana-mesto,LJ. CENTER,82.00,1760,2013,Agencija,365.000
+1143,stanovanje,3,,ljubljana-mesto,ŠMARTNO POD ŠMARNO GORO,115.17,2023,,Agencija,516.811
+1144,stanovanje,3,,ljubljana-mesto,ŠTEPANJSKO NASELJE,83.90,1974,,Zasebna,315.000
+1145,stanovanje,,,ljubljana-mesto,"ČRNUČE, ČRNUŠKI BAJER",298.96,2024,,Agencija,822.000
+1146,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,67.78,2024,,Agencija,333.382
+1147,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,60.85,2024,,Agencija,286.389
+1148,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.60,2024,,Agencija,387.587
+1149,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.60,2024,,Agencija,389.360
+1150,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.51,2024,,Agencija,379.618
+1151,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2025,,Agencija,310.211
+1152,stanovanje,2,,ljubljana-mesto,BS 3,56.10,1976,,Agencija,228.000
+1153,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.60,2025,,Agencija,389.360
+1154,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2024,,Agencija,456.152
+1155,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2025,,Agencija,307.868
+1156,stanovanje,3,,ljubljana-mesto,NOVE JARŠE,97.80,1952,2020,Agencija,265.000
+1157,stanovanje,3,,ljubljana-mesto,ŠTEPANJSKO NASELJE,86.10,1974,2012,Agencija,289.000
+1158,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,78.00,1978,1999,Agencija,299.000
+1159,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, FERENTOV VRT",64.10,1965,,Agencija,270.000
+1160,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, STARI TRG",206.80,1600,,Agencija,580.000
+1161,stanovanje,3,,ljubljana-mesto,BRDO,73.00,2024,,Agencija,481.000
+1162,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, GORAZDOVA ULICA",75.00,1961,,Agencija,255.000
+1163,stanovanje,4,,ljubljana-mesto,LJ. ŠIŠKA,117.63,2023,,Agencija,494.390
+1164,stanovanje,,,ljubljana-mesto,"STARA LJ., STARI TRG",335.80,1630,2014,Zasebna,
+1165,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,67.78,2024,,Agencija,333.382
+1166,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,68.48,2024,,Agencija,310.211
+1167,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,446.779
+1168,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK",92.39,2024,,Agencija,446.779
+1169,stanovanje,4,,ljubljana-mesto,LJ. CENTER,365.00,1742,2020,Agencija,1.490.000
+1170,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BEŽIGRAJSKI TROJČEK 64",68.48,2024,,Agencija,310.211
+1171,stanovanje,3,,ljubljana-mesto,"VODMAT, REZIDENCA",96.70,2023,,Agencija,411.000
+1172,stanovanje,4,,ljubljana-mesto,"VODMAT, REZIDENCA",113.85,2023,,Agencija,495.000
+1173,stanovanje,2,,ljubljana-mesto,"VODMAT, REZIDENCA",56.54,2023,,Agencija,279.000
+1174,stanovanje,3.5,,ljubljana-mesto,"VODMAT, REZIDENCA",96.16,2023,,Agencija,460.000
+1175,stanovanje,2,,ljubljana-mesto,"VODMAT, REZIDENCA",58.12,2023,,Agencija,279.000
+1176,stanovanje,2,,ljubljana-mesto,"VODMAT, REZIDENCA",69.45,2023,,Agencija,326.000
+1177,stanovanje,4,,ljubljana-mesto,"VODMAT, REZIDENCA",105.10,2023,,Agencija,517.000
+1178,stanovanje,3,,ljubljana-mesto,"VODMAT, REZIDENCA",83.27,2023,,Agencija,450.000
+1179,stanovanje,1,,ljubljana-mesto,"VODMAT, REZIDENCA",47.38,2023,,Agencija,249.000
+1180,stanovanje,,,ljubljana-mesto,"LJ. CENTER, DALMATINKA, PENTHOUSE",390.30,2022,,Agencija,3.932.029
+1181,stanovanje,3,,ljubljana-mesto,VEVČE,169.70,2023,,Agencija,364.000
+1182,stanovanje,4,,ljubljana-mesto,BRDO,92.00,2024,,Agencija,563.600
+1183,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,87.91,2023,,Agencija,500.000
+1184,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, BAVARSKI DVOR, KOZOLEC",100.50,1956,2011,Agencija,521.000
+1185,stanovanje,,,ljubljana-mesto,LJ. CENTER,134.20,1895,,Agencija,967.000
+1186,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,85.84,2023,,Agencija,430.164
+1187,stanovanje,3,,ljubljana-mesto,VEVČE,92.80,2023,,Agencija,333.100
+1188,stanovanje,2,,ljubljana-mesto,VEVČE,65.30,2023,,Agencija,252.700
+1189,stanovanje,2,,ljubljana-mesto,VEVČE,70.50,2023,,Agencija,273.400
+1190,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, BAVARSKI DVOR",119.45,1956,,Zasebna,470.000
+1191,stanovanje,,,ljubljana-mesto,"BRDO, OB PST",161.00,2024,,Agencija,659.000
+1192,stanovanje,1.5,,ljubljana-mesto,POLJE,40.10,1976,,Agencija,169.000
+1193,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,92.39,2023,,Agencija,451.466
+1194,stanovanje,4,,ljubljana-mesto,POLJE,144.20,2023,,Agencija,440.205
+1195,stanovanje,4,,ljubljana-mesto,POLJE,175.50,2023,,Agencija,509.472
+1196,stanovanje,4,,ljubljana-mesto,POLJE,212.10,2023,,Agencija,608.521
+1197,stanovanje,4.5,,ljubljana-mesto,"LJ. CENTER, GRAJSKI HRIB",196.90,1837,2000,Agencija,580.000
+1198,stanovanje,3,,ljubljana-mesto,ČRNUČE,89.80,2024,,Agencija,379.144
+1199,stanovanje,2,,ljubljana-mesto,LJ. MOSTE,50.00,2000,,Zasebna,150.000
+1200,stanovanje,2,,ljubljana-mesto,KODELJEVO,52.50,1964,2005,Agencija,249.000
+1201,stanovanje,2.5,,ljubljana-mesto,LJ. CENTER,50.60,1880,2007,Agencija,210.000
+1202,stanovanje,3.5,,ljubljana-mesto,"RUDNIK, LAVRICA",96.01,2022,,Agencija,366.000
+1203,stanovanje,4,,ljubljana-mesto,"LJ. VIČ, ROŽNA DOLINA, SKAPINOVA ULICA",142.80,1920,2019,Agencija,640.000
+1204,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",81.49,2024,,Agencija,476.883
+1205,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",58.78,2024,,Agencija,337.365
+1206,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",60.71,2024,,Agencija,338.888
+1207,stanovanje,2,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",71.56,2024,,Agencija,437.138
+1208,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, VOŠNJAKOVA UL.",114.70,1955,2021,Agencija,480.000
+1209,stanovanje,2,,ljubljana-mesto,DOLGI MOST,61.60,1917,2015,Agencija,179.000
+1210,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, CELOVŠKA CESTA, 2 POSLOVNA APP",137.30,1967,2008,Agencija,299.000
+1211,stanovanje,4.5,,ljubljana-mesto,LJ. CENTER,138.15,1905,2015,Zasebna,1.230.000
+1212,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VRHUNSKO UDOBJE",110.80,2023,,Agencija,1.100.460
+1213,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,65.30,2014,,Agencija,369.000
+1214,stanovanje,4,,ljubljana-mesto,ZELENA JAMA,100.00,1948,2018,Agencija,320.000
+1215,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,91.90,1936,,Agencija,320.000
+1216,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,103.40,1943,2012,Agencija,385.000
+1217,stanovanje,2,,ljubljana-mesto,"ZUPANČIČEVA JAMA, CARPE DIEM PROJEKT",69.80,1997,2023,Agencija,411.372
+1218,stanovanje,3,,ljubljana-mesto,LJ. CENTER,121.60,1920,2005,Agencija,860.000
+1219,stanovanje,1,,ljubljana-mesto,LJ. ŠIŠKA,77.34,2023,,Agencija,281.039
+1220,stanovanje,3,,ljubljana-mesto,KODELJEVO,102.00,1910,,Agencija,259.000
+1221,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, VEROVŠKOVA, PLEČENIKOVA CERKEV.",80.00,1937,2011,Zasebna,275.000
+1222,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,119.60,1936,2008,Agencija,320.000
+1223,stanovanje,3,,ljubljana-mesto,LJ. MOSTE,85.00,1974,,Agencija,286.000
+1224,stanovanje,3,,ljubljana-mesto,LJ. CENTER,151.00,2003,,Agencija,900.000
+1225,stanovanje,2,,ljubljana-mesto,LJ. CENTER,76.80,1935,2020,Agencija,319.000
+1226,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, ŽUPANČIČEVA ULICA",121.60,1920,2013,Agencija,800.000
+1227,stanovanje,4,,ljubljana-mesto,LJ. VIČ,142.00,1920,2019,Agencija,800.000
+1228,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",136.60,2024,,Agencija,1.075.330
+1229,stanovanje,,,ljubljana-mesto,TRNOVO,255.00,2023,,Agencija,1.020.000
+1230,stanovanje,3,,ljubljana-mesto,POLJE,103.80,1955,2011,Agencija,257.000
+1231,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,81.80,2018,,Zasebna,600.000
+1232,stanovanje,,,ljubljana-mesto,"LJ. VIČ, RUDNIK",115.00,1984,,Agencija,389.000
+1233,stanovanje,3,,ljubljana-mesto,LJ. CENTER,114.70,1955,2022,Agencija,490.000
+1234,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, ZG.",77.45,1950,2008,Zasebna,270.000
+1235,stanovanje,,,ljubljana-mesto,"LJ. CENTER, POLJANSKI NASIP",91.40,1856,,Agencija,298.900
+1236,stanovanje,,,ljubljana-mesto,"LJ. BEŽIGRAD, 1A DUPLEKS REZIDENCA",359.70,2011,,Agencija,970.000
+1237,stanovanje,,,ljubljana-mesto,LJ. VIČ,147.50,1974,1990,Zasebna,379.000
+1238,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, POLJANSKA CESTA",94.30,1735,2023,Agencija,550.000
+1239,stanovanje,,,ljubljana-mesto,"LJ. CENTER, POLJANSKA CESTA",36.30,1735,,Agencija,240.000
+1240,stanovanje,3,,ljubljana-mesto,LJ. CENTER,117.50,1775,2015,Agencija,760.000
+1241,stanovanje,3,,ljubljana-mesto,LJ. CENTER,60.00,1867,,Agencija,258.000
+1242,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,55.90,1962,2001,Agencija,205.000
+1243,stanovanje,2,,ljubljana-mesto,"LJ. VIČ, BLIŽINA GIMNAZIJE",51.50,1903,2010,Agencija,169.000
+1244,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, 1A LOKACIJA ADAPTIRANO",73.90,1976,2022,Agencija,293.600
+1245,stanovanje,1.5,,ljubljana-mesto,LJ. CENTER,30.00,1909,2019,Agencija,225.000
+1246,stanovanje,2.5,,ljubljana-mesto,LJ. CENTER,77.00,2007,ogled,Agencija,375.000
+1247,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, MESTNI TRG",125.40,1456,2009,Agencija,520.000
+1248,stanovanje,2,,ljubljana-mesto,LJ. ŠIŠKA,101.04,2023,,Agencija,368.277
+1249,stanovanje,4,,ljubljana-mesto,DRAVLJE,96.00,1978,2018,Agencija,386.000
+1250,stanovanje,3,,ljubljana-mesto,LJ. CENTER,115.00,1955,2022,Agencija,490.000
+1251,stanovanje,3,,ljubljana-mesto,LJ. CENTER,114.70,1955,2022,Agencija,490.000
+1252,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,74.00,1967,,Agencija,245.000
+1253,stanovanje,4.5,,ljubljana-mesto,TRNOVO,219.10,2023,,Agencija,989.000
+1254,stanovanje,,,ljubljana-mesto,TRNOVO,255.00,2023,,Agencija,1.010.000
+1255,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,86.23,2023,,Agencija,431.700
+1256,stanovanje,3,,ljubljana-mesto,LJ. MOSTE,86.35,1974,2012,Agencija,289.000
+1257,stanovanje,3,,ljubljana-mesto,RUDNIK,83.34,2022,,Agencija,342.000
+1258,stanovanje,4.5,,ljubljana-mesto,LJ. CENTER,217.00,1905,2014,Agencija,1.130.000
+1259,stanovanje,,,ljubljana-mesto,DRAVLJE,14.00,1982,,Agencija,56.000
+1260,stanovanje,1.5,,ljubljana-mesto,"LJ. VIČ, CESTA NA BRDO",50.00,2004,,Zasebna,310.000
+1261,stanovanje,3,,ljubljana-mesto,"BRINJE, STALNO ZASEDENO Z NAJEMNIKI",87.60,2002,ogled,Agencija,269.000
+1262,stanovanje,3,,ljubljana-mesto,LJ. CENTER,68.00,1965,2009,Zasebna,320.000
+1263,stanovanje,3,,ljubljana-mesto,ŠTEPANJSKO NASELJE,86.10,1974,2012,Agencija,289.000
+1264,stanovanje,4,,ljubljana-mesto,ZELENA JAMA,231.40,2004,2005,Agencija,944.900
+1265,stanovanje,3,,ljubljana-mesto,"LJ. MOSTE, ZALOŠKA",122.90,1800,2021,Agencija,249.500
+1266,stanovanje,2,,ljubljana-mesto,JARŠE,64.00,1932,2002,Agencija,180.000
+1267,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,109.49,1965,2022,Zasebna,469.000
+1268,stanovanje,3,,ljubljana-mesto,NOVE JARŠE,56.70,1952,2020,Agencija,257.000
+1269,stanovanje,,,ljubljana-mesto,"RAKOVA JELŠA, TRNOVO",140.00,2011,,Agencija,469.000
+1270,stanovanje,,,ljubljana-mesto,"LJ. CENTER, GORNJI TRG",261.70,1550,,Agencija,590.000
+1271,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,160.00,2019,,Agencija,1.100.000
+1272,stanovanje,,,ljubljana-mesto,LJ. VIČ,237.00,1897,2022,Agencija,680.000
+1273,stanovanje,4,,ljubljana-mesto,LJ. VIČ,134.40,2004,2022,Agencija,579.000
+1274,stanovanje,,,ljubljana-mesto,TRNOVO,255.00,2022,,Agencija,1.020.000
+1275,stanovanje,3.5,,ljubljana-mesto,RUDNIK,102.00,1971,,Zasebna,290.000
+1276,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",138.40,2024,,Agencija,1.091.320
+1277,stanovanje,3,,ljubljana-mesto,"ROŽNA DOLINA, VILA ENAJSTKA",138.20,2024,,Agencija,1.053.435
+1278,stanovanje,,,ljubljana-mesto,"LJ. CENTER, STARI TRG",206.80,1600,,Agencija,650.000
+1279,stanovanje,2,,ljubljana-mesto,ČRNUČE,46.10,1980,2020,Zasebna,191.990
+1280,stanovanje,4,,ljubljana-mesto,"LJ. ŠIŠKA, BLIŽINA CENTRA MESTA",90.00,1870,1975,Agencija,430.000
+1281,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, IZJEMNA LOKACIJA",110.80,2023,,Agencija,1.075.330
+1282,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, IZJEMNA LOKACIJA",119.90,2023,,Agencija,1.058.840
+1283,stanovanje,3,,ljubljana-mesto,"ROŽNA DOLINA, IZJEMNA LOKACIJA",112.70,2023,,Agencija,1.053.435
+1284,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, ELEGANCA, NADSTANDARD",110.90,2023,,Agencija,1.050.856
+1285,stanovanje,3,,ljubljana-mesto,"ROŽNA DOLINA, ELITNA LOKACIJA",112.90,2023,,Agencija,1.091.320
+1286,stanovanje,4,,ljubljana-mesto,"LJ. MOSTE, FUŽINE",83.59,1986,,Agencija,345.000
+1287,stanovanje,3,,ljubljana-mesto,"ŠTEPANJSKO NASELJE, ULICA POLONCE ČUDE",80.00,1976,2018,Agencija,340.000
+1288,stanovanje,4,,ljubljana-mesto,ROŽNA DOLINA,119.90,2022,,Agencija,1.150.975
+1289,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,112.90,2022,,Agencija,1.091.320
+1290,stanovanje,3,,ljubljana-mesto,ROŽNA DOLINA,112.70,2022,,Agencija,1.053.435
+1291,stanovanje,4,,ljubljana-mesto,ROŽNA DOLINA,110.90,2022,,Agencija,1.050.856
+1292,stanovanje,3,,ljubljana-mesto,ČRNUČE,93.20,2024,,Agencija,374.492
+1293,stanovanje,4,,ljubljana-mesto,ČRNUČE,109.50,2024,,Agencija,440.762
+1294,stanovanje,3,,ljubljana-mesto,ČRNUČE,93.20,2024,,Agencija,374.492
+1295,stanovanje,4,,ljubljana-mesto,ČRNUČE,134.00,2024,,Agencija,470.845
+1296,stanovanje,3,,ljubljana-mesto,ČRNUČE,116.80,2024,,Agencija,401.543
+1297,stanovanje,2,,ljubljana-mesto,"BS 3, SLOVENIJA",59.50,1977,,Zasebna,253.000
+1298,stanovanje,2.5,,ljubljana-mesto,LJ. CENTER,54.00,1910,2009,Agencija,222.000
+1299,stanovanje,2.5,,ljubljana-mesto,LJ. CENTER,53.10,1910,2019,Agencija,222.000
+1300,stanovanje,2,,ljubljana-mesto,"LJ. MOSTE, STELETOVA ULICA",42.50,1977,2019,Agencija,190.000
+1301,stanovanje,4,,ljubljana-mesto,"LJ. BEŽIGRAD, UL. METODA MIKUŽA",103.00,1984,,Zasebna,359.000
+1302,stanovanje,,,ljubljana-mesto,LJ. BEŽIGRAD,128.60,1980,2013,Agencija,479.000
+1303,stanovanje,4,,ljubljana-mesto,STARA LJ.,176.90,1520,2010,Agencija,1.080.000
+1304,stanovanje,4,,ljubljana-mesto,STARA LJ.,174.40,1520,2010,Agencija,1.250.000
+1305,stanovanje,4,,ljubljana-mesto,LJ. CENTER,219.10,2023,,Agencija,989.000
+1306,stanovanje,,,ljubljana-mesto,LJ. CENTER,255.00,2022,,Agencija,1.010.000
+1307,stanovanje,,,ljubljana-mesto,LJ. CENTER,255.00,2023,,Agencija,1.010.000
+1308,stanovanje,,,ljubljana-mesto,JARŠE,231.40,2004,,Agencija,990.000
+1309,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",86.20,2022,,Agencija,348.000
+1310,stanovanje,2,,ljubljana-mesto,"RUDNIK, LAVRICA",66.41,2022,,Agencija,279.500
+1311,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",95.83,2022,,Agencija,384.000
+1312,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",86.20,2022,,Agencija,348.000
+1313,stanovanje,2,,ljubljana-mesto,"RUDNIK, LAVRICA",66.42,2022,,Agencija,279.500
+1314,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",83.34,2022,,Agencija,342.000
+1315,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",95.82,2022,,Agencija,384.000
+1316,stanovanje,3.5,,ljubljana-mesto,"RUDNIK, LAVRICA",84.88,2022,,Agencija,326.000
+1317,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",86.20,2022,,Agencija,322.000
+1318,stanovanje,3,,ljubljana-mesto,"LJ. VIČ, BLIŽINA CENTRA MESTA",95.70,1873,2010,Agencija,240.000
+1319,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",95.80,2022,,Agencija,356.000
+1320,stanovanje,3,,ljubljana-mesto,KODELJEVO,53.90,1936,2010,Agencija,217.000
+1321,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, DUNAJSKI KRISTALI",98.20,2009,,Agencija,600.000
+1322,stanovanje,4,,ljubljana-mesto,LJ. BEŽIGRAD,86.00,2006,,Agencija,470.000
+1323,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, TABOR",111.10,1880,2010,Agencija,358.000
+1324,stanovanje,3,,ljubljana-mesto,ČRNUČE,96.40,2024,,Agencija,381.689
+1325,stanovanje,4,,ljubljana-mesto,ČRNUČE,129.40,2024,,Agencija,456.958
+1326,stanovanje,4,,ljubljana-mesto,ČRNUČE,129.20,2024,,Agencija,456.264
+1327,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",93.87,2024,,Agencija,524.494
+1328,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",78.22,2024,,Agencija,459.399
+1329,stanovanje,4,,ljubljana-mesto,"LJ. CENTER, DEVANA PARK II",141.75,2024,,Agencija,1.009.477
+1330,stanovanje,2.5,,ljubljana-mesto,SAVSKO NASELJE,62.00,1954,2002,Agencija,260.000
+1331,stanovanje,2,,ljubljana-mesto,LJ. CENTER,74.00,2011,,Agencija,400.000
+1332,stanovanje,,,ljubljana-mesto,RUDNIK,150.00,2008,,Agencija,520.000
+1333,stanovanje,,,ljubljana-mesto,KOLEZIJA,135.00,2023,,Agencija,840.000
+1334,stanovanje,,,ljubljana-mesto,"LJ. BEŽIGRAD, ŽUP. JAMA",128.60,1980,2013,Agencija,479.000
+1335,stanovanje,2.5,,ljubljana-mesto,"LJ. ŠIŠKA, LAKOTENCE",54.00,2008,2008,Agencija,170.000
+1336,stanovanje,,,ljubljana-mesto,LJ. VIČ,294.30,1970,2013,Agencija,890.000
+1337,stanovanje,,,ljubljana-mesto,TRNOVO,255.00,2022,,Agencija,1.030.000
+1338,stanovanje,,,ljubljana-mesto,LJ. CENTER,190.00,1910,2016,Agencija,700.000
+1339,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,107.10,1947,,Agencija,385.000
+1340,stanovanje,4,,ljubljana-mesto,"ROŽNA DOLINA, ODLIČNA, MIRNA LOKACIJA, UREJENO NASELJE, V BL...",119.70,1958,2004,Agencija,490.000
+1341,stanovanje,4.5,,ljubljana-mesto,LJ. MOSTE,231.40,2004,,Agencija,990.000
+1342,stanovanje,,,ljubljana-mesto,TRNOVO,255.00,2022,,Agencija,1.020.000
+1343,stanovanje,4.5,,ljubljana-mesto,TRNOVO,219.10,2022,,Agencija,989.000
+1344,stanovanje,3,,ljubljana-mesto,LJ. BEŽIGRAD,297.60,2009,,Agencija,1.150.000
+1345,stanovanje,4,,ljubljana-mesto,ČRNUČE,132.70,2024,,Agencija,465.303
+1346,stanovanje,3,,ljubljana-mesto,"ČRNUČE, BEŽIGRAD",105.15,2019,,Zasebna,445.000
+1347,stanovanje,3.5,,ljubljana-mesto,RUDNIK,84.88,2022,,Agencija,343.000
+1348,stanovanje,3,,ljubljana-mesto,RUDNIK,86.20,2022,,Agencija,348.000
+1349,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",95.83,2022,,Agencija,384.000
+1350,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",86.20,2022,,Agencija,348.000
+1351,stanovanje,2,,ljubljana-mesto,"RUDNIK, LAVRICA",66.42,2022,,Agencija,279.500
+1352,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",83.34,2022,,Agencija,342.000
+1353,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",95.82,2022,,Agencija,384.000
+1354,stanovanje,3,,ljubljana-mesto,"RUDNIK, LAVRICA",83.32,2022,,Agencija,312.000
+1355,stanovanje,3,,ljubljana-mesto,LJ. CENTER,106.00,1860,2020,Agencija,595.000
+1356,stanovanje,3,,ljubljana-mesto,"SP. ŠIŠKA, LJ. - SPODNJA",87.20,1935,2006,Zasebna,340.000
+1357,stanovanje,3,,ljubljana-mesto,"LJ. ŠIŠKA, CELOVŠKI DVORI",94.40,2009,2018,Zasebna,449.000
+1358,stanovanje,3.5,,ljubljana-mesto,LJ. VIČ,86.90,1827,1990,Agencija,€230.000
+1359,stanovanje,3,,ljubljana-mesto,LJ. CENTER,110.80,2008,2008,Agencija,590.000
+1360,stanovanje,,,ljubljana-mesto,"LJ. MOSTE, PENTHOUSE Z RAZGLEDOM",214.00,2006,,Agencija,990.000
+1361,stanovanje,,,ljubljana-mesto,LJ. ŠIŠKA,14.00,1984,,Agencija,65.000
+1362,stanovanje,,,ljubljana-mesto,STARA LJ.,180.00,1800,,Agencija,
+1363,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, MESTNI TRG",123.70,1550,1992,Agencija,370.000
+1364,stanovanje,3.5,,ljubljana-mesto,LJ. CENTER,88.70,1960,2002,Agencija,329.000
+1365,stanovanje,2.5,,ljubljana-mesto,"ROŽNA DOLINA, LJ. VIČ POSTOJNSKA UL. 25",67.80,1963,2020,Zasebna,249.900
+1366,stanovanje,2,,ljubljana-mesto,POLJE,63.80,1972,,Agencija,180.000
+1367,stanovanje,,,ljubljana-mesto,LJ. MOSTE,214.00,2006,,Zasebna,944.900
+1368,stanovanje,4,,ljubljana-mesto,ROŽNA DOLINA,135.00,2021,,Agencija,950.000
+1369,stanovanje,2,,ljubljana-mesto,TRNOVO,58.00,1981,,Zasebna,300.000
+1370,stanovanje,4,,ljubljana-mesto,RUDNIK,197.20,2021,,Agencija,890.000
+1371,stanovanje,,,ljubljana-mesto,"LJ. MOSTE, ŠMARTINSKA CESTA",120.00,1936,2015,Agencija,334.000
+1372,stanovanje,4,,ljubljana-mesto,STARA LJ.,124.00,1827,1922,Agencija,329.000
+1373,stanovanje,3,,ljubljana-mesto,"JEŽICA, BEŽIGRAD BS4",68.25,2000,2011,Zasebna,350.000
+1374,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, OBNOVLJENO POLKLETNO STANOVANJE Z VELIKIMI OKNI,...",59.60,1895,2021,Agencija,220.000
+1375,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,117.60,1942,2019,Agencija,495.000
+1376,stanovanje,2,,ljubljana-mesto,LJ. BEŽIGRAD,48.90,1892,2007,Agencija,230.000
+1377,stanovanje,3,,ljubljana-mesto,LJ. CENTER,115.00,1955,2018,Agencija,495.000
+1378,stanovanje,,,ljubljana-mesto,"RUDNIK, LONDON - S10",48.52,2023,,Agencija,273.599
+1379,stanovanje,3,,ljubljana-mesto,LJ. CENTER,95.30,1600,2017,Agencija,427.500
+1380,stanovanje,3,,ljubljana-mesto,LJ. CENTER,85.30,1935,,Agencija,295.000
+1381,stanovanje,3,,ljubljana-mesto,LJ. ŠIŠKA,102.70,1929,1996,Agencija,330.000
+1382,stanovanje,4,,ljubljana-mesto,DRAVLJE,116.70,2014,,Agencija,690.000
+1383,stanovanje,3,,ljubljana-mesto,"LJ. CENTER, MESTNI TRG",123.70,1550,1992,Agencija,370.000
+1384,stanovanje,4,,ljubljana-mesto,LJ. CENTER,110.00,1895,2011,Agencija,485.000
+1385,stanovanje,4,,ljubljana-mesto,LJ. CENTER,120.60,1990,,Agencija,430.000
+1386,stanovanje,4,,ljubljana-mesto,LJ. CENTER,91.00,1890,2005,Zasebna,230.000
+1387,stanovanje,3,,ljubljana-mesto,"LJ. BEŽIGRAD, STANOVANJE V EKO SREBRNI HIŠI",90.40,2014,,Agencija,490.000
+1388,stanovanje,4,,ljubljana-mesto,LJ. MOSTE,228.20,2004,,Agencija,990.000
+1389,stanovanje,,,ljubljana-mesto,TRNOVO,200.00,2017,,Agencija,829.000
+1390,stanovanje,4,,ljubljana-mesto,LJ. CENTER,167.00,1886,2000,Agencija,615.000
+1391,stanovanje,2,,ljubljana-mesto,"LJ. BEŽIGRAD, BLIZU PLAVE LAGUNE",49.10,1890,,Agencija,180.000
+1392,stanovanje,3,,ljubljana-mesto,LJ. VIČ,326.00,1908,2010,Agencija,510.000
+1393,hisa,,Drugo,podravska,GRAJENŠČAK,263.30,2004,,Agencija,243.000
+1394,hisa,,Samostojna,podravska,MELJE,107.00,2007,,Zasebna,175.000
+1395,hisa,,Samostojna,podravska,MIKLAVŽ PRI ORMOŽU,190.00,1850,,Zasebna,33.000
+1396,hisa,,Samostojna,podravska,SPUHLJA,211.00,1994,,Zasebna,290.000
+1397,hisa,,Samostojna,podravska,ZGORNJE PARTINJE,150.50,2022,,Agencija,229.000
+1398,hisa,,Samostojna,podravska,"SEJANCI, MANJE NASELJE",79.30,1965,,Agencija,50.900
+1399,hisa,,Samostojna,podravska,KRČEVINA PRI VURBERGU,244.20,2003,,Agencija,270.000
+1400,hisa,,Samostojna,podravska,GRADIŠKA,180.00,1980,,Zasebna,189.000
+1401,hisa,,Dvostanovanjska,podravska,TEZNO,185.00,1980,,Zasebna,315.000
+1402,hisa,,Dvojček,podravska,ZRKOVCI,123.60,2011,ogled,Agencija,160.000
+1403,hisa,,Dvostanovanjska,podravska,MIKLAVŽ NA DRAVSKEM POLJU,472.80,1986,,Agencija,290.000
+1404,hisa,,Vrstna,podravska,SPODNJE RADVANJE,188.00,2023,,Agencija,399.900
+1405,hisa,,Dvostanovanjska,podravska,MARIBOR,139.80,1948,,Agencija,235.000
+1406,hisa,,Samostojna,podravska,SPODNJI DUPLEK,121.49,2023,,Agencija,195.000
+1407,hisa,,Dvojček,podravska,POBREŽJE,176.00,2024,,Agencija,284.000
+1408,hisa,,Samostojna,podravska,ROGOZA,265.80,2003,,Agencija,299.900
+1409,hisa,,Samostojna,podravska,LOBNICA,7.000.00,1980,,Agencija,150.000
+1410,hisa,,Samostojna,podravska,GAČNIK,349.00,1996,,Agencija,200.000
+1411,hisa,,Dvojček,podravska,IHOVA,191.00,1981,,Agencija,105.000
+1412,hisa,,Samostojna,podravska,"MALEČNIK, TRČOVA",404.70,1995,,Agencija,335.000
+1413,hisa,,Samostojna,podravska,JEŠENCA,1.200.00,1968,,Agencija,299.000
+1414,hisa,,Samostojna,podravska,HOČKO POHORJE,275.00,2005,,Agencija,132.000
+1415,hisa,,Samostojna,podravska,"RECENJAK, PANORAMSKI POGLED",133.90,1978,,Agencija,68.000
+1416,hisa,,Samostojna,podravska,"VIDEM PRI PTUJU, PTUJ OKOLICA, NA KLJUČ, ZADNJA",189.50,2023,,Agencija,259.000
+1417,hisa,,Samostojna,podravska,"DRAŽENCI, NE DALEČ IZ MESTA PTUJ",211.00,1990,,Agencija,164.900
+1418,hisa,,Samostojna,podravska,SPODNJA SENARSKA,160.00,2022,,Agencija,165.000
+1419,hisa,,Samostojna,podravska,JURŠINCI,451.00,1991,,Agencija,319.000
+1420,hisa,,Dvojček,podravska,"MARIBOR, ČOPOVA ULICA",222.00,1972,,Agencija,189.000
+1421,hisa,,Samostojna,podravska,"SLOVENSKA BISTRICA, PRIJAZNO NASELJE HIŠ",317.86,2001,,Agencija,415.000
+1422,hisa,,Samostojna,podravska,ŽVAB,1.400.00,1850,,Zasebna,25.500
+1423,hisa,,Dvojček,podravska,"ZGORNJE RADVANJE, PO POHORJEM, HIŠA DVOJČEK",88.90,2012,,Agencija,298.000
+1424,hisa,,Dvojček,podravska,"ZGORNJE RADVANJE, PO POHORJEM, HIŠA DVOJČEK",88.50,2012,,Agencija,235.000
+1425,hisa,,Samostojna,podravska,ROČICA,307.00,1985,,Agencija,199.000
+1426,hisa,,Samostojna,podravska,MIHOVCI PRI VELIKI NEDELJI,116.00,1978,,Agencija,180.000
+1427,hisa,,Samostojna,podravska,"MALI BREBROVNIK, BERBOVNIK",158.80,1980,,Agencija,139.000
+1428,hisa,,Dvojček,podravska,POBREŽJE,176.00,2024,,Agencija,284.000
+1429,hisa,,Dvojček,podravska,TABOR,155.45,2023,,Agencija,304.990
+1430,hisa,,Samostojna,podravska,VOSEK,221.00,1981,,Agencija,169.000
+1431,hisa,,Samostojna,podravska,LENART V SLOVENSKIH GORICAH,136.40,1980,,Agencija,149.990
+1432,hisa,,Samostojna,podravska,"PODLEHNIK, ZIDANICA V PODLEHNIKU",38.20,1998,,Agencija,39.000
+1433,hisa,,Dvojček,podravska,BREZJE,188.60,1986,,Agencija,220.000
+1434,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,187.00,1958,,Agencija,175.000
+1435,hisa,,Samostojna,podravska,"MARIBOR, POLJANE",240.00,1970,,Zasebna,234.000
+1436,hisa,,Vrstna,podravska,"MIKLAVŽ NA DRAVSKEM POLJU, TEZENSKA ULICA, 2204",146.00,2023,,Zasebna,259.000
+1437,hisa,,Samostojna,podravska,"RANČE, OB GOZDU",166.60,1978,,Agencija,169.000
+1438,hisa,,Samostojna,podravska,"KOŠAKI, KOŠAŠKI DOL 111",270.90,1969,,Agencija,225.000
+1439,hisa,,Dvojček,podravska,GRADIŠKA,108.00,2004,,Agencija,209.000
+1440,hisa,,Samostojna,podravska,ŠTAJNGROVA,244.00,2011,,Agencija,240.000
+1441,hisa,,Vrstna,podravska,TEZNO,72.00,1976,,Agencija,170.000
+1442,hisa,,Samostojna,podravska,KAMNICA,234.00,1979,,Agencija,270.000
+1443,hisa,,Samostojna,podravska,JURŠINCI,451.00,1991,,Agencija,319.000
+1444,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,146.00,2003,,Agencija,249.000
+1445,hisa,,Samostojna,podravska,SPODNJE HOČE,211.00,1967,,Agencija,166.000
+1446,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,331.50,1965,,Agencija,205.000
+1447,hisa,,Drugo,podravska,STUDENCI,485.70,1895,,Agencija,358.900
+1448,hisa,,Samostojna,podravska,DRAŽENCI,160.00,2023,,Agencija,199.000
+1449,hisa,,Dvojček,podravska,KAMNICA,152.90,2024,,Agencija,315.000
+1450,hisa,,Samostojna,podravska,DOBROVCE,328.20,2011,,Agencija,389.000
+1451,hisa,,Samostojna,podravska,SPODNJE DOBRENJE,301.00,2012,,Zasebna,229.000
+1452,hisa,,Samostojna,podravska,"RAČE, LJUBLJANSKA CESTA",150.60,2022,,Agencija,295.000
+1453,hisa,,Samostojna,podravska,MELJE,237.00,1963,,Zasebna,225.000
+1454,hisa,,Atrijska,podravska,"RAČE, BREZULA",136.40,2024,,Agencija,299.000
+1455,hisa,,Samostojna,podravska,MIKLAVŽ NA DRAVSKEM POLJU,108.80,1928,,Agencija,159.000
+1456,hisa,,Samostojna,podravska,TABOR,169.60,1954,,Agencija,317.000
+1457,hisa,,Dvojček,podravska,"MOČNA, POGLED NA JEZERO PRISTAVA",76.00,1800,,Agencija,71.000
+1458,hisa,,Samostojna,podravska,ZGORNJE POLJČANE,306.00,1750,,Zasebna,78.000
+1459,hisa,,Vrstna,podravska,SLOVENSKA BISTRICA,120.00,2009,,Zasebna,269.000
+1460,hisa,,Samostojna,podravska,HUM PRI ORMOŽU,195.00,1967,,Agencija,119.999
+1461,hisa,,Samostojna,podravska,RADIZEL,115.90,2024,,Agencija,319.900
+1462,hisa,,Samostojna,podravska,RADIZEL,115.90,2024,,Agencija,319.900
+1463,hisa,,Dvojček,podravska,PEKRE,149.20,2023,,Agencija,279.000
+1464,hisa,,Dvojček,podravska,KAMNICA,178.50,2007,,Agencija,380.000
+1465,hisa,,Samostojna,podravska,ZRKOVCI,120.70,2023,,Agencija,239.900
+1466,hisa,,Dvojček,podravska,KRIVI VRH,137.00,2024,,Agencija,119.500
+1467,hisa,,Dvojček,podravska,KRIVI VRH,137.00,2024,,Agencija,119.500
+1468,hisa,,Samostojna,podravska,SENČAK,91.00,1986,,Agencija,110.000
+1469,hisa,,Samostojna,podravska,NARAPLJE,74.20,1935,,Agencija,72.000
+1470,hisa,,Samostojna,podravska,VINARJE,274.00,1983,,Agencija,269.000
+1471,hisa,,Atrijska,podravska,ŠENTILJ V SLOVENSKIH GORICAH,132.00,2019,,Agencija,328.900
+1472,hisa,,Samostojna,podravska,KOZJAK PRI CERŠAKU,400.00,1800,,Agencija,167.000
+1473,hisa,,Samostojna,podravska,"CIRKULANE, POHORJE",42.90,1850,,Agencija,119.900
+1474,hisa,,Samostojna,podravska,"SPUHLJA, PTUJ",211.00,1994,,Agencija,334.500
+1475,hisa,,Samostojna,podravska,BRENGOVA,86.70,1911,,Agencija,79.000
+1476,hisa,,Samostojna,podravska,BOHOVA,266.00,1997,,Agencija,370.000
+1477,hisa,,Atrijska,podravska,"TEZNO, MB",94.40,1979,,Agencija,249.000
+1478,hisa,,Samostojna,podravska,PTUJ,153.00,1970,,Agencija,165.000
+1479,hisa,,Atrijska,podravska,TEZNO,87.00,1978,,Zasebna,219.000
+1480,hisa,,Dvojček,podravska,"STUDENCI, JOCOVA UL.",153.00,1967,,Zasebna,190.000
+1481,hisa,,Samostojna,podravska,MALEČNIK,247.00,1960,,Agencija,180.000
+1482,hisa,,Samostojna,podravska,RANČE,80.00,2011,,Zasebna,210.000
+1483,hisa,,Dvojček,podravska,"SLOVENSKA BISTRICA, BLIZU VSE POTREBNE INFRASTRUKTUR",173.50,2024,,Agencija,395.000
+1484,hisa,,Dvojček,podravska,"SLOVENSKA BISTRICA, BLIZU VSE POTREBNE INFRASTRUKTUR",173.50,2024,,Agencija,395.000
+1485,hisa,,Samostojna,podravska,"JABLANCE, 5 MIN IZ ZG. DUPLEKA",127.60,1900,,Agencija,398.000
+1486,hisa,,Samostojna,podravska,"RAZVANJE, 4 MIN IZ MARIBORA, SONČNA LEGA",321.90,1973,,Agencija,345.000
+1487,hisa,,Vrstna,podravska,SLOVENSKA BISTRICA,90.00,1968,,Agencija,90.000
+1488,hisa,,Samostojna,podravska,OPLOTNICA,300.00,1977,,Agencija,99.000
+1489,hisa,,Samostojna,podravska,POLANA,304.00,1981,,Agencija,119.900
+1490,hisa,,Dvojček,podravska,STUDENCI,83.00,1916,,Agencija,125.000
+1491,hisa,,Samostojna,podravska,"PTUJ, OKOLICA",150.00,1985,,Zasebna,100.000
+1492,hisa,,Samostojna,podravska,"POČEHOVA, NA HRIBU",237.80,2005,,Agencija,399.000
+1493,hisa,,Samostojna,podravska,ČRETA,246.10,1982,,Agencija,327.000
+1494,hisa,,Samostojna,podravska,"ZGORNJA SELNICA, V ZGORNJI SELNICI",117.30,1850,,Agencija,174.900
+1495,hisa,,Dvostanovanjska,podravska,TEZNO,184.00,1934,,Agencija,229.000
+1496,hisa,,Vrstna,podravska,"PTUJ, IZGOTOVLJENA NA KLJUČ",165.26,2023,,Agencija,262.000
+1497,hisa,,Samostojna,podravska,"PODLEHNIK, NA PLANOTI",83.80,1978,,Agencija,99.800
+1498,hisa,,Samostojna,podravska,MIKLAVŽ NA DRAVSKEM POLJU,278.70,1984,,Agencija,264.000
+1499,hisa,,Dvojček,podravska,TABOR,155.45,2023,,Agencija,304.990
+1500,hisa,,Dvojček,podravska,"PODOVA, HIŠA, NOVOGRADNJA V OKOLICI MB",141.30,2023,,Agencija,269.900
+1501,hisa,,Dvojček,podravska,RAČE,206.20,2024,,Agencija,229.900
+1502,hisa,,Vrstna,podravska,"PTUJ, VRSTNA HIŠA NA KLJUČ",149.80,2022,,Agencija,262.000
+1503,hisa,,Vrstna,podravska,"PTUJ, VRSTNA HIŠA, NA KLJUČ",149.10,2023,,Agencija,262.000
+1504,hisa,,Vrstna,podravska,"PTUJ, VRSTNA HIŠA NA KLJUČ",149.80,2023,,Agencija,262.000
+1505,hisa,,Samostojna,podravska,PRAGERSKO,56.00,1917,,Zasebna,73.900
+1506,hisa,,Samostojna,podravska,"CIRKOVCE, STAROŠINCE",80.00,1954,,Agencija,117.000
+1507,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, VMESNA ENOTA, III. POD. GR. FAZA",137.00,2022,,Agencija,159.900
+1508,hisa,,Samostojna,podravska,ZGORNJI DUPLEK,214.00,1995,,Agencija,448.000
+1509,hisa,,Samostojna,podravska,"MIKLAVŽ NA DRAVSKEM POLJU, BLIZU VSE ŽELENE INFRASTRUKTURE",130.70,1959,,Agencija,189.900
+1510,hisa,,Samostojna,podravska,PERNICA,276.10,1967,,Agencija,299.999
+1511,hisa,,Samostojna,podravska,PTUJ,384.00,1994,,Zasebna,249.000
+1512,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,146.80,2004,,Agencija,269.990
+1513,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,168.00,2004,,Agencija,269.990
+1514,hisa,,Samostojna,podravska,PODOVA,68.00,1707,,Agencija,89.990
+1515,hisa,,Samostojna,podravska,GRADIŠČA,90.00,1914,,Agencija,79.800
+1516,hisa,,Samostojna,podravska,RAZVANJE,260.30,1981,,Agencija,279.000
+1517,hisa,,Samostojna,podravska,DESTRNIK,105.70,1921,,Agencija,89.000
+1518,hisa,,Dvojček,podravska,TABOR,155.45,2021,,Agencija,304.990
+1519,hisa,,Samostojna,podravska,"MARKOVCI, BUKOVCI",184.00,2006,,Agencija,280.000
+1520,hisa,,Samostojna,podravska,LENART V SLOVENSKIH GORICAH,67.60,1982,,Agencija,89.900
+1521,hisa,,Dvojček,podravska,RADIZEL,135.05,2024,,Agencija,235.000
+1522,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,191.50,1982,,Agencija,197.000
+1523,hisa,,Samostojna,podravska,KAMNICA,323.00,1860,,Agencija,68.000
+1524,hisa,,Samostojna,podravska,ZGORNJA SELNICA,244.20,1960,,Agencija,114.900
+1525,hisa,,Samostojna,podravska,PTUJ,135.00,2023,,Agencija,303.000
+1526,hisa,,Samostojna,podravska,PTUJ,135.00,2023,,Agencija,289.000
+1527,hisa,,Samostojna,podravska,PTUJ,135.00,2023,,Agencija,269.900
+1528,hisa,,Samostojna,podravska,PTUJ,135.00,2023,,Agencija,255.900
+1529,hisa,,Drugo,podravska,RUŠE,119.00,2016,,Zasebna,176.000
+1530,hisa,,Samostojna,podravska,MARIBOR,255.00,1902,,Agencija,195.000
+1531,hisa,,Dvojček,podravska,ZGORNJI DUPLEK,138.15,2024,,Agencija,329.900
+1532,hisa,,Samostojna,podravska,DRAŽEN VRH - DEL,186.50,1963,,Agencija,139.900
+1533,hisa,,Samostojna,podravska,"ZIMICA, POSESTVO, 3. 5 KM IZ ZG. DUPLEKA",139.52,1950,,Agencija,395.000
+1534,hisa,,Samostojna,podravska,ORMOŽ,390.00,1979,ogled,Agencija,185.000
+1535,hisa,,Atrijska,podravska,STUDENCI,100.00,1991,,Agencija,289.000
+1536,hisa,,Dvojček,podravska,SPODNJA VOLIČINA,165.10,2022,,Agencija,275.000
+1537,hisa,,Dvojček,podravska,SPODNJA VOLIČINA,170.90,2022,,Agencija,286.000
+1538,hisa,,Samostojna,podravska,ŽEROVINCI,123.00,1999,,Agencija,78.000
+1539,hisa,,Samostojna,podravska,POČEHOVA,129.20,1990,,Agencija,195.950
+1540,hisa,,Samostojna,podravska,RAČE,216.30,2006,,Agencija,315.000
+1541,hisa,,Dvojček,podravska,"SLOVENSKA BISTRICA, ZGORNJA",133.00,2023,,Agencija,204.900
+1542,hisa,,Dvojček,podravska,SLOVENJA VAS,150.00,2012,,Zasebna,229.000
+1543,hisa,,Samostojna,podravska,"MARIBOR, MELJSKI DOL",156.20,1970,,Agencija,195.000
+1544,hisa,,Samostojna,podravska,PEKRE,137.00,2011,,Agencija,449.000
+1545,hisa,,Samostojna,podravska,POBREŽJE,231.95,1948,,Agencija,98.000
+1546,hisa,,Samostojna,podravska,SAKUŠAK,224.20,1965,,Agencija,199.000
+1547,hisa,,Samostojna,podravska,PTUJ,156.00,1981,,Agencija,189.000
+1548,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, VMESNA ENOTA, III. POD. GR. FAZA",137.00,2022,,Agencija,159.900
+1549,hisa,,Dvojček,podravska,"ZGORNJA HAJDINA, PTUJ OKOLICA, DVOJČEK, NA KLJUČ",133.00,2024,,Agencija,260.000
+1550,hisa,,Samostojna,podravska,"JURŠINCI, PTUJ OKOLICA, III. POD. GR. FAZA",157.60,2023,,Agencija,179.000
+1551,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, PTUJ OKOLICA, VMESNA, NA KLJUČ",137.00,2024,,Agencija,235.000
+1552,hisa,,Samostojna,podravska,LENART V SLOVENSKIH GORICAH,157.40,1850,,Agencija,44.100
+1553,hisa,,Samostojna,podravska,GRADIŠKA,179.02,1977,,Agencija,189.990
+1554,hisa,,Dvostanovanjska,podravska,SPODNJI DUPLEK,196.00,1970,,Agencija,149.900
+1555,hisa,,Samostojna,podravska,RAZVANJE,133.00,2022,,Agencija,320.000
+1556,hisa,,Dvojček,podravska,RAZVANJE,177.00,2023,,Agencija,290.000
+1557,hisa,,Samostojna,podravska,LIMBUŠ,150.60,1991,,Agencija,175.000
+1558,hisa,,Samostojna,podravska,"VURBERK, MIRNA LOKACIJA Z RAZGLEDOM",103.80,1998,,Agencija,185.000
+1559,hisa,,Dvojček,podravska,RAZVANJE,177.00,2023,,Agencija,329.900
+1560,hisa,,Samostojna,podravska,"VRANJI VRH, SLADKI",270.00,1990,,Agencija,69.990
+1561,hisa,,Samostojna,podravska,SPODNJE VERJANE,194.50,2022,,Agencija,147.000
+1562,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,240.00,1968,,Agencija,289.000
+1563,hisa,,Samostojna,podravska,SPODNJE VERJANE,194.50,2022,,Agencija,149.000
+1564,hisa,,Dvojček,podravska,PIVOLA,140.00,2004,,Agencija,229.000
+1565,hisa,,Samostojna,podravska,POBREŽJE,190.90,1986,,Zasebna,269.000
+1566,hisa,,Samostojna,podravska,"MOŠKANJCI, PTUJ OKOLICA, GORIŠNICA",290.30,1958,,Agencija,127.000
+1567,hisa,,Dvojček,podravska,POBREŽJE,119.11,2024,,Agencija,309.686
+1568,hisa,,Dvojček,podravska,POBREŽJE,128.67,2024,,Agencija,334.651
+1569,hisa,,Dvojček,podravska,POBREŽJE,128.67,2024,,Agencija,334.651
+1570,hisa,,Dvojček,podravska,POBREŽJE,119.11,2024,,Agencija,309.686
+1571,hisa,,Samostojna,podravska,SESTRŽE,75.00,1925,,Zasebna,48.000
+1572,hisa,,Samostojna,podravska,SELNICA OB MURI,270.00,1990,,Agencija,189.000
+1573,hisa,,Vrstna,podravska,PTUJ,236.90,1972,,Zasebna,250.000
+1574,hisa,,Samostojna,podravska,HOTINJA VAS,160.00,1988,,Zasebna,195.000
+1575,hisa,,Samostojna,podravska,PTUJ,180.00,2024,,Agencija,359.000
+1576,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,393.70,2006,,Agencija,499.000
+1577,hisa,,Samostojna,podravska,SAVINSKO,65.00,1982,,Agencija,46.000
+1578,hisa,,Dvojček,podravska,ZGORNJA HAJDINA,131.10,2024,,Agencija,260.000
+1579,hisa,,Vrstna,podravska,ZGORNJA HAJDINA,132.40,2024,,Agencija,235.000
+1580,hisa,,Vrstna,podravska,ZGORNJA HAJDINA,132.90,2025,,Agencija,250.000
+1581,hisa,,Samostojna,podravska,BENEDIKT,138.91,2022,,Agencija,242.167
+1582,hisa,,Samostojna,podravska,"ZGORNJA HAJDINA, ODMAKNJENA OD GLAVNE CESTE",292.10,1965,,Agencija,119.900
+1583,hisa,,Samostojna,podravska,MIKLAVŽ NA DRAVSKEM POLJU,286.10,1978,,Zasebna,259.000
+1584,hisa,,Samostojna,podravska,"ŠOBER, V NARAVI NA MIRNI LOKACIJI",151.10,1984,,Agencija,159.990
+1585,hisa,,Samostojna,podravska,PTUJ,180.00,2024,,Agencija,
+1586,hisa,,Samostojna,podravska,"POBREŽJE, VRAZOVA ULICA",86.00,1929,,Agencija,122.000
+1587,hisa,,Dvojček,podravska,ZGORNJI DUPLEK,138.16,2024,,Agencija,329.900
+1588,hisa,,Samostojna,podravska,VURBERK,331.00,2003,,Agencija,345.000
+1589,hisa,,Samostojna,podravska,TRNOVSKA VAS,159.00,2023,,Agencija,249.000
+1590,hisa,,Samostojna,podravska,"SPODNJI DUPLEK, V BLIŽINI WAKE PARKA DOOPLEK",317.66,1967,,Agencija,259.000
+1591,hisa,,Samostojna,podravska,MIKLAVŽ NA DRAVSKEM POLJU,214.10,2004,,Agencija,249.900
+1592,hisa,,Samostojna,podravska,BUKOVCI,184.00,2006,,Agencija,280.000
+1593,hisa,,Samostojna,podravska,GRUŠKOVEC,98.60,1995,,Agencija,59.000
+1594,hisa,,Samostojna,podravska,BISTRICA OB DRAVI,185.80,2023,,Agencija,244.199
+1595,hisa,,Samostojna,podravska,SAVCI,200.00,1955,,Zasebna,65.000
+1596,hisa,,Samostojna,podravska,KRČEVINA PRI VURBERGU,229.00,2005,,Agencija,218.900
+1597,hisa,,Vrstna,podravska,ZGORNJA HAJDINA,132.40,2024,,Agencija,250.000
+1598,hisa,,Vrstna,podravska,ZGORNJA HAJDINA,132.10,2024,,Agencija,235.000
+1599,hisa,,Trojček,podravska,ZGORNJA HAJDINA,132.40,2024,,Agencija,250.000
+1600,hisa,,Trojček,podravska,ZGORNJA HAJDINA,132.10,2024,,Agencija,235.000
+1601,hisa,,Dvojček,podravska,ZGORNJA HAJDINA,132.10,2024,,Agencija,260.000
+1602,hisa,,Samostojna,podravska,PTUJ,193.94,2022,,Agencija,325.000
+1603,hisa,,Vrstna,podravska,TEZNO,77.00,1976,,Agencija,150.000
+1604,hisa,,Samostojna,podravska,KIDRIČEVO,80.00,1954,,Agencija,117.990
+1605,hisa,,Samostojna,podravska,BUKOVCI,165.00,1977,,Zasebna,155.000
+1606,hisa,,Samostojna,podravska,SPODNJE RADVANJE,341.50,1977,,Agencija,289.000
+1607,hisa,,Dvojček,podravska,POBREŽJE,119.11,2024,,Agencija,309.686
+1608,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,115.39,2022,,Agencija,294.900
+1609,hisa,,Samostojna,podravska,MARIBOR,72.60,1984,,Agencija,145.000
+1610,hisa,,Dvojček,podravska,POBREŽJE,176.00,2024,,Agencija,284.000
+1611,hisa,,Samostojna,podravska,LIMBUŠ,140.00,1980,,Zasebna,134.900
+1612,hisa,,Samostojna,podravska,VINTAROVCI,162.00,1965,,Agencija,69.000
+1613,hisa,,Samostojna,podravska,ZLATOLIČJE,350.00,1980,,Agencija,279.000
+1614,hisa,,Samostojna,podravska,PTUJSKA GORA,1.280.00,1880,,Agencija,89.000
+1615,hisa,,Samostojna,podravska,"CIRKULANE, PTUJ OKOLICA",202.00,1981,,Agencija,179.000
+1616,hisa,,Samostojna,podravska,"DOLENA, PTUJ OKOLICA, VIDEM, VRH GRIČA",300.00,2007,,Agencija,139.000
+1617,hisa,,Samostojna,podravska,"SPUHLJA, PTUJ, BLIŽNJA OKOLICA",154.40,1948,,Agencija,99.900
+1618,hisa,,Samostojna,podravska,"POLJČANE, OKOLICA",145.00,1966,,Agencija,89.000
+1619,hisa,,Samostojna,podravska,"PESNICA PRI MARIBORU, DRAGUČOVA",320.40,1996,,Agencija,269.000
+1620,hisa,,Samostojna,podravska,"PTUJ, SAMOSTOJNA HIŠA V CENTRU MESTA",125.80,1932,,Agencija,149.000
+1621,hisa,,Samostojna,podravska,LIMBUŠ,235.00,1992,,Agencija,590.000
+1622,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,240.00,2002,,Agencija,199.900
+1623,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,240.00,1968,,Agencija,289.000
+1624,hisa,,Samostojna,podravska,ROGOZA,265.80,2003,,Agencija,299.900
+1625,hisa,,Samostojna,podravska,JANŽEVA GORA,271.00,1973,,Agencija,148.000
+1626,hisa,,Samostojna,podravska,PTUJ,62.80,1937,,Agencija,88.900
+1627,hisa,,Dvojček,podravska,POBREŽJE,122.30,1966,,Agencija,218.000
+1628,hisa,,Samostojna,podravska,"PTUJ, OKOLICA, DVE STANOVANJI",263.00,1988,,Agencija,154.900
+1629,hisa,,Vrstna,podravska,"STUDENCI, ZA SUPERNOVO BIVŠA QULANDIJA",163.40,2023,,Agencija,400.000
+1630,hisa,,Samostojna,podravska,ZGORNJE GRADIŠČE,327.50,1981,,Agencija,368.700
+1631,hisa,,Samostojna,podravska,STUDENCI,59.80,1930,,Agencija,94.900
+1632,hisa,,Samostojna,podravska,BRESTERNICA,310.40,1988,,Agencija,750.000
+1633,hisa,,Vrstna,podravska,"TEZNO, TEZENSKA DOBRAVA",86.70,1978,,Zasebna,275.000
+1634,hisa,,Samostojna,podravska,PTUJ,176.00,1976,,Agencija,178.000
+1635,hisa,,Samostojna,podravska,RAČE,217.80,2003,,Agencija,350.000
+1636,hisa,,Samostojna,podravska,"SMOLNIK, MARIBOR OKOLICA, POHORJE, ŠUMIK",206.10,1900,,Agencija,799.000
+1637,hisa,,Samostojna,podravska,ZGORNJA VELKA,250.00,1972,,Agencija,129.000
+1638,hisa,,Samostojna,podravska,MARIBOR,400.00,2000,,Agencija,315.000
+1639,hisa,,Samostojna,podravska,PRAGERSKO,140.00,1956,,Zasebna,145.000
+1640,hisa,,Dvojček,podravska,SPODNJI DUPLEK,121.49,2023,,Agencija,195.000
+1641,hisa,,Samostojna,podravska,"PARADIŽ, PODEŽELJE, LOKALNA ODMAKNJENOST",114.00,1966,,Zasebna,115.000
+1642,hisa,,Samostojna,podravska,CELESTRINA,95.00,1980,,Agencija,155.000
+1643,hisa,,Vrstna,podravska,"BISTRICA OB DRAVI, MIRNO IN ZELENO OKOLJE",195.70,2024,,Agencija,202.399
+1644,hisa,,Samostojna,podravska,"BISTRICA OB DRAVI, MIRNO IN ZELENO OKOLJE",185.80,2023,,Agencija,244.199
+1645,hisa,,Samostojna,podravska,VITAN,83.00,1946,,Zasebna,25.300
+1646,hisa,,Samostojna,podravska,TROTKOVA,149.40,1940,,Agencija,143.000
+1647,hisa,,Samostojna,podravska,MELJSKI HRIB,200.20,1850,,Agencija,269.000
+1648,hisa,,Samostojna,podravska,"BISTRICA OB DRAVI, MIRNO IN ZELENO OKOLJE",185.80,2023,,Agencija,244.199
+1649,hisa,,Vrstna,podravska,"BISTRICA OB DRAVI, MIRNO IN ZELENO OKOLJE",195.70,2024,,Agencija,202.399
+1650,hisa,,Samostojna,podravska,"ZAVRČ, HALOZE, NA VRHU HRIBA",426.00,1900,,Agencija,259.900
+1651,hisa,,Samostojna,podravska,PODLOŽE,91.10,1959,,Agencija,79.800
+1652,hisa,,Samostojna,podravska,SPODNJI DUPLEK,66.70,1976,,Agencija,125.000
+1653,hisa,,Samostojna,podravska,"PESNICA PRI MARIBORU, GRADIŠKA",120.00,1999,,Zasebna,70.000
+1654,hisa,,Dvojček,podravska,MIKLAVŽ NA DRAVSKEM POLJU,124.00,2023,,Agencija,223.000
+1655,hisa,,Samostojna,podravska,"POLANA, MIRNA LOKACIJA OB ZELENEM PASU",154.20,1984,,Agencija,175.000
+1656,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,132.00,1961,,Agencija,259.900
+1657,hisa,,Samostojna,podravska,KRČEVINA PRI VURBERGU,244.20,2003,,Zasebna,270.000
+1658,hisa,,Samostojna,podravska,SPODNJA SENARSKA,112.00,1991,,Agencija,320.000
+1659,hisa,,Samostojna,podravska,"PTUJ, CENTER",163.70,1973,,Agencija,179.900
+1660,hisa,,Samostojna,podravska,"KAMNICA, PRI MARIBORU - GOZD IN MIR",333.00,1999,,Zasebna,280.000
+1661,hisa,,Samostojna,podravska,DOLGE NJIVE,165.60,1999,,Agencija,195.000
+1662,hisa,,Samostojna,podravska,DRAŽENCI,160.00,2023,,Agencija,259.900
+1663,hisa,,Atrijska,podravska,GRAJENA,154.00,2022,,Agencija,269.000
+1664,hisa,,Samostojna,podravska,ZGORNJI GASTERAJ,125.00,2005,,Agencija,85.000
+1665,hisa,,Samostojna,podravska,"ZGORNJE HOČE, MIRNA LOKACIJA POD POHORJEM",480.00,1989,,Agencija,590.000
+1666,hisa,,Dvostanovanjska,podravska,"POČEHOVA, NAD TREMI RIBNIKI",262.30,1987,,Agencija,265.000
+1667,hisa,,Samostojna,podravska,"MB - CENTER, POD KALVARIJO",449.00,1901,,Agencija,1.177.000
+1668,hisa,,Samostojna,podravska,VELIKO TINJE,226.60,1985,,Agencija,169.000
+1669,hisa,,Samostojna,podravska,STUDENCI,260.00,2007,,Agencija,680.000
+1670,hisa,,Samostojna,podravska,CERKVENJAK,100.00,1970,,Agencija,155.900
+1671,hisa,,Samostojna,podravska,ZGORNJA VELKA,287.20,2004,,Agencija,285.000
+1672,hisa,,Dvojček,podravska,KOŠAKI,202.60,2007,,Agencija,240.000
+1673,hisa,,Samostojna,podravska,"SLOVENSKA BISTRICA, SLOVENIJA",356.00,1977,,Zasebna,380.000
+1674,hisa,,Samostojna,podravska,SPODNJA VOLIČINA,140.90,2023,,Agencija,259.000
+1675,hisa,,Samostojna,podravska,POLENCI,73.60,1824,,Agencija,29.800
+1676,hisa,,Samostojna,podravska,KRČEVINA PRI VURBERGU,154.80,1980,,Agencija,160.000
+1677,hisa,,Samostojna,podravska,"KAMNICA, BLIZU MARIBORSKEGA OTOKA",620.00,1991,,Agencija,599.000
+1678,hisa,,Samostojna,podravska,SPODNJA VOLIČINA,140.90,2023,,Agencija,219.000
+1679,hisa,,Dvostanovanjska,podravska,PACINJE,196.40,1977,,Agencija,290.000
+1680,hisa,,Samostojna,podravska,SPODNJA VOLIČINA,140.90,2023,,Agencija,141.255
+1681,hisa,,Samostojna,podravska,"RADIZEL, HOČE - SLIVNICA",345.51,2023,,Agencija,599.000
+1682,hisa,,Samostojna,podravska,BARISLOVCI,71.70,1965,,Agencija,137.000
+1683,hisa,,Dvojček,podravska,IHOVA,192.00,1981,,Agencija,105.000
+1684,hisa,,Samostojna,podravska,VELIKI VRH,65.70,1908,,Agencija,87.000
+1685,hisa,,Samostojna,podravska,GRADIŠČA,164.50,2000,,Agencija,266.000
+1686,hisa,,Samostojna,podravska,GRADIŠKA,268.00,2001,,Agencija,279.000
+1687,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,300.00,2017,,Agencija,330.000
+1688,hisa,,Samostojna,podravska,"RAZVANJE, MARIBOR",294.00,1990,,Zasebna,349.000
+1689,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, KRAJNA ENOTA, III. PODALJ. GR. F.",137.00,2022,,Agencija,169.900
+1690,hisa,,Samostojna,podravska,"KIDRIČEVO, PTUJ OKOLICA",224.70,2015,,Agencija,280.000
+1691,hisa,,Samostojna,podravska,"TABOR, V BLIŽINI UKC",277.80,1936,,Agencija,453.000
+1692,hisa,,Samostojna,podravska,"MB - CENTER, STROGI MESTA, PEŠ CONA",1.319.00,1992,,Agencija,1.090.000
+1693,hisa,,Dvojček,podravska,POBREŽJE,164.72,2022,,Agencija,299.990
+1694,hisa,,Samostojna,podravska,CIRKNICA,59.80,1900,,Agencija,68.000
+1695,hisa,,Dvojček,podravska,POBREŽJE,137.00,2022,,Agencija,300.000
+1696,hisa,,Samostojna,podravska,SMOLINCI,200.00,1989,,Agencija,165.000
+1697,hisa,,Dvostanovanjska,podravska,SPODNJI DUPLEK,348.00,1986,,Agencija,265.000
+1698,hisa,,Samostojna,podravska,"POPOVCI, SOSESKA VIDEM - PTUJ",168.20,2023,,Agencija,259.900
+1699,hisa,,Samostojna,podravska,MARKOVCI,270.00,1963,,Agencija,139.000
+1700,hisa,,Samostojna,podravska,BUKOVCI,92.00,1972,,Agencija,90.000
+1701,hisa,,Samostojna,podravska,"ZGORNJE RADVANJE, OB ZELENEM PASU VZNOŽJA POHORJA",303.60,2010,,Agencija,899.000
+1702,hisa,,Dvojček,podravska,MAJŠPERK,143.76,2000,,Agencija,158.000
+1703,hisa,,Samostojna,podravska,"SVETI TOMAŽ, ORMOŽ OKOLICA, SV.",179.30,1976,,Agencija,90.000
+1704,hisa,,Samostojna,podravska,"MIKLAVŽ NA DRAVSKEM POLJU, SKOKE",163.00,1981,,Agencija,250.000
+1705,hisa,,Samostojna,podravska,KRČEVINA PRI VURBERGU,229.00,2005,,Agencija,250.000
+1706,hisa,,Samostojna,podravska,MB - CENTER,449.00,1901,,Agencija,1.177.000
+1707,hisa,,Dvojček,podravska,SPODNJI DUPLEK,121.49,2023,,Agencija,195.000
+1708,hisa,,Samostojna,podravska,SPODNJE HOČE,299.40,1968,,Agencija,398.500
+1709,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,75.00,1942,,Agencija,120.000
+1710,hisa,,Samostojna,podravska,"ORMOŽ, POSEST, MANJŠA KMETIJA",80.60,1895,,Agencija,110.000
+1711,hisa,,Samostojna,podravska,PREPOLJE,187.80,1953,,Agencija,109.000
+1712,hisa,,Samostojna,podravska,"MAKOLE, STARI GRAD",110.40,1985,,Agencija,190.000
+1713,hisa,,Samostojna,podravska,ZGORNJA VELKA,109.00,1986,,Agencija,110.000
+1714,hisa,,Samostojna,podravska,MIKLAVŽ NA DRAVSKEM POLJU,108.50,1930,,Agencija,105.000
+1715,hisa,,Samostojna,podravska,ZGORNJA KUNGOTA,150.00,2006,,Agencija,239.900
+1716,hisa,,Samostojna,podravska,"JELOVEC, PRI MAKOLAH",132.00,1920,,Agencija,69.000
+1717,hisa,,Samostojna,podravska,"SENČAK, SVETI TOMAŽ",110.00,1990,,Zasebna,110.000
+1718,hisa,,Samostojna,podravska,POČEHOVA,129.00,1990,,Zasebna,195.950
+1719,hisa,,Samostojna,podravska,ZGORNJA HAJDINA,168.00,1997,,Agencija,260.000
+1720,hisa,,Samostojna,podravska,KOŠAKI,190.60,1971,,Agencija,225.000
+1721,hisa,,Samostojna,podravska,SVEČINA,150.00,2006,,Zasebna,240.000
+1722,hisa,,Samostojna,podravska,"PTUJ, MARKOVCI",163.80,1980,,Agencija,129.000
+1723,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, PTUJ OKOLICA, KRAJNA, NA KLJUČ",137.00,2024,,Agencija,250.000
+1724,hisa,,Samostojna,podravska,"POČEHOVA, MARIBOR",132.70,1964,,Agencija,150.000
+1725,hisa,,Samostojna,podravska,"STRAJNA, PODLEHNIK",34.00,1960,,Zasebna,34.900
+1726,hisa,,Samostojna,podravska,MALNA,130.00,2000,,Zasebna,123.000
+1727,hisa,,Samostojna,podravska,ČAGONA,79.50,1913,,Agencija,99.000
+1728,hisa,,Samostojna,podravska,ŠPIČNIK,140.00,1900,,Agencija,597.000
+1729,hisa,,Samostojna,podravska,SPODNJA SENARSKA,161.00,2022,,Agencija,160.000
+1730,hisa,,Vrstna,podravska,"PRAGERSKO, VRSTNA HIŠA",201.40,2023,,Agencija,139.000
+1731,hisa,,Vrstna,podravska,"PRAGERSKO, VRSTNA HIŠA",201.40,2023,,Agencija,239.000
+1732,hisa,,Vrstna,podravska,"PRAGERSKO, VRSTNA HIŠA",201.40,2023,,Agencija,139.000
+1733,hisa,,Vrstna,podravska,"PRAGERSKO, VRSTNA HIŠA",201.40,2023,,Agencija,139.000
+1734,hisa,,Vrstna,podravska,"PRAGERSKO, VRSTNA HIŠA",201.40,2023,,Agencija,249.000
+1735,hisa,,Samostojna,podravska,"CIRKULANE, 17, 2282",54.00,1885,,Zasebna,34.400
+1736,hisa,,Samostojna,podravska,ZGORNJE GRADIŠČE,71.20,1969,,Agencija,107.500
+1737,hisa,,Samostojna,podravska,ŠENTOVEC,90.00,1968,,Agencija,90.000
+1738,hisa,,Vrstna,podravska,BREZJE,227.50,2021,,Agencija,549.000
+1739,hisa,,Samostojna,podravska,SREDIŠČE OB DRAVI,193.00,1900,,Agencija,70.000
+1740,hisa,,Samostojna,podravska,BREZJE PRI POLJČANAH,65.00,2003,,Agencija,80.000
+1741,hisa,,Samostojna,podravska,LITMERK,159.00,2015,,Agencija,260.000
+1742,hisa,,Dvojček,podravska,POBREŽJE,188.00,2023,,Agencija,279.000
+1743,hisa,,Samostojna,podravska,GOČOVA,148.00,2022,,Agencija,296.000
+1744,hisa,,Dvojček,podravska,"RAZVANJE, MARIBOR",115.85,2023,,Agencija,290.000
+1745,hisa,,Samostojna,podravska,POBREŽJE,254.40,2001,,Agencija,590.000
+1746,hisa,,Samostojna,podravska,LENART V SLOVENSKIH GORICAH,242.80,1991,,Agencija,230.000
+1747,hisa,,Samostojna,podravska,MESTNI VRH,132.90,1991,,Agencija,265.000
+1748,hisa,,Samostojna,podravska,PRAGERSKO,156.00,2002,,Agencija,178.500
+1749,hisa,,Samostojna,podravska,BUKOVCI,184.00,2006,,Agencija,280.000
+1750,hisa,,Dvostanovanjska,podravska,ZGORNJE RADVANJE,227.50,1989,,Agencija,255.000
+1751,hisa,,Samostojna,podravska,"SPODNJI ŽERJAVCI, NA MIRNI LOKACIJI",81.00,1990,,Agencija,69.900
+1752,hisa,,Samostojna,podravska,SPODNJI VELOVLEK,774.70,2001,,Agencija,720.000
+1753,hisa,,Samostojna,podravska,LOVRENC NA DRAVSKEM POLJU,386.00,1980,,Agencija,210.000
+1754,hisa,,Samostojna,podravska,"POLANA, HOČE",306.00,1979,,Agencija,330.000
+1755,hisa,,Samostojna,podravska,HOČKO POHORJE,135.00,2001,,Agencija,320.000
+1756,hisa,,Dvostanovanjska,podravska,NJIVERCE,249.00,1906,,Agencija,230.000
+1757,hisa,,Samostojna,podravska,PEKRE,250.00,1976,,Agencija,249.000
+1758,hisa,,Samostojna,podravska,KOROŠKA VRATA,338.00,1903,,Agencija,399.000
+1759,hisa,,Samostojna,podravska,SPODNJE HOČE,146.70,1955,,Agencija,299.000
+1760,hisa,,Dvojček,podravska,RAZVANJE,160.36,2023,,Agencija,290.000
+1761,hisa,,Samostojna,podravska,ZGORNJI LESKOVEC,165.80,1967,,Agencija,179.000
+1762,hisa,,Samostojna,podravska,MARIBOR,228.00,1920,,Agencija,224.900
+1763,hisa,,Samostojna,podravska,"PODLEHNIK, PTUJ OKOLICA, POSEST",51.70,1780,,Agencija,102.400
+1764,hisa,,Samostojna,podravska,ORMOŽ,224.00,1860,,Agencija,180.000
+1765,hisa,,Samostojna,podravska,MB - CENTER,200.00,1900,,Agencija,390.000
+1766,hisa,,Samostojna,podravska,"CIRKULANE, PTUJ OKOLICA",150.30,1898,,Agencija,159.000
+1767,hisa,,Samostojna,podravska,"MARKOVCI, PTUJ OKOLICA",220.00,1978,,Agencija,169.900
+1768,hisa,,Dvojček,podravska,POBREŽJE,128.67,2024,,Agencija,334.542
+1769,hisa,,Dvojček,podravska,POBREŽJE,128.67,2024,,Agencija,334.542
+1770,hisa,,Dvojček,podravska,POBREŽJE,119.11,2024,,Agencija,309.686
+1771,hisa,,Dvojček,podravska,POBREŽJE,119.11,2024,,Agencija,309.686
+1772,hisa,,Dvojček,podravska,POBREŽJE,119.11,2024,,Agencija,309.686
+1773,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,198.00,1998,,Zasebna,380.000
+1774,hisa,,Samostojna,podravska,"LOG, OB POTOKU",180.70,2023,,Agencija,349.900
+1775,hisa,,Samostojna,podravska,GRAJENA,114.00,2023,,Agencija,255.000
+1776,hisa,,Samostojna,podravska,BREZJE,197.80,1980,,Agencija,229.500
+1777,hisa,,Dvojček,podravska,POBREŽJE,165.00,2022,,Agencija,297.000
+1778,hisa,,Dvojček,podravska,KAMNICA,130.19,2023,,Agencija,253.000
+1779,hisa,,Samostojna,podravska,LOČIČ,173.10,2023,,Agencija,249.000
+1780,hisa,,Samostojna,podravska,OPLOTNICA,286.00,1965,,Agencija,168.000
+1781,hisa,,Samostojna,podravska,MB - CENTER,192.50,1910,,Agencija,690.000
+1782,hisa,,Samostojna,podravska,MELJSKI HRIB,225.80,2017,,Agencija,265.000
+1783,hisa,,Dvostanovanjska,podravska,DOLNJA POČEHOVA,245.00,1990,,Agencija,299.000
+1784,hisa,,Samostojna,podravska,PUŠENCI,64.00,1900,,Agencija,28.000
+1785,hisa,,Samostojna,podravska,ŽVAB,33.00,1800,,Agencija,29.990
+1786,hisa,,Samostojna,podravska,VINIČKA VAS,210.00,1996,,Agencija,340.000
+1787,hisa,,Samostojna,podravska,SELNICA OB DRAVI,244.20,1960,,Agencija,122.500
+1788,hisa,,Samostojna,podravska,MB - CENTER,314.20,1965,,Agencija,550.000
+1789,hisa,,Samostojna,podravska,"PTUJ, CENTER",261.00,1961,,Agencija,220.000
+1790,hisa,,Samostojna,podravska,BRESTERNICA,299.00,1981,,Agencija,365.000
+1791,hisa,,Dvojček,podravska,POBREŽJE,137.00,2022,,Agencija,289.000
+1792,hisa,,Samostojna,podravska,MB - CENTER,421.10,1995,,Agencija,899.000
+1793,hisa,,Samostojna,podravska,"KRESNICA, NOVOGRADNJA",140.40,2024,,Agencija,250.000
+1794,hisa,,Samostojna,podravska,LENART V SLOVENSKIH GORICAH,197.00,1974,,Agencija,105.000
+1795,hisa,,Samostojna,podravska,STUDENCI,228.00,2006,,Agencija,335.000
+1796,hisa,,Samostojna,podravska,POBREŽJE,235.50,1961,,Agencija,280.000
+1797,hisa,,Samostojna,podravska,GAJ NAD MARIBOROM,164.60,1981,,Agencija,115.000
+1798,hisa,,Samostojna,podravska,PARADIŽ,151.60,1908,,Agencija,120.000
+1799,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,152.60,1963,,Agencija,320.000
+1800,hisa,,Samostojna,podravska,"ZGORNJA SELNICA, OB DRAVI",102.00,1940,,Agencija,82.000
+1801,hisa,,Samostojna,podravska,PODOVA,240.00,2000,,Zasebna,175.000
+1802,hisa,,Samostojna,podravska,PTUJ,146.00,1972,,Agencija,175.000
+1803,hisa,,Samostojna,podravska,POBREŽJE,242.80,1985,,Agencija,318.900
+1804,hisa,,Samostojna,podravska,STOJNCI,214.70,2020,,Agencija,289.000
+1805,hisa,,Samostojna,podravska,VURBERK,331.00,2003,,Agencija,345.000
+1806,hisa,,Samostojna,podravska,BEZENA,244.80,1992,,Agencija,250.000
+1807,hisa,,Drugo,podravska,STUDENCI,340.90,1904,,Agencija,260.000
+1808,hisa,,Samostojna,podravska,DVORJANE,121.10,1948,,Agencija,284.000
+1809,hisa,,Atrijska,podravska,"ZGORNJA POLSKAVA, GABERNIK",121.70,2008,,Agencija,259.000
+1810,hisa,,Samostojna,podravska,RADIZEL,357.00,1974,,Agencija,350.000
+1811,hisa,,Samostojna,podravska,IVANJKOVCI,122.10,2022,,Agencija,219.000
+1812,hisa,,Samostojna,podravska,"DESTRNIK, PTUJ OKOLICA",77.00,1964,,Agencija,109.000
+1813,hisa,,Samostojna,podravska,JUROVSKI DOL,232.60,1996,,Agencija,325.000
+1814,hisa,,Samostojna,podravska,TEZNO,140.00,2011,,Zasebna,255.000
+1815,hisa,,Samostojna,podravska,KAMNICA,132.00,1996,,Agencija,335.000
+1816,hisa,,Samostojna,podravska,ZABOVCI,140.00,1978,,Agencija,169.900
+1817,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,172.50,2008,,Agencija,267.000
+1818,hisa,,Dvostanovanjska,podravska,"DOLNJA POČEHOVA, 12/L PESNICA",300.00,2000,,Zasebna,300.000
+1819,hisa,,Samostojna,podravska,"VIDEM PRI PTUJU, VRH GRIČA, LEP RAZGLED",105.00,1950,,Agencija,69.500
+1820,hisa,,Samostojna,podravska,PEKRE,172.00,1987,,Agencija,269.000
+1821,hisa,,Samostojna,podravska,HAJDOŠE,135.50,1978,,Agencija,139.000
+1822,hisa,,Samostojna,podravska,STUDENCI,607.40,2007,,Agencija,1.350.000
+1823,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,90.00,1960,,Agencija,66.000
+1824,hisa,,Samostojna,podravska,"FRAM, TURNERJEVA VILA",515.00,1874,,Zasebna,499.000
+1825,hisa,,Samostojna,podravska,"SLIVNICA PRI MARIBORU, GRAD",5.400.00,1493,,Agencija,620.000
+1826,hisa,,Samostojna,podravska,"SLOVENSKA BISTRICA, VRHOLE PRI LAPORJU",112.00,1985,,Agencija,159.000
+1827,hisa,,Dvostanovanjska,podravska,SVETI TOMAŽ,456.00,1936,,Agencija,200.000
+1828,hisa,,Samostojna,podravska,HLAPONCI,223.00,1971,,Agencija,260.000
+1829,hisa,,Samostojna,podravska,MALEČNIK,1.587.50,1989,,Agencija,1.199.000
+1830,hisa,,Samostojna,podravska,POČEHOVA,187.50,1985,,Agencija,299.900
+1831,hisa,,Samostojna,podravska,"SLOVENSKA BISTRICA, CENTER MESTA",180.00,1972,,Zasebna,205.000
+1832,hisa,,Samostojna,podravska,DESTRNIK,51.70,1960,,Zasebna,75.000
+1833,hisa,,Samostojna,podravska,LEŠNICA,95.00,1980,,Zasebna,95.000
+1834,hisa,,Vrstna,podravska,"PTUJ, VRSTNA HIŠA, NA KLJUČ",165.26,2023,,Agencija,262.000
+1835,hisa,,Samostojna,podravska,"GORIŠNICA, PTUJ OKOLICA, PANORAMSKI RAZGLED",427.50,2003,,Agencija,555.000
+1836,hisa,,Samostojna,podravska,DRAGOVIČ,164.00,1980,,Agencija,128.000
+1837,hisa,,Samostojna,podravska,PTUJ,135.00,2023,,Agencija,289.000
+1838,hisa,,Samostojna,podravska,BREZJE,164.00,1968,,Agencija,590.000
+1839,hisa,,Drugo,podravska,ZGORNJE POLJČANE,604.00,2007,,Agencija,435.000
+1840,hisa,,Samostojna,podravska,PEKRE,720.00,1999,,Agencija,335.000
+1841,hisa,,Dvojček,podravska,PRAGERSKO,141.10,1970,,Agencija,205.000
+1842,hisa,,Samostojna,podravska,ZGORNJA VOLIČINA,310.80,1989,,Agencija,197.000
+1843,hisa,,Samostojna,podravska,POLJČANE,280.00,1974,,Agencija,199.000
+1844,hisa,,Samostojna,podravska,BIŠEČKI VRH,59.00,1850,,Agencija,45.000
+1845,hisa,,Samostojna,podravska,SPODNJE HOČE,180.00,1968,,Agencija,156.000
+1846,hisa,,Samostojna,podravska,ZGORNJE RADVANJE,456.00,1979,,Agencija,270.000
+1847,hisa,,Samostojna,podravska,ZGORNJA VELKA,91.10,1957,,Agencija,109.000
+1848,hisa,,Samostojna,podravska,DRAŽENCI,211.00,1990,,Agencija,164.900
+1849,hisa,,Samostojna,podravska,SAKUŠAK,36.30,1960,,Agencija,85.000
+1850,hisa,,Samostojna,podravska,PTUJ,194.10,1962,,Agencija,145.000
+1851,hisa,,Dvojček,podravska,POBREŽJE,171.66,2023,,Agencija,305.671
+1852,hisa,,Samostojna,podravska,POBREŽJE,123.00,1934,,Agencija,460.000
+1853,hisa,,Samostojna,podravska,MB - CENTER,948.00,1771,,Agencija,492.000
+1854,hisa,,Samostojna,podravska,OPLOTNICA,288.00,1951,,Agencija,130.000
+1855,hisa,,Samostojna,podravska,HERMANCI,43.00,1900,,Agencija,13.900
+1856,hisa,,Samostojna,podravska,KOZJAK NAD PESNICO,248.40,1990,,Agencija,140.000
+1857,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, PTUJ OKOLICA, IV. GR. F., VMESNA",137.00,2022,,Agencija,189.500
+1858,hisa,,Vrstna,podravska,"ZGORNJA HAJDINA, PTUJ OKOLICA, IV. GR. F., KONČNA",137.00,2022,,Agencija,199.500
+1859,hisa,,Samostojna,podravska,HOTINJA VAS,249.30,1985,,Agencija,132.000
+1860,hisa,,Samostojna,podravska,PESNICA PRI MARIBORU,276.00,2007,,Agencija,189.000
+1861,hisa,,Samostojna,podravska,KOG,139.10,2005,,Agencija,64.100
+1862,hisa,,Samostojna,podravska,IVANJKOVCI,132.60,1800,,Agencija,65.000
+1863,hisa,,Samostojna,podravska,TEZNO,224.00,2000,,Agencija,299.000
+1864,hisa,,Samostojna,podravska,BRESTERNICA,218.10,1984,,Agencija,310.000
+1865,hisa,,Vrstna,podravska,"PTUJ, HIŠA 2C V NIZU TREH HIŠ 2023",135.00,2023,,Agencija,303.000
+1866,hisa,,Vrstna,podravska,"PTUJ, HIŠA 2B V NIZU TREH HIŠ 2023",135.00,2023,,Agencija,289.000
+1867,hisa,,Samostojna,podravska,ZLATOLIČJE,380.00,1993,,Agencija,279.000
+1868,hisa,,Drugo,podravska,PTUJ,348.00,1993,,Agencija,250.000
+1869,hisa,,Samostojna,podravska,VELIKO TINJE,240.00,1920,,Agencija,195.000
+1870,hisa,,Samostojna,podravska,HOTINJA VAS,140.00,2018,,Zasebna,365.000
+1871,hisa,,Samostojna,podravska,VELIKO TINJE,250.00,1920,,Agencija,195.000
+1872,hisa,,Samostojna,podravska,BEZENA,210.00,1800,,Agencija,130.000
+1873,hisa,,Samostojna,podravska,DRVANJA,284.70,2000,,Agencija,299.900
+1874,hisa,,Dvojček,podravska,PTUJ,163.11,2023,,Agencija,275.000
+1875,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,229.51,2022,,Agencija,295.900
+1876,hisa,,Atrijska,podravska,ŠENTILJ V SLOVENSKIH GORICAH,229.51,2022,,Agencija,295.900
+1877,hisa,,Samostojna,podravska,PREPOLJE,187.80,1953,,Agencija,109.990
+1878,hisa,,Samostojna,podravska,RAZVANJE,298.00,1997,,Agencija,350.000
+1879,hisa,,Samostojna,podravska,RUPERČE,216.35,1927,,Agencija,295.000
+1880,hisa,,Atrijska,podravska,KICAR,252.00,1990,,Zasebna,230.000
+1881,hisa,,Samostojna,podravska,"SLOVENSKA BISTRICA, OKOLICA",152.00,2003,,Agencija,109.000
+1882,hisa,,Samostojna,podravska,TABOR,200.00,1985,,Zasebna,490.000
+1883,hisa,,Samostojna,podravska,RADEHOVA,255.33,2023,,Agencija,179.000
+1884,hisa,,Samostojna,podravska,RADEHOVA,255.33,2023,,Agencija,169.000
+1885,hisa,,Samostojna,podravska,"OREHOVA VAS, ČRETA",294.30,1985,,Agencija,113.000
+1886,hisa,,Samostojna,podravska,HOČKO POHORJE,111.80,1985,,Agencija,163.000
+1887,hisa,,Samostojna,podravska,DRAVSKI DVOR,359.80,1991,,Agencija,295.000
+1888,hisa,,Drugo,podravska,KAMNICA,474.90,1890,,Agencija,360.000
+1889,hisa,,Samostojna,podravska,"MALI BREBROVNIK, PRI JERUZALEMU",150.00,1978,,Zasebna,150.000
+1890,hisa,,Dvojček,podravska,DRAVSKI DVOR,120.00,2022,,Agencija,164.140
+1891,hisa,,Samostojna,podravska,SPODNJA SENARSKA,160.00,2022,,Agencija,169.000
+1892,hisa,,Samostojna,podravska,SPODNJA SENARSKA,161.00,2022,,Agencija,165.000
+1893,hisa,,Trojček,podravska,MIKLAVŽ NA DRAVSKEM POLJU,128.90,2022,,Agencija,259.000
+1894,hisa,,Samostojna,podravska,DESTRNIK,162.00,1980,,Agencija,69.000
+1895,hisa,,Dvojček,podravska,RAČE,135.00,2023,,Agencija,199.500
+1896,hisa,,Samostojna,podravska,HRASTOVEC,46.50,1920,,Zasebna,50.000
+1897,hisa,,Drugo,podravska,SLOVENSKA BISTRICA,541.00,1925,,Agencija,450.000
+1898,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,90.00,2015,,Agencija,45.000
+1899,hisa,,Samostojna,podravska,MB - CENTER,501.30,1890,,Agencija,600.000
+1900,hisa,,Samostojna,podravska,"SPODNJI JAKOBSKI DOL, PESNICA",323.00,1992,,Agencija,235.000
+1901,hisa,,Samostojna,podravska,"KOROŠKA VRATA, OB REKI DRAVI, BLIŽINA CENTRA",233.00,2007,,Agencija,560.000
+1902,hisa,,Samostojna,podravska,"PLINTOVEC, ZGORNJA KUNGOTA",194.00,2022,,Agencija,125.925
+1903,hisa,,Samostojna,podravska,SV. TROJICA V SLOVENSKIH GORICAH,235.00,1901,,Agencija,140.000
+1904,hisa,,Samostojna,podravska,"KIDRIČEVO, V NASELJU",187.90,1958,,Agencija,119.900
+1905,hisa,,Samostojna,podravska,SPODNJE HOČE,120.00,2005,,Agencija,139.000
+1906,hisa,,Drugo,podravska,PTUJ,396.27,1955,,Agencija,350.000
+1907,hisa,,Samostojna,podravska,ZGORNJE GRADIŠČE,122.00,1952,,Agencija,139.000
+1908,hisa,,Samostojna,podravska,KAJŽAR,53.00,1890,,Agencija,€54.800
+1909,hisa,,Samostojna,podravska,"MARIBOR, ČUDOVITA LEGA NAD TREMI RIBNIKI",398.00,1988,,Agencija,450.000
+1910,hisa,,Samostojna,podravska,CIRKNICA,318.60,1995,,Agencija,319.000
+1911,hisa,,Samostojna,podravska,BOJTINA,178.10,1975,,Agencija,130.000
+1912,hisa,,Samostojna,podravska,KICAR,244.50,1987,,Agencija,139.000
+1913,hisa,,Samostojna,podravska,"PODLEHNIK, VRH GRIČA",42.00,1886,,Agencija,44.900
+1914,hisa,,Samostojna,podravska,PTUJ,258.10,2012,,Agencija,169.000
+1915,hisa,,Samostojna,podravska,"KRESNICA, ŠENTILJ V SLOV. GORICAH",43.00,1948,,Agencija,74.900
+1916,hisa,,Samostojna,podravska,"KOŠAKI, CENTER",455.13,1905,,Agencija,900.000
+1917,hisa,,Samostojna,podravska,MALEČNIK,120.00,1990,,Agencija,145.000
+1918,hisa,,Samostojna,podravska,"MAKOLE, STARI GRAD",84.00,1963,,Agencija,65.000
+1919,hisa,,Samostojna,podravska,ZGORNJA HAJDINA,70.00,1980,,Agencija,155.000
+1920,hisa,,Samostojna,podravska,LOČIČ,173.10,2023,,Agencija,249.000
+1921,hisa,,Drugo,podravska,POLJČANE,765.00,2012,,Agencija,590.000
+1922,hisa,,Samostojna,podravska,RAČE,75.00,1945,,Zasebna,115.000
+1923,hisa,,Samostojna,podravska,ZGORNJA KORENA,107.00,1964,,Agencija,120.000
+1924,hisa,,Samostojna,podravska,RUŠE,570.40,1980,,Agencija,510.000
+1925,hisa,,Dvojček,podravska,ŠENTILJ V SLOVENSKIH GORICAH,143.30,1960,,Agencija,135.000
+1926,hisa,,Drugo,podravska,"RAČE, OKOLICA",1.443.60,1960,,Agencija,450.000
+1927,hisa,,Drugo,podravska,SLOVENSKA BISTRICA,381.20,2022,,Agencija,275.000
+1928,hisa,,Samostojna,podravska,BUKOVCI,183.85,2006,,Agencija,360.000
+1929,hisa,,Samostojna,podravska,SREDIŠČE OB DRAVI,216.50,1952,,Agencija,85.800
+1930,hisa,,Samostojna,podravska,ROČICA,410.74,1990,,Agencija,169.000
+1931,hisa,,Samostojna,podravska,ŠENTILJ V SLOVENSKIH GORICAH,229.51,2022,,Agencija,295.900
+1932,hisa,,Samostojna,podravska,"SLOVENSKA BISTRICA, OKOLICA",250.00,1920,,Agencija,195.000
+1933,hisa,,Samostojna,podravska,"PTUJ, TRUBARJEVA 10",203.00,1900,,Zasebna,170.000
+1934,hisa,,Samostojna,podravska,TABOR,311.70,1930,,Agencija,430.000
+1935,hisa,,Samostojna,podravska,ZGORNJE HOČE,730.00,2018,,Agencija,1.050.000
+1936,hisa,,Samostojna,podravska,"ZGORNJE RADVANJE, ROŽNODOLSKI GAJ - LACKOVA CESTA",301.00,2022,,Agencija,528.114
+1937,hisa,,Samostojna,podravska,"PTUJ, GORIŠNICA",343.00,2007,,Agencija,450.000
+1938,hisa,,Samostojna,podravska,JELOVEC,348.00,1984,,Zasebna,310.000
+1939,hisa,,Vrstna,podravska,"NADBIŠEC, VOLČINA",124.00,1990,,Agencija,70.000
+1940,hisa,,Samostojna,podravska,VELIKA VARNICA,97.00,1958,,Agencija,63.000
+1941,hisa,,Dvojček,podravska,STUDENCI,65.60,1920,,Zasebna,165.000
+1942,hisa,,Samostojna,podravska,"PTUJ, DORNAVA",347.00,2012,,Agencija,480.000
+1943,hisa,,Samostojna,podravska,OPLOTNICA,261.70,1970,,Agencija,150.000
+1944,hisa,,Samostojna,podravska,GRUŠOVA,542.00,1989,,Agencija,1.199.000
+1945,hisa,,Samostojna,podravska,SODINCI,473.00,1984,,Agencija,215.000
+1946,hisa,,Samostojna,podravska,SLIVNIŠKO POHORJE,200.00,2004,,Zasebna,150.000
+1947,hisa,,Drugo,podravska,ŽVAB,550.00,1747,,Agencija,130.000
+1948,hisa,,Samostojna,podravska,"PRAGERSKO, PTUJSKA CESTA 49",180.00,1998,,Zasebna,168.500
+1949,hisa,,Trojček,podravska,"PEKRE, RADVANJE ROŽNODOLSKI GAJ",140.00,2022,,Agencija,349.900
+1950,hisa,,Samostojna,podravska,OSEK,121.00,1930,,Agencija,59.000
+1951,hisa,,Samostojna,podravska,DRAGOVIČ,77.00,1989,,Agencija,22.000
+1952,hisa,,Samostojna,podravska,SPODNJA SVEČA,29.60,1985,,Agencija,38.000
+1953,hisa,,Samostojna,podravska,"ZGORNJE RADVANJE, POD POHORJEM",300.00,2016,,Agencija,1.100.000
+1954,hisa,,Samostojna,podravska,TIBOLCI,500.00,2007,,Agencija,555.000
+1955,hisa,,Samostojna,podravska,"MIKLAVŽ PRI ORMOŽU, KAJŽAR",155.00,1950,,Agencija,149.000
+1956,hisa,,Samostojna,podravska,SLOVENSKA BISTRICA,360.00,1999,,Zasebna,450.000
+1957,hisa,,Dvostanovanjska,podravska,BREZULA,244.00,1984,,Agencija,350.000
+1958,hisa,,Dvostanovanjska,podravska,SLOVENSKA BISTRICA,320.00,1978,,Agencija,250.000
+1959,hisa,,Dvostanovanjska,podravska,"GAČNIK, PESNICA PRI MARIBORU",200.00,1999,,Zasebna,230.000
