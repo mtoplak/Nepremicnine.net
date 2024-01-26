@@ -8,7 +8,7 @@ Put your URLs of interest from [nepremicnine.net](https://www.nepremicnine.net/)
 npm install
 ```
 
-## Run
+## Run scraper
 
 ```bash
 node scraper.js
